@@ -1,0 +1,33 @@
+rede,camada_1,camada_2,pares,comum_obs,comum_nulo,comum_p95,jaccard_obs,jaccard_nulo,p_maior_igual
+atual,OPC,concessao,todos,5,11.091,15.0,0.1282051282051282,0.17805744060344508,1.0
+atual,OPC,concessao,sem Petrobras,2,4.651,7.0,0.08,0.10439133146846602,0.976
+atual,OPC,outros,todos,0,1.276,2.0,0.0,0.03533048004600025,1.0
+atual,OPC,outros,sem Petrobras,0,0.134,1.0,0.0,0.005921347646674105,1.0
+atual,OPC,partilha,todos,7,10.258,13.0,0.23333333333333334,0.19983913317985758,0.974
+atual,OPC,partilha,sem Petrobras,3,3.661,6.0,0.15789473684210525,0.10074162750429741,0.768
+atual,OPC,rodada_zero,todos,1,1.409,3.0,0.045454545454545456,0.0372971577525062,0.861
+atual,OPC,rodada_zero,sem Petrobras,0,0.117,1.0,0.0,0.004932170038356714,1.0
+atual,concessao,outros,todos,0,2.452,4.0,0.0,0.04676510280201715,1.0
+atual,concessao,outros,sem Petrobras,0,0.355,1.0,0.0,0.010463430210420035,1.0
+atual,concessao,partilha,todos,18,12.115,16.0,0.43902439024390244,0.1810158072579189,0.007
+atual,concessao,partilha,sem Petrobras,9,3.9,7.0,0.34615384615384615,0.08085320444180373,0.004
+atual,concessao,rodada_zero,todos,3,3.455,6.0,0.07142857142857142,0.06492716824407642,0.783
+atual,concessao,rodada_zero,sem Petrobras,0,0.546,2.0,0.0,0.015675894349724107,1.0
+atual,outros,partilha,todos,0,0.522,1.0,0.0,0.012251394269114603,1.0
+atual,outros,partilha,sem Petrobras,0,0.0,0.0,0.0,0.0,1.0
+atual,outros,rodada_zero,todos,2,1.597,3.0,0.09523809523809523,0.08286491239821635,0.483
+atual,outros,rodada_zero,sem Petrobras,0,0.102,1.0,0.0,0.011399658674658674,1.0
+atual,partilha,rodada_zero,todos,3,1.289,3.0,0.08571428571428572,0.029648267717838246,0.087
+atual,partilha,rodada_zero,sem Petrobras,0,0.031,0.0,0.0,0.0011822838248211247,1.0
+arremate,OPC,concessao,todos,7,12.368,16.0,0.15555555555555556,0.1352841530591699,1.0
+arremate,OPC,concessao,sem Petrobras,4,5.538,8.0,0.12903225806451613,0.08251216883656304,0.888
+arremate,OPC,outros,todos,2,5.557,7.0,0.08695652173913043,0.14702074006125743,1.0
+arremate,OPC,outros,sem Petrobras,0,1.919,3.0,0.0,0.08052682368829397,1.0
+arremate,OPC,partilha,todos,6,9.798,13.0,0.1935483870967742,0.18401640468800265,0.997
+arremate,OPC,partilha,sem Petrobras,2,3.549,6.0,0.1,0.09375249462296097,0.94
+arremate,concessao,outros,todos,5,5.862,8.0,0.09615384615384616,0.07000823718689236,0.899
+arremate,concessao,outros,sem Petrobras,1,1.369,3.0,0.02857142857142857,0.02358413247759184,0.825
+arremate,concessao,partilha,todos,14,14.973,19.0,0.2545454545454545,0.15849711625827587,0.746
+arremate,concessao,partilha,sem Petrobras,6,6.059,9.0,0.15384615384615385,0.08717876421220898,0.597
+arremate,outros,partilha,todos,2,2.049,3.0,0.05,0.04354308354853258,0.913
+arremate,outros,partilha,sem Petrobras,0,0.142,1.0,0.0,0.005018736040945692,1.0

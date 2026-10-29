@@ -1,0 +1,65 @@
+rede,grupo,total,excedentes_cessao_onerosa,oferta_permanente_concessao,oferta_permanente_partilha,outros,partilha_rodada,rodada_concessao,rodada_zero
+adjudicacao,Petrobras,136,7,45,5,13,11,55,0
+adjudicacao,Shell,66,2,38,1,4,8,13,0
+adjudicacao,ExxonMobil,35,0,16,0,4,5,10,0
+adjudicacao,TotalEnergies,35,5,0,3,0,6,21,0
+adjudicacao,Galp,23,0,3,0,0,5,15,0
+adjudicacao,BG,18,0,0,0,0,0,18,0
+adjudicacao,Chevron,18,0,9,0,4,0,5,0
+adjudicacao,Enauta,18,0,6,0,0,0,12,0
+adjudicacao,CNPC,16,2,9,0,0,5,0,0
+adjudicacao,Murphy,14,0,6,0,0,0,8,0
+adjudicacao,QatarEnergy,14,3,0,3,0,0,8,0
+adjudicacao,BP,13,0,0,0,0,1,12,0
+adjudicacao,CNOOC,13,2,6,1,0,4,0,0
+adjudicacao,Equinor,13,0,0,1,0,5,7,0
+adjudicacao,Repsol,10,0,0,0,0,2,8,0
+adjudicacao,Ecopetrol,9,0,6,0,0,2,1,0
+adjudicacao,Petronas,8,3,0,3,0,0,2,0
+adjudicacao,Devon,7,0,0,0,0,0,7,0
+adjudicacao,SK,7,0,0,0,0,0,7,0
+adjudicacao,Brava Energia,5,0,0,0,5,0,0,0
+adjudicacao,Kerr-McGee,5,0,0,0,0,0,5,0
+adjudicacao,Encana,4,0,0,0,0,0,4,0
+adjudicacao,Hess,4,0,0,0,0,0,4,0
+adjudicacao,Pacific Brasil,4,0,0,0,0,0,4,0
+adjudicacao,Coplex Petróleo do Brasil Ltda.,3,0,0,0,3,0,0,0
+adjudicacao,Enterprise Oil,3,0,0,0,0,0,3,0
+adjudicacao,Starfish Oil & Gás S/A,3,0,0,0,3,0,0,0
+adjudicacao,Anadarko,2,0,0,0,0,0,2,0
+adjudicacao,Occidental,2,0,0,0,2,0,0,0
+adjudicacao,Odebrecht,2,0,0,0,0,0,2,0
+adjudicacao,Petroserv S/A,2,0,0,0,2,0,0,0
+adjudicacao,Premier Oil,2,0,0,0,0,0,2,0
+adjudicacao,El Paso,1,0,0,0,0,0,1,0
+adjudicacao,Sinopec,1,0,0,1,0,0,0,0
+atual,Petrobras,118,7,45,5,4,11,33,13
+atual,Shell,83,2,38,1,2,7,31,2
+atual,Galp,24,0,3,0,0,5,16,0
+atual,ExxonMobil,21,0,12,0,0,5,4,0
+atual,TotalEnergies,21,5,2,3,0,4,7,0
+atual,CNPC,16,2,9,0,0,5,0,0
+atual,QatarEnergy,16,3,2,3,0,0,8,0
+atual,CNOOC,13,2,6,1,0,4,0,0
+atual,Chevron,13,0,9,0,0,0,4,0
+atual,Ecopetrol,13,0,6,0,0,1,6,0
+atual,Equinor,13,0,0,1,0,5,6,1
+atual,Brava Energia,12,0,2,0,6,0,0,4
+atual,Repsol,12,0,0,0,0,2,9,1
+atual,Petronas,10,3,0,3,0,0,3,1
+atual,PRIO,7,0,0,0,0,0,3,4
+atual,Panoro Energy,6,0,0,0,2,0,0,4
+atual,BP,4,0,0,0,0,1,3,0
+atual,BS-3 S/A,3,0,0,0,0,0,0,3
+atual,ONGC,3,0,0,0,2,0,1,0
+atual,Brasoil,2,0,0,0,2,0,0,0
+atual,Gas Bridge,2,0,0,0,2,0,0,0
+atual,IBV Brasil,2,0,0,0,0,0,2,0
+atual,Murphy,2,0,2,0,0,0,0,0
+atual,Sinopec,2,0,0,1,0,0,1,0
+atual,Aquamarine,1,0,0,0,0,0,1,0
+atual,BW Energy,1,0,0,0,0,0,1,0
+atual,Karoon,1,0,0,0,0,0,1,0
+atual,Nova Técnica,1,0,0,0,1,0,0,0
+atual,SPE Tiêta,1,0,0,0,0,0,0,1
+atual,Westlawn Energia,1,0,0,0,1,0,0,0

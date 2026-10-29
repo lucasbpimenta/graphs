@@ -1,0 +1,157 @@
+u,v,rodada,peso
+BG,Chevron,2,1
+BG,Galp,2,1
+BG,Galp,11,4
+BG,Petrobras,2,3
+BG,Petrobras,7,2
+BG,Petrobras,11,4
+BG,Repsol Sinopec,7,3
+BG,YPF,2,1
+BP,British-Borneo,1,1
+BP,Equinor,15,2
+BP,ExxonMobil,1,1
+BP,Galp,11,1
+BP,Petrobras,1,1
+BP,Petrobras,11,7
+BP,Petrobras,16,1
+BP,Shell,1,1
+BP,TotalEnergies,11,6
+Brasoil,Panoro Energy,9,3
+British-Borneo,ExxonMobil,1,1
+British-Borneo,Petrobras,1,1
+British-Borneo,Shell,1,1
+Cepsa,Premier Oil,11,2
+Chevron,Ecopetrol,11,1
+Chevron,Galp,15,1
+Chevron,Petrobras,2,2
+Chevron,QatarEnergy,16,2
+Chevron,Repsol,15,3
+Chevron,Repsol,16,3
+Chevron,Shell,15,1
+Chevron,Shell,16,2
+Chevron,Unocal,1,1
+Chevron,Wintershall,15,3
+Chevron,Wintershall,16,2
+Chevron,YPF,1,1
+Coastal,Encana,2,1
+Devon,Encana,6,1
+Devon,Kerr-McGee,6,2
+Devon,Petrobras,7,3
+Devon,SK,6,2
+Ecopetrol,Galp,9,1
+Ecopetrol,Petrobras,9,6
+Ecopetrol,Shell,17,1
+Ecopetrol,Vale,9,4
+El Paso,Enauta,3,2
+El Paso,Enauta,6,2
+El Paso,Petrobras,3,3
+El Paso,Petrobras,4,2
+El Paso,Petrobras,6,2
+El Paso,Petroserv S/A,3,2
+El Paso,Unocal,4,1
+Enauta,Equinor,11,2
+Enauta,ExxonMobil,14,2
+Enauta,ExxonMobil,15,2
+Enauta,Galp,9,3
+Enauta,Murphy,14,2
+Enauta,Murphy,15,2
+Enauta,OGX/Dommo,11,1
+Enauta,Pacific Brasil,11,3
+Enauta,Petra Energia,11,2
+Enauta,Petrobras,3,3
+Enauta,Petrobras,6,2
+Enauta,Petrobras,9,3
+Enauta,Petrobras,11,2
+Enauta,Petroserv S/A,3,2
+Enauta,Premier Oil,11,1
+Enauta,TotalEnergies,11,1
+Encana,Galp,7,2
+Encana,Kerr-McGee,6,4
+Encana,Petrobras,6,7
+Encana,Petrobras,7,2
+Encana,SK,6,1
+Eni,Petrobras,1,1
+Eni,YPF,1,2
+Enterprise Oil,Equinor,3,2
+Enterprise Oil,Petrobras,3,2
+Enterprise Oil,Repsol Sinopec,3,1
+Enterprise Oil,Shell,3,1
+Enterprise Oil,TotalEnergies,3,1
+Equinor,ExxonMobil,15,2
+Equinor,Petrobras,3,1
+Equinor,Petrobras,4,1
+Equinor,Petrobras,6,5
+Equinor,Petrobras,7,1
+Equinor,Petrobras,11,6
+Equinor,Petrobras,15,2
+Equinor,Repsol Sinopec,3,1
+Equinor,Repsol Sinopec,7,1
+Equinor,Sinochem,9,2
+Equinor,TotalEnergies,11,3
+ExxonMobil,Kerr-McGee,3,1
+ExxonMobil,Murphy,14,2
+ExxonMobil,Murphy,15,2
+ExxonMobil,OGX/Dommo,11,2
+ExxonMobil,Petrobras,1,1
+ExxonMobil,Petrobras,3,1
+ExxonMobil,Petrobras,14,6
+ExxonMobil,Petrobras,15,4
+ExxonMobil,QatarEnergy,15,4
+ExxonMobil,Shell,1,1
+Galp,Petrobras,2,2
+Galp,Petrobras,3,1
+Galp,Petrobras,7,6
+Galp,Petrobras,9,7
+Galp,Petrobras,11,5
+Galp,Shell,2,1
+Galp,Shell,15,1
+Hess,Kerr-McGee,1,1
+Hess,Ocean Energy,3,2
+Hess,Odebrecht,2,1
+Hess,Petrobras,1,1
+Hess,Petrobras,2,1
+Hess,Repsol Sinopec,7,1
+Kerr-McGee,Petrobras,1,1
+Kerr-McGee,Petrobras,3,1
+Kerr-McGee,Petrobras,6,4
+Kerr-McGee,SK,6,2
+Maersk Oil,OGX/Dommo,9,2
+Maersk Oil,Petrobras,5,1
+Maersk Oil,Petrobras,9,2
+Maersk Oil,Vale,9,2
+Niko Resources,Petra Energia,11,2
+OGX/Dommo,Perenco,9,5
+OGX/Dommo,TotalEnergies,11,1
+Odebrecht,SK,2,1
+Odebrecht,Santa Fe Snyder,2,1
+Pacific Brasil,Premier Oil,11,1
+Partex,Petrobras,4,1
+Petrobras,Petroserv S/A,3,2
+Petrobras,QatarEnergy,15,2
+Petrobras,Repsol,6,1
+Petrobras,Repsol Sinopec,6,3
+Petrobras,Repsol Sinopec,7,2
+Petrobras,SHB,9,1
+Petrobras,Shell,1,1
+Petrobras,Shell,2,1
+Petrobras,Shell,3,1
+Petrobras,Shell,4,1
+Petrobras,Shell,6,6
+Petrobras,Shell,7,3
+Petrobras,Shell,15,2
+Petrobras,TotalEnergies,3,1
+Petrobras,TotalEnergies,11,8
+Petrobras,Unocal,4,1
+Petrobras,Vale,9,7
+Petrobras,YPF,1,2
+Petrobras,YPF,2,1
+Petronas,QatarEnergy,16,1
+Petronas,TotalEnergies,16,1
+QatarEnergy,Shell,16,2
+QatarEnergy,TotalEnergies,16,1
+Repsol,Shell,6,1
+Repsol,Wintershall,15,3
+Repsol,Wintershall,16,2
+SK,Santa Fe Snyder,2,1
+Shell,TotalEnergies,3,1
+Unocal,YPF,1,1

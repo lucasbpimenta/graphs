@@ -1,0 +1,67 @@
+u,v,tipo,peso_arremate,mantida,peso_atual
+BP,Petrobras,nucleo-periferia,8,True,4
+BP,TotalEnergies,nucleo-periferia,5,False,0
+Petrobras,Brava Energia,nucleo-periferia,2,True,5
+Petrobras,CNOOC,nucleo-nucleo,5,True,5
+Petrobras,CNPC,nucleo-nucleo,3,True,3
+Petrobras,Chevron,nucleo-nucleo,4,False,0
+Petrobras,Coplex Petróleo do Brasil Ltda.,nucleo-periferia,1,False,0
+Petrobras,El Paso,nucleo-periferia,1,False,0
+Petrobras,Encana,nucleo-periferia,1,False,0
+Petrobras,Equinor,nucleo-nucleo,5,True,4
+Petrobras,ExxonMobil,nucleo-nucleo,14,True,12
+Petrobras,Galp,nucleo-nucleo,12,True,11
+Petrobras,Hess,nucleo-periferia,3,False,0
+Petrobras,Occidental,nucleo-periferia,2,False,0
+Petrobras,Petronas,nucleo-periferia,2,True,4
+Petrobras,Petroserv S/A,nucleo-periferia,1,False,0
+Petrobras,QatarEnergy,nucleo-nucleo,3,True,3
+Petrobras,Repsol,nucleo-periferia,5,True,5
+Petrobras,Shell,nucleo-nucleo,49,True,45
+Petrobras,Starfish Oil & Gás S/A,nucleo-periferia,1,False,0
+Petrobras,TotalEnergies,nucleo-nucleo,13,True,5
+TotalEnergies,CNOOC,nucleo-nucleo,1,True,1
+TotalEnergies,CNPC,nucleo-nucleo,1,True,1
+TotalEnergies,Ecopetrol,nucleo-periferia,1,False,0
+TotalEnergies,Equinor,nucleo-nucleo,3,False,0
+TotalEnergies,Petronas,nucleo-periferia,3,True,3
+TotalEnergies,QatarEnergy,nucleo-nucleo,3,True,5
+TotalEnergies,Shell,nucleo-nucleo,4,True,4
+Brava Energia,Coplex Petróleo do Brasil Ltda.,periferia-periferia,1,False,0
+Brava Energia,ExxonMobil,nucleo-periferia,7,True,1
+Brava Energia,Murphy,periferia-periferia,7,True,1
+Brava Energia,Pacific Brasil,periferia-periferia,3,False,0
+Brava Energia,Petroserv S/A,periferia-periferia,1,False,0
+Brava Energia,Premier Oil,periferia-periferia,1,False,0
+Brava Energia,Starfish Oil & Gás S/A,periferia-periferia,1,False,0
+Coplex Petróleo do Brasil Ltda.,Starfish Oil & Gás S/A,periferia-periferia,1,False,0
+ExxonMobil,Equinor,nucleo-nucleo,2,True,3
+ExxonMobil,Galp,nucleo-nucleo,2,True,3
+ExxonMobil,Murphy,nucleo-periferia,7,True,1
+ExxonMobil,Occidental,nucleo-periferia,1,False,0
+ExxonMobil,QatarEnergy,nucleo-nucleo,1,True,1
+ExxonMobil,Shell,nucleo-nucleo,1,False,0
+Pacific Brasil,Premier Oil,periferia-periferia,1,False,0
+CNOOC,CNPC,nucleo-nucleo,2,True,2
+CNOOC,Shell,nucleo-nucleo,4,True,4
+CNOOC,Sinopec,nucleo-periferia,1,True,1
+CNPC,Chevron,nucleo-nucleo,9,True,9
+CNPC,Shell,nucleo-nucleo,1,True,1
+Shell,Chevron,nucleo-nucleo,3,True,2
+Shell,Ecopetrol,nucleo-periferia,8,True,13
+Shell,Galp,nucleo-nucleo,7,True,6
+Shell,QatarEnergy,nucleo-nucleo,2,True,2
+Shell,Repsol,nucleo-periferia,4,True,4
+Chevron,QatarEnergy,nucleo-nucleo,2,True,2
+QatarEnergy,Petronas,nucleo-periferia,3,True,3
+Devon,Encana,periferia-periferia,1,False,0
+Devon,Occidental,periferia-periferia,2,False,0
+Devon,Odebrecht,periferia-periferia,1,False,0
+Devon,SK,periferia-periferia,3,False,0
+Encana,Occidental,periferia-periferia,1,False,0
+Encana,SK,periferia-periferia,1,False,0
+Occidental,Hess,periferia-periferia,1,False,0
+Occidental,SK,periferia-periferia,2,False,0
+Odebrecht,SK,periferia-periferia,1,False,0
+Equinor,Galp,nucleo-nucleo,2,True,3
+Equinor,Repsol,nucleo-periferia,1,True,1

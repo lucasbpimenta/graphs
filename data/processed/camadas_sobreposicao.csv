@@ -1,0 +1,17 @@
+rede,camada_1,camada_2,pares_1,pares_2,em_comum,jaccard,pares_comuns
+atual,OPC,concessao,11,33,5,0.1282051282051282,Ecopetrol-Shell; ExxonMobil-Petrobras; Galp-Petrobras; Petrobras-Shell; QatarEnergy-TotalEnergies
+atual,OPC,outros,11,11,0,0.0,
+atual,OPC,partilha,11,26,7,0.23333333333333334,CNOOC-Petrobras; CNOOC-Shell; Ecopetrol-Shell; ExxonMobil-Petrobras; Galp-Petrobras; Petrobras-Shell; QatarEnergy-TotalEnergies
+atual,OPC,rodada_zero,11,12,1,0.045454545454545456,Petrobras-Shell
+atual,concessao,outros,33,11,0,0.0,
+atual,concessao,partilha,33,26,18,0.43902439024390244,BP-Petrobras; Ecopetrol-Shell; Equinor-ExxonMobil; Equinor-Galp; Equinor-Petrobras; ExxonMobil-Galp; ExxonMobil-Petrobras; Galp-Petrobras; Petrobras-Petronas; Petrobras-QatarEnergy; Petrobras-Repsol; Petrobras-Shell; Petrobras-TotalEnergies; Petronas-QatarEnergy; Petronas-TotalEnergies; QatarEnergy-TotalEnergies; Repsol-Shell; Shell-TotalEnergies
+atual,concessao,rodada_zero,33,12,3,0.07142857142857142,Equinor-Petrobras; Petrobras-Petronas; Petrobras-Shell
+atual,outros,partilha,11,26,0,0.0,
+atual,outros,rodada_zero,11,12,2,0.09523809523809523,Brava Energia-Petrobras; Panoro Energy-Petrobras
+atual,partilha,rodada_zero,26,12,3,0.08571428571428572,Equinor-Petrobras; Petrobras-Petronas; Petrobras-Shell
+arremate,OPC,concessao,10,42,7,0.15555555555555556,Brava Energia-ExxonMobil; Brava Energia-Murphy; Ecopetrol-Shell; ExxonMobil-Murphy; ExxonMobil-Petrobras; Galp-Petrobras; Petrobras-Shell
+arremate,OPC,outros,10,15,2,0.08695652173913043,ExxonMobil-Petrobras; Petrobras-Shell
+arremate,OPC,partilha,10,27,6,0.1935483870967742,CNOOC-Petrobras; CNOOC-Shell; Ecopetrol-Shell; ExxonMobil-Petrobras; Galp-Petrobras; Petrobras-Shell
+arremate,concessao,outros,42,15,5,0.09615384615384616,Chevron-Petrobras; Chevron-Shell; ExxonMobil-Petrobras; Occidental-Petrobras; Petrobras-Shell
+arremate,concessao,partilha,42,27,14,0.2545454545454545,BP-Petrobras; Ecopetrol-Shell; Equinor-Petrobras; ExxonMobil-Petrobras; Galp-Petrobras; Petrobras-QatarEnergy; Petrobras-Repsol; Petrobras-Shell; Petrobras-TotalEnergies; Petronas-QatarEnergy; Petronas-TotalEnergies; QatarEnergy-TotalEnergies; Repsol-Shell; Shell-TotalEnergies
+arremate,outros,partilha,15,27,2,0.05,ExxonMobil-Petrobras; Petrobras-Shell

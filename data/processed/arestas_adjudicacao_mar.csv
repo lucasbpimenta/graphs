@@ -1,0 +1,119 @@
+u,v,regime,peso
+Anadarko,Devon,rodada_concessao,1
+Anadarko,SK,rodada_concessao,1
+BG,Galp,rodada_concessao,6
+BG,Petrobras,rodada_concessao,9
+BG,Repsol Sinopec,rodada_concessao,1
+BG,YPF,rodada_concessao,2
+BP,Petrobras,partilha_rodada,1
+BP,Petrobras,rodada_concessao,7
+BP,TotalEnergies,rodada_concessao,5
+CNOOC,CNPC,excedentes_cessao_onerosa,1
+CNOOC,CNPC,partilha_rodada,1
+CNOOC,Petrobras,excedentes_cessao_onerosa,1
+CNOOC,Petrobras,oferta_permanente_concessao,3
+CNOOC,Petrobras,partilha_rodada,1
+CNOOC,Shell,oferta_permanente_concessao,3
+CNOOC,Shell,partilha_rodada,1
+CNOOC,Sinopec,oferta_permanente_partilha,1
+CNOOC,TotalEnergies,partilha_rodada,1
+CNPC,Chevron,oferta_permanente_concessao,9
+CNPC,Petrobras,excedentes_cessao_onerosa,1
+CNPC,Petrobras,partilha_rodada,2
+CNPC,Shell,partilha_rodada,1
+CNPC,TotalEnergies,partilha_rodada,1
+Chevron,Petrobras,outros,3
+Chevron,Petrobras,rodada_concessao,1
+Chevron,QatarEnergy,rodada_concessao,2
+Chevron,Shell,outros,1
+Chevron,Shell,rodada_concessao,2
+Coplex Petróleo do Brasil Ltda.,Enauta,outros,1
+Coplex Petróleo do Brasil Ltda.,Petrobras,outros,1
+Coplex Petróleo do Brasil Ltda.,Starfish Oil & Gás S/A,outros,1
+Devon,Encana,rodada_concessao,1
+Devon,Kerr-McGee,rodada_concessao,1
+Devon,SK,rodada_concessao,2
+Ecopetrol,Shell,oferta_permanente_concessao,6
+Ecopetrol,Shell,partilha_rodada,1
+Ecopetrol,Shell,rodada_concessao,1
+Ecopetrol,TotalEnergies,partilha_rodada,1
+El Paso,Petrobras,rodada_concessao,1
+Enauta,ExxonMobil,oferta_permanente_concessao,3
+Enauta,ExxonMobil,rodada_concessao,4
+Enauta,Murphy,oferta_permanente_concessao,3
+Enauta,Murphy,rodada_concessao,4
+Enauta,Pacific Brasil,rodada_concessao,3
+Enauta,Petrobras,outros,2
+Enauta,Petroserv S/A,outros,1
+Enauta,Premier Oil,rodada_concessao,1
+Enauta,Starfish Oil & Gás S/A,outros,1
+Encana,Kerr-McGee,rodada_concessao,1
+Encana,Petrobras,rodada_concessao,1
+Encana,SK,rodada_concessao,1
+Enterprise Oil,Petrobras,rodada_concessao,1
+Enterprise Oil,Shell,rodada_concessao,1
+Enterprise Oil,TotalEnergies,rodada_concessao,1
+Equinor,ExxonMobil,partilha_rodada,2
+Equinor,Galp,partilha_rodada,2
+Equinor,Petrobras,oferta_permanente_partilha,1
+Equinor,Petrobras,partilha_rodada,1
+Equinor,Petrobras,rodada_concessao,3
+Equinor,Repsol,rodada_concessao,1
+Equinor,TotalEnergies,rodada_concessao,3
+ExxonMobil,Galp,partilha_rodada,2
+ExxonMobil,Kerr-McGee,outros,1
+ExxonMobil,Murphy,oferta_permanente_concessao,3
+ExxonMobil,Murphy,rodada_concessao,4
+ExxonMobil,Petrobras,oferta_permanente_concessao,10
+ExxonMobil,Petrobras,outros,2
+ExxonMobil,Petrobras,partilha_rodada,1
+ExxonMobil,Petrobras,rodada_concessao,1
+ExxonMobil,QatarEnergy,rodada_concessao,1
+ExxonMobil,Shell,outros,1
+Galp,Petrobras,oferta_permanente_concessao,3
+Galp,Petrobras,partilha_rodada,1
+Galp,Petrobras,rodada_concessao,8
+Galp,Shell,rodada_concessao,1
+Hess,Kerr-McGee,rodada_concessao,1
+Hess,Petrobras,rodada_concessao,3
+Kerr-McGee,Petrobras,outros,1
+Kerr-McGee,Petrobras,rodada_concessao,1
+Kerr-McGee,SK,rodada_concessao,1
+Odebrecht,SK,rodada_concessao,1
+Odebrecht,Santa Fe Snyder,rodada_concessao,1
+Pacific Brasil,Premier Oil,rodada_concessao,1
+Petrobras,Petronas,excedentes_cessao_onerosa,1
+Petrobras,Petronas,oferta_permanente_partilha,1
+Petrobras,Petroserv S/A,outros,1
+Petrobras,QatarEnergy,excedentes_cessao_onerosa,1
+Petrobras,QatarEnergy,oferta_permanente_partilha,1
+Petrobras,QatarEnergy,rodada_concessao,1
+Petrobras,Repsol Sinopec,partilha_rodada,1
+Petrobras,Repsol Sinopec,rodada_concessao,2
+Petrobras,Shell,excedentes_cessao_onerosa,1
+Petrobras,Shell,oferta_permanente_concessao,29
+Petrobras,Shell,oferta_permanente_partilha,1
+Petrobras,Shell,outros,2
+Petrobras,Shell,partilha_rodada,2
+Petrobras,Shell,rodada_concessao,5
+Petrobras,Starfish Oil & Gás S/A,outros,1
+Petrobras,TotalEnergies,excedentes_cessao_onerosa,2
+Petrobras,TotalEnergies,oferta_permanente_partilha,1
+Petrobras,TotalEnergies,partilha_rodada,1
+Petrobras,TotalEnergies,rodada_concessao,9
+Petrobras,YPF,rodada_concessao,2
+Petronas,QatarEnergy,excedentes_cessao_onerosa,1
+Petronas,QatarEnergy,oferta_permanente_partilha,1
+Petronas,QatarEnergy,rodada_concessao,1
+Petronas,TotalEnergies,excedentes_cessao_onerosa,1
+Petronas,TotalEnergies,oferta_permanente_partilha,1
+Petronas,TotalEnergies,rodada_concessao,1
+QatarEnergy,Shell,rodada_concessao,2
+QatarEnergy,TotalEnergies,excedentes_cessao_onerosa,1
+QatarEnergy,TotalEnergies,oferta_permanente_partilha,1
+QatarEnergy,TotalEnergies,rodada_concessao,1
+Repsol Sinopec,Shell,partilha_rodada,1
+SK,Santa Fe Snyder,rodada_concessao,1
+Shell,TotalEnergies,excedentes_cessao_onerosa,1
+Shell,TotalEnergies,partilha_rodada,2
+Shell,TotalEnergies,rodada_concessao,1

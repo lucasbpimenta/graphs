@@ -1,0 +1,1103 @@
+contrato,chave,bid,regime,ano_leilao,area,bacia,ambiente,fase,cnpj,nome_bruto,empresa,grupo,participacao,operador,lamina,fonte_lamina,pre_sal_legal
+48610009275200571,009275/2005,AM1,acumulacoes_marginais,2005.0,Carapitanga,Sergipe,Terra,Produção,11210501000119,EPG Brasil,EPG Brasil Ltda.,EPG Brasil Ltda.,100.0,True,,,False
+48610009278200511,009278/2005,AM1,acumulacoes_marginais,2005.0,Foz do Vaza Barris,Sergipe,Terra,Produção,04054366000102,Guto & Cacal,Guto & Cacal,Guto & Cacal,100.0,True,,,False
+48610009279200558,009279/2005,AM1,acumulacoes_marginais,2005.0,Tigre,Sergipe,Terra,Produção,15596829000176,Petroil,Petroil,Petroil,100.0,True,,,False
+48610009282200571,009282/2005,AM1,acumulacoes_marginais,2005.0,Jiribatuba,Camamu,Terra,Produção,08839018000193,Brasil Refinarias,Brasil Refinarias,Brasil Refinarias,100.0,True,,,False
+48610009283200516,009283/2005,AM1,acumulacoes_marginais,2005.0,Morro do Barro,Camamu,Terra,Produção,33400769000156,Creative Energy,Creative Energy,Creative Energy,100.0,True,,,False
+48610009284200561,009284/2005,AM1,acumulacoes_marginais,2005.0,Cidade de Aracaju,Sergipe,Terra,Produção,11210501000119,EPG Brasil,EPG Brasil Ltda.,EPG Brasil Ltda.,100.0,True,,,False
+48610009285200513,009285/2005,AM1,acumulacoes_marginais,2005.0,Bom Lugar,Recôncavo,Terra,Produção,15240822000117,Alvopetro,Alvopetro,Alvopetro,100.0,True,,,False
+48610009288200549,009288/2005,AM1,acumulacoes_marginais,2005.0,Sempre Viva,Tucano Sul,Terra,Produção,12432261000160,Oceania,Oceania,Oceania,100.0,True,,,False
+48610009289200593,009289/2005,AM1,acumulacoes_marginais,2005.0,Araças Leste,Recôncavo,Terra,Produção,17186461000101,Egesa,Egesa,Egesa,100.0,True,,,False
+48610007479200657,007479/2006,AM2,acumulacoes_marginais,2006.0,RIO DO CARMO,Potiguar,Terra,Avaliação,32528443000146,Phoenix Óleo & Gás,Phoenix Óleo & Gás,Phoenix Óleo & Gás,100.0,True,,,False
+48610007480200681,007480/2006,AM2,acumulacoes_marginais,2006.0,RIACHO VELHO,Potiguar,Terra,Produção,22771986000136,Leros,Leros,Leros,100.0,True,,,False
+48610007481200626,007481/2006,AM2,acumulacoes_marginais,2006.0,CHAUÁ,Potiguar,Terra,Avaliação,08270816000147,Allpetro,Allpetro,Allpetro,100.0,True,,,False
+48610007482200671,007482/2006,AM2,acumulacoes_marginais,2006.0,RIO IPIRANGA,Espírito Santo,Terra,Produção,00271847000100,Imetame,Imetame,Imetame,50.0,True,,,False
+48610007482200671,007482/2006,AM2,acumulacoes_marginais,2006.0,RIO IPIRANGA,Espírito Santo,Terra,Produção,19285411000107,IPI,IPI,IPI,50.0,False,,,False
+48610007483200615,007483/2006,AM2,acumulacoes_marginais,2006.0,Espigão,Barreirinhas,Terra,Avaliação,11844597000177,Espigão,Espigão,Espigão,100.0,True,,,False
+48610007484200661,007484/2006,AM2,acumulacoes_marginais,2006.0,CREJOÁ,Espírito Santo,Terra,Produção,40194755000199,Tarmar,Tarmar,Tarmar,100.0,True,,,False
+48610007485200612,007485/2006,AM2,acumulacoes_marginais,2006.0,SÃO MANOEL,Potiguar,Terra,Produção,11205119000117,Arclima,Arclima,Arclima,100.0,True,,,False
+48610007487200611,007487/2006,AM2,acumulacoes_marginais,2006.0,Oeste de Canoas,Barreirinhas,Terra,Avaliação,11285456000161,Oeste de Canoas,Oeste de Canoas,Oeste de Canoas,100.0,True,,,False
+48610007488200648,007488/2006,AM2,acumulacoes_marginais,2006.0,Porto do Mangue,Potiguar,Terra,Avaliação,08834891000193,Máxima 07,Máxima 07,Máxima 07,100.0,True,,,False
+48610007063201791,007063/2017,AM4,acumulacoes_marginais,,Vale do Quiricó,Recôncavo,Terra,Exploração,25315943000134,Energizzi Energias,Energizzi Energias,Energizzi Energias,100.0,True,,,False
+48610007064201736,007064/2017,AM4,acumulacoes_marginais,,Garça Branca,Espírito Santo,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610007065201781,007065/2017,AM4,acumulacoes_marginais,,Rio Mariricu,Espírito Santo,Terra,Exploração,05002889000160,Mandacaru Energia,Mandacaru Energia,Mandacaru Energia,100.0,True,,,False
+48610007066201725,007066/2017,AM4,acumulacoes_marginais,,Urutau,Potiguar,Terra,Exploração,05002889000160,Mandacaru Energia,Mandacaru Energia,Mandacaru Energia,100.0,True,,,False
+48610007067201770,007067/2017,AM4,acumulacoes_marginais,,Iraúna,Potiguar,Terra,Exploração,45832752000157,Níon Energia,Níon Energia S.A.,Níon Energia S.A.,100.0,True,,,False
+48610007068201714,007068/2017,AM4,acumulacoes_marginais,,Araçás Leste,Recôncavo,Terra,Exploração,08839018000193,Brasil Refinarias,Brasil Refinarias,Brasil Refinarias,100.0,True,,,False
+48610007069201769,007069/2017,AM4,acumulacoes_marginais,,Itaparica,Recôncavo,Terra,Exploração,32385032000149,Geoflux,Geoflux,Geoflux,40.0,True,,,False
+48610007069201769,007069/2017,AM4,acumulacoes_marginais,,Itaparica,Recôncavo,Terra,Exploração,55372111000110,Rubicão,Rubicão,Rubicão,60.0,False,,,False
+48610007070201793,007070/2017,AM4,acumulacoes_marginais,,Jacumirim,Recôncavo,Terra,Exploração,08839018000193,Brasil Refinarias,Brasil Refinarias,Brasil Refinarias,100.0,True,,,False
+480000036279718,003627/1997,BID0,rodada_zero,1998.0,LUC,Solimões,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036289781,003628/1997,BID0,rodada_zero,1998.0,RUC,Solimões,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036299743,003629/1997,BID0,rodada_zero,1998.0,AG,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,,,False
+480000036309722,003630/1997,BID0,rodada_zero,1998.0,APR,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036319795,003631/1997,BID0,rodada_zero,1998.0,AR,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036329758,003632/1997,BID0,rodada_zero,1998.0,A,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,,,False
+480000036339711,003633/1997,BID0,rodada_zero,1998.0,ME,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,,,False
+480000036359746,003635/1997,BID0,rodada_zero,1998.0,BA,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036369717,003636/1997,BID0,rodada_zero,1998.0,BJ,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036379771,003637/1997,BID0,rodada_zero,1998.0,CB,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036389734,003638/1997,BID0,rodada_zero,1998.0,C,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,,,False
+480000036399705,003639/1997,BID0,rodada_zero,1998.0,CGL,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036409786,003640/1997,BID0,rodada_zero,1998.0,CS,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036419749,003641/1997,BID0,rodada_zero,1998.0,CX,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,,,False
+480000036429710,003642/1997,BID0,rodada_zero,1998.0,CER,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036449737,003644/1997,BID0,rodada_zero,1998.0,DJ,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,,,False
+480000036459708,003645/1997,BID0,rodada_zero,1998.0,DJM,Recôncavo,Mar,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,rasa,cessoes,False
+480000036469762,003646/1997,BID0,rodada_zero,1998.0,FAV,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036479725,003647/1997,BID0,rodada_zero,1998.0,FA,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036489798,003648/1997,BID0,rodada_zero,1998.0,FBM,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036499751,003649/1997,BID0,rodada_zero,1998.0,FBL,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036509730,003650/1997,BID0,rodada_zero,1998.0,FBE,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036519701,003651/1997,BID0,rodada_zero,1998.0,FI,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036529765,003652/1997,BID0,rodada_zero,1998.0,FO,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036539728,003653/1997,BID0,rodada_zero,1998.0,FP,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036549791,003654/1997,BID0,rodada_zero,1998.0,FRB,Recôncavo,Terra,Produção,16607122000180,Nova Petróleo,Nova Petróleo,Nova Petróleo,100.0,True,,,False
+480000036559753,003655/1997,BID0,rodada_zero,1998.0,FSE,Recôncavo,Terra,Produção,16607122000180,Nova Petróleo,Nova Petróleo,Nova Petróleo,100.0,True,,,False
+480000036569716,003656/1997,BID0,rodada_zero,1998.0,GO,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036579789,003657/1997,BID0,rodada_zero,1998.0,IB,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,,,False
+480000036589741,003658/1997,BID0,rodada_zero,1998.0,BSU,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,,,False
+480000036599712,003659/1997,BID0,rodada_zero,1998.0,I,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036609793,003660/1997,BID0,rodada_zero,1998.0,JA,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036639781,003663/1997,BID0,rodada_zero,1998.0,LV,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036649744,003664/1997,BID0,rodada_zero,1998.0,LM,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036659715,003665/1997,BID0,rodada_zero,1998.0,LE,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036669770,003666/1997,BID0,rodada_zero,1998.0,ML,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036679732,003667/1997,BID0,rodada_zero,1998.0,MDU,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036689703,003668/1997,BID0,rodada_zero,1998.0,MP,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036699768,003669/1997,BID0,rodada_zero,1998.0,MUI,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,,,False
+480000036709747,003670/1997,BID0,rodada_zero,1998.0,MJ,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036719718,003671/1997,BID0,rodada_zero,1998.0,RO,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036729772,003672/1997,BID0,rodada_zero,1998.0,BB,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036739735,003673/1997,BID0,rodada_zero,1998.0,MG,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036749706,003674/1997,BID0,rodada_zero,1998.0,RPP,Recôncavo,Terra,Produção,40768701000190,SPE Miranga,SPE Miranga S.A.,SPE Miranga S.A.,100.0,True,,,False
+480000036769723,003676/1997,BID0,rodada_zero,1998.0,MGN,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036779796,003677/1997,BID0,rodada_zero,1998.0,NFC,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036789759,003678/1997,BID0,rodada_zero,1998.0,PDR,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,,,False
+480000036799711,003679/1997,BID0,rodada_zero,1998.0,PC,Recôncavo,Terra,Produção,35156290000141,3R Rio Ventura,3R Petroleum,Brava Energia,100.0,True,,,False
+480000036809709,003680/1997,BID0,rodada_zero,1998.0,PJN,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036829726,003682/1997,BID0,rodada_zero,1998.0,RCB,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036839799,003683/1997,BID0,rodada_zero,1998.0,ROU,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036849751,003684/1997,BID0,rodada_zero,1998.0,RSP,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036859714,003685/1997,BID0,rodada_zero,1998.0,RS,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036869787,003686/1997,BID0,rodada_zero,1998.0,RBU,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036879740,003687/1997,BID0,rodada_zero,1998.0,ROV,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036889711,003688/1997,BID0,rodada_zero,1998.0,RI,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036899775,003689/1997,BID0,rodada_zero,1998.0,RPJ,Recôncavo,Terra,Produção,35156290000141,3R Rio Ventura,3R Petroleum,Brava Energia,100.0,True,,,False
+480000036909754,003690/1997,BID0,rodada_zero,1998.0,RSE,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000036919717,003691/1997,BID0,rodada_zero,1998.0,RSU,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036929780,003692/1997,BID0,rodada_zero,1998.0,SA,Recôncavo,Terra,Produção,25315943000134,Energizzi Energias,Energizzi Energias,Energizzi Energias,100.0,True,,,False
+480000036939742,003693/1997,BID0,rodada_zero,1998.0,SDS,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,,,False
+480000036949713,003694/1997,BID0,rodada_zero,1998.0,SP,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036959778,003695/1997,BID0,rodada_zero,1998.0,SE,Recôncavo,Terra,Produção,16607122000180,Nova Petróleo,Nova Petróleo,Nova Petróleo,100.0,True,,,False
+480000036969731,003696/1997,BID0,rodada_zero,1998.0,SI,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000036979701,003697/1997,BID0,rodada_zero,1998.0,SC,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,,,False
+480000036989766,003698/1997,BID0,rodada_zero,1998.0,SCX,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,,,False
+480000036999729,003699/1997,BID0,rodada_zero,1998.0,SUS,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000037009714,003700/1997,BID0,rodada_zero,1998.0,TQ,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037029731,003702/1997,BID0,rodada_zero,1998.0,CON,Tucano Sul,Terra,Produção,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+480000037039702,003703/1997,BID0,rodada_zero,1998.0,AB,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037049767,003704/1997,BID0,rodada_zero,1998.0,VD,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037059720,003705/1997,BID0,rodada_zero,1998.0,BD,Campos,Mar,Produção,33639843000191,Trident Energy,Trident Energy,Trident Energy,100.0,True,rasa,cessoes,False
+480000037069792,003706/1997,BID0,rodada_zero,1998.0,LI,Campos,Mar,Produção,33639843000191,Trident Energy,Trident Energy,Trident Energy,100.0,True,rasa,cessoes,False
+480000037079755,003707/1997,BID0,rodada_zero,1998.0,PM,Campos,Mar,Produção,33639843000191,Trident Energy,Trident Energy,Trident Energy,100.0,True,rasa,cessoes,False
+480000037089718,003708/1997,BID0,rodada_zero,1998.0,TR,Campos,Mar,Produção,33639843000191,Trident Energy,Trident Energy,Trident Energy,100.0,True,rasa,cessoes,False
+480000037099781,003709/1997,BID0,rodada_zero,1998.0,BJ,Campos,Mar,Produção,10456016000167,Shell Brasil,Shell,Shell,80.0,True,profunda,cessoes,False
+480000037099781,003709/1997,BID0,rodada_zero,1998.0,BJ,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,20.0,False,profunda,cessoes,False
+480000037109760,003710/1997,BID0,rodada_zero,1998.0,SA,Campos,Mar,Produção,10456016000167,Shell Brasil,Shell,Shell,80.0,True,profunda,cessoes,False
+480000037109760,003710/1997,BID0,rodada_zero,1998.0,SA,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,20.0,False,profunda,cessoes,False
+480000037119722,003711/1997,BID0,rodada_zero,1998.0,CRP,Campos,Mar,Produção,09309027000135,Perenco Brasil,Perenco,Perenco,100.0,True,profunda,cessoes,False
+480000037129795,003712/1997,BID0,rodada_zero,1998.0,PG,Campos,Mar,Produção,09309027000135,Perenco Brasil,Perenco,Perenco,100.0,True,profunda,cessoes,False
+480000037139758,003713/1997,BID0,rodada_zero,1998.0,VM,Campos,Mar,Produção,09309027000135,Perenco Brasil,Perenco,Perenco,100.0,True,profunda,cessoes,False
+480000037149711,003714/1997,BID0,rodada_zero,1998.0,CG,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037159783,003715/1997,BID0,rodada_zero,1998.0,CO,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037169746,003716/1997,BID0,rodada_zero,1998.0,MLH,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037179717,003717/1997,BID0,rodada_zero,1998.0,BI,Campos,Mar,Produção,33639843000191,Trident Energy,Trident Energy,Trident Energy,100.0,True,rasa,cessoes,False
+480000037189771,003718/1997,BID0,rodada_zero,1998.0,BO,Campos,Mar,Produção,33639843000191,Trident Energy,Trident Energy,Trident Energy,100.0,True,rasa,cessoes,False
+480000037199734,003719/1997,BID0,rodada_zero,1998.0,EN,Campos,Mar,Produção,33639843000191,Trident Energy,Trident Energy,Trident Energy,100.0,True,rasa,cessoes,False
+480000037209713,003720/1997,BID0,rodada_zero,1998.0,ENO,Campos,Mar,Produção,33639843000191,Trident Energy,Trident Energy,Trident Energy,100.0,True,rasa,cessoes,False
+480000037219786,003721/1997,BID0,rodada_zero,1998.0,GP,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037229749,003722/1997,BID0,rodada_zero,1998.0,GPN,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037239710,003723/1997,BID0,rodada_zero,1998.0,MRL,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037249774,003724/1997,BID0,rodada_zero,1998.0,MLS,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037259737,003725/1997,BID0,rodada_zero,1998.0,MO,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037269708,003726/1997,BID0,rodada_zero,1998.0,BG,Campos,Mar,Produção,09309027000135,Perenco Brasil,Perenco,Perenco,100.0,True,rasa,cessoes,False
+480000037279762,003727/1997,BID0,rodada_zero,1998.0,CH,Campos,Mar,Produção,09309027000135,Perenco Brasil,Perenco,Perenco,100.0,True,rasa,cessoes,False
+480000037289725,003728/1997,BID0,rodada_zero,1998.0,NA,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037299798,003729/1997,BID0,rodada_zero,1998.0,NEN,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037309777,003730/1997,BID0,rodada_zero,1998.0,ANQ,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037319730,003731/1997,BID0,rodada_zero,1998.0,PA,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037329701,003732/1997,BID0,rodada_zero,1998.0,MA,Campos,Mar,Produção,33639843000191,Trident Energy,Trident Energy,Trident Energy,100.0,True,profunda,cessoes,False
+480000037339765,003733/1997,BID0,rodada_zero,1998.0,PU,Campos,Mar,Produção,33639843000191,Trident Energy,Trident Energy,Trident Energy,100.0,True,rasa,cessoes,False
+480000037349728,003734/1997,BID0,rodada_zero,1998.0,VL,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037359791,003735/1997,BID0,rodada_zero,1998.0,CA,Espírito Santo,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037369753,003736/1997,BID0,rodada_zero,1998.0,CAB,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037379716,003737/1997,BID0,rodada_zero,1998.0,CG,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037389789,003738/1997,BID0,rodada_zero,1998.0,CCN,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037399741,003739/1997,BID0,rodada_zero,1998.0,CP,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037409721,003740/1997,BID0,rodada_zero,1998.0,CD,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037429756,003742/1997,BID0,rodada_zero,1998.0,FAL,Espírito Santo,Terra,Produção,40875704000122,Seacrest Norte Cap,Seacrest,Seacrest,100.0,True,,,False
+480000037439719,003743/1997,BID0,rodada_zero,1998.0,FC,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037449781,003744/1997,BID0,rodada_zero,1998.0,FQ,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037459744,003745/1997,BID0,rodada_zero,1998.0,FCN,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037469715,003746/1997,BID0,rodada_zero,1998.0,FSL,Espírito Santo,Terra,Produção,40875704000122,Seacrest Norte Cap,Seacrest,Seacrest,100.0,True,,,False
+480000037479770,003747/1997,BID0,rodada_zero,1998.0,FSJ,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037489732,003748/1997,BID0,rodada_zero,1998.0,LB,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037499703,003749/1997,BID0,rodada_zero,1998.0,RIB,Espírito Santo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037509784,003750/1997,BID0,rodada_zero,1998.0,FSR,Espírito Santo,Terra,Produção,40875704000122,Seacrest Norte Cap,Seacrest,Seacrest,100.0,True,,,False
+480000037519747,003751/1997,BID0,rodada_zero,1998.0,GU,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037529718,003752/1997,BID0,rodada_zero,1998.0,LP,Espírito Santo,Terra,Produção,34812047000171,Capixaba Energia,Capixaba Energia,Capixaba Energia,100.0,True,,,False
+480000037539772,003753/1997,BID0,rodada_zero,1998.0,LPS,Espírito Santo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037549735,003754/1997,BID0,rodada_zero,1998.0,LPN,Espírito Santo,Terra,Produção,34812047000171,Capixaba Energia,Capixaba Energia,Capixaba Energia,100.0,True,,,False
+480000037559706,003755/1997,BID0,rodada_zero,1998.0,LPB,Espírito Santo,Terra,Produção,34812047000171,Capixaba Energia,Capixaba Energia,Capixaba Energia,100.0,True,,,False
+480000037569761,003756/1997,BID0,rodada_zero,1998.0,BI,Espírito Santo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037579723,003757/1997,BID0,rodada_zero,1998.0,LS,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037589796,003758/1997,BID0,rodada_zero,1998.0,MA,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037599759,003759/1997,BID0,rodada_zero,1998.0,MAO,Espírito Santo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037609738,003760/1997,BID0,rodada_zero,1998.0,MAN,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037619709,003761/1997,BID0,rodada_zero,1998.0,NO,Espírito Santo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037649799,003764/1997,BID0,rodada_zero,1998.0,RD,Espírito Santo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037659751,003765/1997,BID0,rodada_zero,1998.0,RBS,Espírito Santo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037669714,003766/1997,BID0,rodada_zero,1998.0,RI,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037679787,003767/1997,BID0,rodada_zero,1998.0,RIL,Espírito Santo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037689740,003768/1997,BID0,rodada_zero,1998.0,RM,Espírito Santo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037699711,003769/1997,BID0,rodada_zero,1998.0,RP,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037709791,003770/1997,BID0,rodada_zero,1998.0,RPO,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037719754,003771/1997,BID0,rodada_zero,1998.0,RPS,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037729717,003772/1997,BID0,rodada_zero,1998.0,RSM,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037739780,003773/1997,BID0,rodada_zero,1998.0,SM,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+480000037759713,003775/1997,BID0,rodada_zero,1998.0,AT,Ceará,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037769778,003776/1997,BID0,rodada_zero,1998.0,CR,Ceará,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037779731,003777/1997,BID0,rodada_zero,1998.0,EP,Ceará,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037789701,003778/1997,BID0,rodada_zero,1998.0,XA,Ceará,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037799766,003779/1997,BID0,rodada_zero,1998.0,AG,Potiguar,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037809745,003780/1997,BID0,rodada_zero,1998.0,ART,Potiguar,Mar,Produção,33443860000159,3R Macau,3R Petroleum,Brava Energia,100.0,True,rasa,cessoes,False
+480000037819716,003781/1997,BID0,rodada_zero,1998.0,SER,Potiguar,Mar,Produção,33443860000159,3R Macau,3R Petroleum,Brava Energia,100.0,True,rasa,cessoes,False
+480000037829771,003782/1997,BID0,rodada_zero,1998.0,UB,Potiguar,Mar,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,rasa,cessoes,False
+480000037849704,003784/1997,BID0,rodada_zero,1998.0,ARG,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000037859769,003785/1997,BID0,rodada_zero,1998.0,BAL,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,50.0,False,,,False
+480000037859769,003785/1997,BID0,rodada_zero,1998.0,BAL,Potiguar,Terra,Produção,05002889000160,Mandacaru Energia,Mandacaru Energia,Mandacaru Energia,50.0,True,,,False
+480000037869721,003786/1997,BID0,rodada_zero,1998.0,BAR,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000037879794,003787/1997,BID0,rodada_zero,1998.0,BE,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000037889757,003788/1997,BID0,rodada_zero,1998.0,BVS,Potiguar,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037899710,003789/1997,BID0,rodada_zero,1998.0,BR,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000037909707,003790/1997,BID0,rodada_zero,1998.0,VR,Potiguar,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000037919761,003791/1997,BID0,rodada_zero,1998.0,CAC,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000037929724,003792/1997,BID0,rodada_zero,1998.0,CAM,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000037939797,003793/1997,BID0,rodada_zero,1998.0,ET,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000037959712,003795/1997,BID0,rodada_zero,1998.0,FZB,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000037969785,003796/1997,BID0,rodada_zero,1998.0,FCN,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000037979748,003797/1997,BID0,rodada_zero,1998.0,FC,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,50.0,False,,,False
+480000037979748,003797/1997,BID0,rodada_zero,1998.0,FC,Potiguar,Terra,Produção,05002889000160,Mandacaru Energia,Mandacaru Energia,Mandacaru Energia,50.0,True,,,False
+480000037989719,003798/1997,BID0,rodada_zero,1998.0,FMQ,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,50.0,False,,,False
+480000037989719,003798/1997,BID0,rodada_zero,1998.0,FMQ,Potiguar,Terra,Produção,05002889000160,Mandacaru Energia,Mandacaru Energia,Mandacaru Energia,50.0,True,,,False
+480000037999773,003799/1997,BID0,rodada_zero,1998.0,FP,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000038009751,003800/1997,BID0,rodada_zero,1998.0,GMR,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000038019713,003801/1997,BID0,rodada_zero,1998.0,IC,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000038029786,003802/1997,BID0,rodada_zero,1998.0,JD,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000038039749,003803/1997,BID0,rodada_zero,1998.0,JZ,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000038049710,003804/1997,BID0,rodada_zero,1998.0,LAR,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000038059774,003805/1997,BID0,rodada_zero,1998.0,LV,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000038079708,003807/1997,BID0,rodada_zero,1998.0,LOR,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000038089762,003808/1997,BID0,rodada_zero,1998.0,MA,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000038099725,003809/1997,BID0,rodada_zero,1998.0,MAG,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000038109712,003810/1997,BID0,rodada_zero,1998.0,MOR,Potiguar,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038119777,003811/1997,BID0,rodada_zero,1998.0,MO,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000038129730,003812/1997,BID0,rodada_zero,1998.0,NMR,Potiguar,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038139701,003813/1997,BID0,rodada_zero,1998.0,PJ,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,50.0,False,,,False
+480000038139701,003813/1997,BID0,rodada_zero,1998.0,PJ,Potiguar,Terra,Produção,05002889000160,Mandacaru Energia,Mandacaru Energia,Mandacaru Energia,50.0,True,,,False
+480000038149765,003814/1997,BID0,rodada_zero,1998.0,PV,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000038159728,003815/1997,BID0,rodada_zero,1998.0,PX,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000038169791,003816/1997,BID0,rodada_zero,1998.0,PML,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000038179753,003817/1997,BID0,rodada_zero,1998.0,PC,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000038189716,003818/1997,BID0,rodada_zero,1998.0,RE,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000038199789,003819/1997,BID0,rodada_zero,1998.0,REP,Potiguar,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038219721,003821/1997,BID0,rodada_zero,1998.0,RFQ,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000038249719,003824/1997,BID0,rodada_zero,1998.0,RMO,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,50.0,False,,,False
+480000038249719,003824/1997,BID0,rodada_zero,1998.0,RMO,Potiguar,Terra,Produção,05002889000160,Mandacaru Energia,Mandacaru Energia,Mandacaru Energia,50.0,True,,,False
+480000038259781,003825/1997,BID0,rodada_zero,1998.0,SCR,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000038289770,003828/1997,BID0,rodada_zero,1998.0,SM,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000038299732,003829/1997,BID0,rodada_zero,1998.0,SVM,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000038309711,003830/1997,BID0,rodada_zero,1998.0,SE,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000038329747,003832/1997,BID0,rodada_zero,1998.0,TM,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,50.0,False,,,False
+480000038329747,003832/1997,BID0,rodada_zero,1998.0,TM,Potiguar,Terra,Produção,05002889000160,Mandacaru Energia,Mandacaru Energia,Mandacaru Energia,50.0,True,,,False
+480000038339718,003833/1997,BID0,rodada_zero,1998.0,UPN,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000038349772,003834/1997,BID0,rodada_zero,1998.0,S019,Sergipe,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038359735,003835/1997,BID0,rodada_zero,1998.0,S107,Sergipe,Mar,Produção,11230625000166,SPE Tiêta,SPE Tiêta,SPE Tiêta,75.0,True,rasa,cessoes,False
+480000038359735,003835/1997,BID0,rodada_zero,1998.0,S107,Sergipe,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,25.0,False,rasa,cessoes,False
+480000038369706,003836/1997,BID0,rodada_zero,1998.0,CB,Sergipe,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038379761,003837/1997,BID0,rodada_zero,1998.0,CM,Sergipe,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038389723,003838/1997,BID0,rodada_zero,1998.0,DO,Sergipe,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038399796,003839/1997,BID0,rodada_zero,1998.0,GA,Sergipe,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038409775,003840/1997,BID0,rodada_zero,1998.0,PARU,Alagoas,Mar,Produção,34186669000131,Origem Alagoas,Origem Energia,Origem Energia,100.0,True,rasa,cessoes,False
+480000038419738,003841/1997,BID0,rodada_zero,1998.0,SG,Sergipe,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038429709,003842/1997,BID0,rodada_zero,1998.0,AG,Sergipe,Terra,Produção,41955491000101,Carmo,Carmo Energy,Carmo Energy,100.0,True,,,False
+480000038439763,003843/1997,BID0,rodada_zero,1998.0,AN,Sergipe,Terra,Produção,41955491000101,Carmo,Carmo Energy,Carmo Energy,100.0,True,,,False
+480000038449726,003844/1997,BID0,rodada_zero,1998.0,ARI,Sergipe,Terra,Produção,41955491000101,Carmo,Carmo Energy,Carmo Energy,100.0,True,,,False
+480000038459799,003845/1997,BID0,rodada_zero,1998.0,ATS,Sergipe,Terra,Produção,41955491000101,Carmo,Carmo Energy,Carmo Energy,100.0,True,,,False
+480000038469751,003846/1997,BID0,rodada_zero,1998.0,BRG,Sergipe,Terra,Produção,41955491000101,Carmo,Carmo Energy,Carmo Energy,100.0,True,,,False
+480000038479714,003847/1997,BID0,rodada_zero,1998.0,CP,Sergipe,Terra,Produção,41955491000101,Carmo,Carmo Energy,Carmo Energy,100.0,True,,,False
+480000038489787,003848/1997,BID0,rodada_zero,1998.0,CL,Sergipe,Terra,Produção,41955491000101,Carmo,Carmo Energy,Carmo Energy,100.0,True,,,False
+480000038509729,003850/1997,BID0,rodada_zero,1998.0,CSM,Alagoas,Terra,Produção,34186669000131,Origem Alagoas,Origem Energia,Origem Energia,100.0,True,,,False
+480000038519791,003851/1997,BID0,rodada_zero,1998.0,CS,Alagoas,Terra,Produção,03951809000197,Petrosynergy,Petrosynergy,Petrosynergy,100.0,True,,,False
+480000038529754,003852/1997,BID0,rodada_zero,1998.0,FPB,Alagoas,Terra,Produção,15594013000103,Perícia,Perícia,Perícia,100.0,True,,,False
+480000038549780,003854/1997,BID0,rodada_zero,1998.0,FU,Alagoas,Terra,Produção,34186669000131,Origem Alagoas,Origem Energia,Origem Energia,100.0,True,,,False
+480000038559742,003855/1997,BID0,rodada_zero,1998.0,IP,Sergipe,Terra,Produção,41955491000101,Carmo,Carmo Energy,Carmo Energy,100.0,True,,,False
+480000038569713,003856/1997,BID0,rodada_zero,1998.0,JA,Alagoas,Terra,Produção,03951809000197,Petrosynergy,Petrosynergy,Petrosynergy,100.0,True,,,False
+480000038579778,003857/1997,BID0,rodada_zero,1998.0,MG,Sergipe,Terra,Produção,41955491000101,Carmo,Carmo Energy,Carmo Energy,100.0,True,,,False
+480000038599701,003859/1997,BID0,rodada_zero,1998.0,PIR,Alagoas,Terra,Produção,34186669000131,Origem Alagoas,Origem Energia,Origem Energia,100.0,True,,,False
+480000038609782,003860/1997,BID0,rodada_zero,1998.0,RO,Sergipe,Terra,Produção,41955491000101,Carmo,Carmo Energy,Carmo Energy,100.0,True,,,False
+480000038619745,003861/1997,BID0,rodada_zero,1998.0,SMC,Alagoas,Terra,Produção,34186669000131,Origem Alagoas,Origem Energia,Origem Energia,100.0,True,,,False
+480000038629716,003862/1997,BID0,rodada_zero,1998.0,SZ,Sergipe,Terra,Produção,41955491000101,Carmo,Carmo Energy,Carmo Energy,100.0,True,,,False
+480000038639771,003863/1997,BID0,rodada_zero,1998.0,SCE,Alagoas,Terra,Produção,03951809000197,Petrosynergy,Petrosynergy,Petrosynergy,100.0,True,,,False
+480000038649733,003864/1997,BID0,rodada_zero,1998.0,TM,Alagoas,Terra,Produção,03951809000197,Petrosynergy,Petrosynergy,Petrosynergy,100.0,True,,,False
+480000038659704,003865/1997,BID0,rodada_zero,1998.0,CRV,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038669769,003866/1997,BID0,rodada_zero,1998.0,MLZ,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038679721,003867/1997,BID0,rodada_zero,1998.0,IP,Solimões,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038689794,003868/1997,BID0,rodada_zero,1998.0,CRP,Solimões,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038699757,003869/1997,BID0,rodada_zero,1998.0,CUP,Solimões,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038709736,003870/1997,BID0,rodada_zero,1998.0,JR,Solimões,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038719707,003871/1997,BID0,rodada_zero,1998.0,NEJ,Solimões,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038729761,003872/1997,BID0,rodada_zero,1998.0,SOJ,Solimões,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038739724,003873/1997,BID0,rodada_zero,1998.0,SUC,Solimões,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038759750,003875/1997,BID0,rodada_zero,1998.0,B097,Camamu,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,rasa,cessoes,False
+480000038819752,003881/1997,BID0,rodada_zero,1998.0,CA,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038839788,003883/1997,BID0,rodada_zero,1998.0,FSR,Tucano Sul,Terra,Produção,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+480000038849741,003884/1997,BID0,rodada_zero,1998.0,FS,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038889700,003888/1997,BID0,rodada_zero,1998.0,PV,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038909743,003890/1997,BID0,rodada_zero,1998.0,RJ,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038919714,003891/1997,BID0,rodada_zero,1998.0,FMT,Tucano Sul,Terra,Produção,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+480000038929779,003892/1997,BID0,rodada_zero,1998.0,IR,Tucano Sul,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038939731,003893/1997,BID0,rodada_zero,1998.0,LB,Tucano Sul,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038949702,003894/1997,BID0,rodada_zero,1998.0,QE,Tucano Sul,Terra,Produção,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+480000038959767,003895/1997,BID0,rodada_zero,1998.0,ABL,Campos,Mar,Produção,02270689000108,Repsol Sinopec,Repsol Sinopec,Repsol,10.0,False,profunda,cessoes,False
+480000038959767,003895/1997,BID0,rodada_zero,1998.0,ABL,Campos,Mar,Produção,08926302000105,Prio Forte S.A,PRIO,PRIO,90.0,True,profunda,cessoes,False
+480000038969720,003896/1997,BID0,rodada_zero,1998.0,FR,Campos,Mar,Produção,03255266000173,Prio Bravo,PRIO,PRIO,18.26,False,profunda,cessoes,False
+480000038969720,003896/1997,BID0,rodada_zero,1998.0,FR,Campos,Mar,Produção,08926302000105,Prio Forte S.A,PRIO,PRIO,81.74,True,profunda,cessoes,False
+480000038979792,003897/1997,BID0,rodada_zero,1998.0,BR,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038989755,003898/1997,BID0,rodada_zero,1998.0,CRT,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000038999718,003899/1997,BID0,rodada_zero,1998.0,ESP,Campos,Mar,Produção,30653538000166,Petronas,Petronas,Petronas,50.0,False,profunda,cessoes,False
+480000038999718,003899/1997,BID0,rodada_zero,1998.0,ESP,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,50.0,True,profunda,cessoes,False
+480000039009703,003900/1997,BID0,rodada_zero,1998.0,MLL,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000039019768,003901/1997,BID0,rodada_zero,1998.0,RO,Campos,Mar,Produção,04580657000126,Equinor Energy,Equinor,Equinor,25.0,False,profunda,cessoes,False
+480000039019768,003901/1997,BID0,rodada_zero,1998.0,RO,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,75.0,True,profunda,cessoes,False
+480000039029721,003902/1997,BID0,rodada_zero,1998.0,CAN,Espírito Santo,Mar,Produção,02857854000114,3R Petroleum,3R Petroleum,Brava Energia,100.0,True,rasa,cessoes,False
+480000039039793,003903/1997,BID0,rodada_zero,1998.0,PER,Espírito Santo,Mar,Produção,02857854000114,3R Petroleum,3R Petroleum,Brava Energia,100.0,True,rasa,cessoes,False
+480000039069781,003906/1997,BID0,rodada_zero,1998.0,R035,Potiguar,Mar,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000039079744,003907/1997,BID0,rodada_zero,1998.0,R093,Potiguar,Mar,Produção,03605739000115,3R Pescada,3R Petroleum,Brava Energia,35.0,False,rasa,cessoes,False
+480000039079744,003907/1997,BID0,rodada_zero,1998.0,R093,Potiguar,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,65.0,True,rasa,cessoes,False
+480000039089715,003908/1997,BID0,rodada_zero,1998.0,R128,Potiguar,Mar,Produção,03605739000115,3R Pescada,3R Petroleum,Brava Energia,35.0,False,rasa,cessoes,False
+480000039089715,003908/1997,BID0,rodada_zero,1998.0,R128,Potiguar,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,65.0,True,rasa,cessoes,False
+480000039099770,003909/1997,BID0,rodada_zero,1998.0,R134,Potiguar,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000039109759,003910/1997,BID0,rodada_zero,1998.0,R071,Potiguar,Mar,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000039129784,003912/1997,BID0,rodada_zero,1998.0,PE,Potiguar,Mar,Produção,03605739000115,3R Pescada,3R Petroleum,Brava Energia,35.0,False,rasa,cessoes,False
+480000039129784,003912/1997,BID0,rodada_zero,1998.0,PE,Potiguar,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,65.0,True,rasa,cessoes,False
+480000039139747,003913/1997,BID0,rodada_zero,1998.0,ARB,Potiguar,Mar,Produção,03605739000115,3R Pescada,3R Petroleum,Brava Energia,35.0,False,rasa,cessoes,False
+480000039139747,003913/1997,BID0,rodada_zero,1998.0,ARB,Potiguar,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,65.0,True,rasa,cessoes,False
+480000039149718,003914/1997,BID0,rodada_zero,1998.0,BJZ,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000039159772,003915/1997,BID0,rodada_zero,1998.0,FJ,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000039169735,003916/1997,BID0,rodada_zero,1998.0,SAB,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000039179706,003917/1997,BID0,rodada_zero,1998.0,A032,Alagoas,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000039199723,003919/1997,BID0,rodada_zero,1998.0,CSF,Alagoas,Terra,Produção,03951809000197,Petrosynergy,Petrosynergy,Petrosynergy,100.0,True,,,False
+480000039209711,003920/1997,BID0,rodada_zero,1998.0,FGT,Alagoas,Terra,Produção,03951809000197,Petrosynergy,Petrosynergy,Petrosynergy,100.0,True,,,False
+480000039219775,003921/1997,BID0,rodada_zero,1998.0,LPC,Alagoas,Terra,Produção,03951809000197,Petrosynergy,Petrosynergy,Petrosynergy,100.0,True,,,False
+480000039229738,003922/1997,BID0,rodada_zero,1998.0,SF,Alagoas,Terra,Produção,03951809000197,Petrosynergy,Petrosynergy,Petrosynergy,100.0,True,,,False
+480000039239709,003923/1997,BID0,rodada_zero,1998.0,BB,Paraná,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000039249763,003924/1997,BID0,rodada_zero,1998.0,CRL,Santos,Mar,Produção,04768625000159,BS-3,BS-3 S/A,BS-3 S/A,15.0,False,rasa,cessoes,False
+480000039249763,003924/1997,BID0,rodada_zero,1998.0,CRL,Santos,Mar,Produção,07467619000150,Panoro Energy,Panoro Energy,Panoro Energy,35.0,False,rasa,cessoes,False
+480000039249763,003924/1997,BID0,rodada_zero,1998.0,CRL,Santos,Mar,Produção,08844986000198,Petro Rio Coral,PRIO,PRIO,15.0,False,rasa,cessoes,False
+480000039249763,003924/1997,BID0,rodada_zero,1998.0,CRL,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,35.0,True,rasa,cessoes,False
+480000039259726,003925/1997,BID0,rodada_zero,1998.0,EM,Santos,Mar,Produção,07467619000150,Panoro Energy,Panoro Energy,Panoro Energy,65.0,False,rasa,cessoes,False
+480000039259726,003925/1997,BID0,rodada_zero,1998.0,EM,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,35.0,True,rasa,cessoes,False
+480000039269799,003926/1997,BID0,rodada_zero,1998.0,TB,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+4861000400098,004000/1998,BID0,rodada_zero,1998.0,LPX,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+4861000400198,004001/1998,BID0,rodada_zero,1998.0,PSA,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+4861000400298,004002/1998,BID0,rodada_zero,1998.0,VRG,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+4861000400398,004003/1998,BID0,rodada_zero,1998.0,BEN,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+4861000400498,004004/1998,BID0,rodada_zero,1998.0,FAP,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,,,False
+4861000475099,004750/1999,BID1,rodada_concessao,1999.0,BM-S-3,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,rasa,cessoes,False
+48610001502200942,001502/2009,BID10,rodada_concessao,2008.0,POT-T-609_R10,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+48610001503200997,001503/2009,BID10,rodada_concessao,2008.0,POT-T-610_R10,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+48610001547200917,001547/2009,BID10,rodada_concessao,2008.0,SEAL-T-240_R10,Alagoas,Terra,Produção,34186669000131,Origem Alagoas,Origem Energia,Origem Energia,100.0,True,,,False
+48610001557200952,001557/2009,BID10,rodada_concessao,2008.0,REC-T-235_R10,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,,,False
+48610001558200905,001558/2009,BID10,rodada_concessao,2008.0,SF-T-104_R10,São Francisco,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,51.0,True,,,False
+48610001558200905,001558/2009,BID10,rodada_concessao,2008.0,SF-T-104_R10,São Francisco,Terra,Exploração,17155730000164,CEMIG,CEMIG,Governo de Minas Gerais,24.5,False,,,False
+48610001558200905,001558/2009,BID10,rodada_concessao,2008.0,SF-T-104_R10,São Francisco,Terra,Exploração,19791581000155,Codemig,Codemig,Governo de Minas Gerais,24.5,False,,,False
+48610001559200941,001559/2009,BID10,rodada_concessao,2008.0,SF-T-114_R10,São Francisco,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,51.0,True,,,False
+48610001559200941,001559/2009,BID10,rodada_concessao,2008.0,SF-T-114_R10,São Francisco,Terra,Exploração,17155730000164,CEMIG,CEMIG,Governo de Minas Gerais,24.5,False,,,False
+48610001559200941,001559/2009,BID10,rodada_concessao,2008.0,SF-T-114_R10,São Francisco,Terra,Exploração,19791581000155,Codemig,Codemig,Governo de Minas Gerais,24.5,False,,,False
+48610005402201371,005402/2013,BID11,rodada_concessao,2013.0,POT-T-569_R11,Potiguar,Terra,Produção,45832752000157,Níon Energia,Níon Energia S.A.,Níon Energia S.A.,100.0,True,,,False
+48610005403201316,005403/2013,BID11,rodada_concessao,2013.0,ES-T-486_R11,Espírito Santo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+48610005425201386,005425/2013,BID11,rodada_concessao,2013.0,REC-T-107_R11,Recôncavo,Terra,Produção,55167052000149,Vultur Oil,Vultur Oil,Vultur Oil,100.0,True,,,False
+48610005428201310,005428/2013,BID11,rodada_concessao,2013.0,FZA-M-90_R11,Foz do Amazonas,Mar,Exploração,12091809000155,Brava Energia S.A.,Brava Energia,Brava Energia,100.0,True,profunda,blocos_ofertados,False
+48610005429201364,005429/2013,BID11,rodada_concessao,2013.0,BAR-M-298_R11,Barreirinhas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,100.0,True,profunda,blocos_ofertados,False
+48610005432201388,005432/2013,BID11,rodada_concessao,2013.0,BAR-M-340_R11,Barreirinhas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,100.0,True,profunda,blocos_ofertados,False
+48610005437201319,005437/2013,BID11,rodada_concessao,2013.0,TUC-T-139_R11,Tucano Sul,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,30.0,True,,,False
+48610005437201319,005437/2013,BID11,rodada_concessao,2013.0,TUC-T-139_R11,Tucano Sul,Terra,Exploração,40701381000150,Energy Paranã,Energy Paranã,Energy Paranã,70.0,False,,,False
+48610005438201355,005438/2013,BID11,rodada_concessao,2013.0,TUC-T-147_R11,Tucano Sul,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,30.0,True,,,False
+48610005438201355,005438/2013,BID11,rodada_concessao,2013.0,TUC-T-147_R11,Tucano Sul,Terra,Exploração,40701381000150,Energy Paranã,Energy Paranã,Energy Paranã,70.0,False,,,False
+48610005447201346,005447/2013,BID11,rodada_concessao,2013.0,BAR-M-344_R11,Barreirinhas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,50.0,True,profunda,blocos_ofertados,False
+48610005447201346,005447/2013,BID11,rodada_concessao,2013.0,BAR-M-344_R11,Barreirinhas,Mar,Exploração,16974249000138,Galp Energia Brasil,Galp,Galp,10.0,False,profunda,blocos_ofertados,False
+48610005447201346,005447/2013,BID11,rodada_concessao,2013.0,BAR-M-344_R11,Barreirinhas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,40.0,False,profunda,blocos_ofertados,False
+48610005451201312,005451/2013,BID11,rodada_concessao,2013.0,BAR-M-300_R11,Barreirinhas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,50.0,True,profunda,blocos_ofertados,False
+48610005451201312,005451/2013,BID11,rodada_concessao,2013.0,BAR-M-300_R11,Barreirinhas,Mar,Exploração,16974249000138,Galp Energia Brasil,Galp,Galp,10.0,False,profunda,blocos_ofertados,False
+48610005451201312,005451/2013,BID11,rodada_concessao,2013.0,BAR-M-300_R11,Barreirinhas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,40.0,False,profunda,blocos_ofertados,False
+48610005456201337,005456/2013,BID11,rodada_concessao,2013.0,ES-T-516_R11,Espírito Santo,Terra,Exploração,29496603000108,BGM,BGM,BGM,55.0,True,,,False
+48610005456201337,005456/2013,BID11,rodada_concessao,2013.0,ES-T-516_R11,Espírito Santo,Terra,Exploração,43508877000109,Campo Petróleo,Campo Petróleo,Campo Petróleo,45.0,False,,,False
+48610005457201381,005457/2013,BID11,rodada_concessao,2013.0,ES-T-496_R11,Espírito Santo,Terra,Produção,29496603000108,BGM,BGM,BGM,55.0,True,,,False
+48610005457201381,005457/2013,BID11,rodada_concessao,2013.0,ES-T-496_R11,Espírito Santo,Terra,Produção,43508877000109,Campo Petróleo,Campo Petróleo,Campo Petróleo,45.0,False,,,False
+48610005459201371,005459/2013,BID11,rodada_concessao,2013.0,ES-M-743_R11,Espírito Santo,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,blocos_ofertados,False
+48610005461201340,005461/2013,BID11,rodada_concessao,2013.0,BAR-M-388_R11,Barreirinhas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,50.0,True,rasa,blocos_ofertados,False
+48610005461201340,005461/2013,BID11,rodada_concessao,2013.0,BAR-M-388_R11,Barreirinhas,Mar,Exploração,16974249000138,Galp Energia Brasil,Galp,Galp,10.0,False,rasa,blocos_ofertados,False
+48610005461201340,005461/2013,BID11,rodada_concessao,2013.0,BAR-M-388_R11,Barreirinhas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,40.0,False,rasa,blocos_ofertados,False
+48610005466201372,005466/2013,BID11,rodada_concessao,2013.0,ES-T-506_R11,Espírito Santo,Terra,Produção,29496603000108,BGM,BGM,BGM,55.0,True,,,False
+48610005466201372,005466/2013,BID11,rodada_concessao,2013.0,ES-T-506_R11,Espírito Santo,Terra,Produção,43508877000109,Campo Petróleo,Campo Petróleo,Campo Petróleo,45.0,False,,,False
+48610005469201314,005469/2013,BID11,rodada_concessao,2013.0,PAMA-M-337_R11,Pará - Maranhão,Mar,Exploração,12091809000155,Brava Energia S.A.,Brava Energia,Brava Energia,100.0,True,profunda,blocos_ofertados,False
+48610005472201320,005472/2013,BID11,rodada_concessao,2013.0,ES-M-669_R11,Espírito Santo,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,blocos_ofertados,False
+48610005473201374,005473/2013,BID11,rodada_concessao,2013.0,PAMA-M-265_R11,Pará - Maranhão,Mar,Exploração,12091809000155,Brava Energia S.A.,Brava Energia,Brava Energia,100.0,True,profunda,blocos_ofertados,False
+48610005485201307,005485/2013,BID11,rodada_concessao,2013.0,ES-M-671_R11,Espírito Santo,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,blocos_ofertados,False
+48610005487201398,005487/2013,BID11,rodada_concessao,2013.0,FZA-M-254_R11,Foz do Amazonas,Mar,Exploração,08926302000105,Prio Forte S.A,PRIO,PRIO,100.0,True,rasa,blocos_ofertados,False
+48610005489201387,005489/2013,BID11,rodada_concessao,2013.0,FZA-M-539_R11,Foz do Amazonas,Mar,Exploração,08926302000105,Prio Forte S.A,PRIO,PRIO,100.0,True,rasa,blocos_ofertados,False
+48610005490201310,005490/2013,BID11,rodada_concessao,2013.0,BAR-M-342_R11,Barreirinhas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,50.0,True,profunda,blocos_ofertados,False
+48610005490201310,005490/2013,BID11,rodada_concessao,2013.0,BAR-M-342_R11,Barreirinhas,Mar,Exploração,16974249000138,Galp Energia Brasil,Galp,Galp,10.0,False,profunda,blocos_ofertados,False
+48610005490201310,005490/2013,BID11,rodada_concessao,2013.0,BAR-M-342_R11,Barreirinhas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,40.0,False,profunda,blocos_ofertados,False
+48610005500201317,005500/2013,BID11,rodada_concessao,2013.0,FZA-M-57_R11,Foz do Amazonas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,blocos_ofertados,False
+48610005504201397,005504/2013,BID11,rodada_concessao,2013.0,FZA-M-127_R11,Foz do Amazonas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,blocos_ofertados,False
+48610005505201331,005505/2013,BID11,rodada_concessao,2013.0,FZA-M-88_R11,Foz do Amazonas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,blocos_ofertados,False
+48610005507201321,005507/2013,BID11,rodada_concessao,2013.0,FZA-M-59_R11,Foz do Amazonas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,blocos_ofertados,False
+48610005510201344,005510/2013,BID11,rodada_concessao,2013.0,FZA-M-86_R11,Foz do Amazonas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,blocos_ofertados,False
+48610005518201319,005518/2013,BID11,rodada_concessao,2013.0,FZA-M-125_R11,Foz do Amazonas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,blocos_ofertados,False
+48610000055201471,000055/2014,BID12,rodada_concessao,2013.0,REC-T-78_R12,Recôncavo,Terra,Exploração,18709581000109,TOG Brasil,TOG Brasil,TOG Brasil,100.0,True,,,False
+48610000057201461,000057/2014,BID12,rodada_concessao,2013.0,REC-T-198_R12,Recôncavo,Terra,Produção,15240822000117,Alvopetro,Alvopetro,Alvopetro,100.0,True,,,False
+48610000064201462,000064/2014,BID12,rodada_concessao,2013.0,REC-T-59_R12,Recôncavo,Terra,Exploração,18709581000109,TOG Brasil,TOG Brasil,TOG Brasil,100.0,True,,,False
+48610000068201441,000068/2014,BID12,rodada_concessao,2013.0,REC-T-68_R12,Recôncavo,Terra,Exploração,18709581000109,TOG Brasil,TOG Brasil,TOG Brasil,100.0,True,,,False
+48610000069201495,000069/2014,BID12,rodada_concessao,2013.0,REC-T-80_R12,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+48610000070201410,000070/2014,BID12,rodada_concessao,2013.0,REC-T-88_R12,Recôncavo,Terra,Exploração,18709581000109,TOG Brasil,TOG Brasil,TOG Brasil,100.0,True,,,False
+48610000071201464,000071/2014,BID12,rodada_concessao,2013.0,REC-T-89_R12,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+48610000077201431,000077/2014,BID12,rodada_concessao,2013.0,PAR-T-198_R12,Paraná,Terra,Exploração,24414030000102,Ubuntu,Ubuntu,Ubuntu,100.0,True,,,False
+48610000081201408,000081/2014,BID12,rodada_concessao,2013.0,PAR-T-218_R12,Paraná,Terra,Exploração,24414030000102,Ubuntu,Ubuntu,Ubuntu,100.0,True,,,False
+48610000095201413,000095/2014,BID12,rodada_concessao,2013.0,REC-T-51_R12,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+48610000097201411,000097/2014,BID12,rodada_concessao,2013.0,REC-T-69_R12,Recôncavo,Terra,Exploração,18709581000109,TOG Brasil,TOG Brasil,TOG Brasil,100.0,True,,,False
+48610000103201421,000103/2014,BID12,rodada_concessao,2013.0,REC-T-79_R12,Recôncavo,Terra,Exploração,18709581000109,TOG Brasil,TOG Brasil,TOG Brasil,100.0,True,,,False
+48610010805201502,010805/2015,BID13,rodada_concessao,2015.0,POT-T-741_R13,Potiguar,Terra,Exploração,45832752000157,Níon Energia,Níon Energia S.A.,Níon Energia S.A.,100.0,True,,,False
+48610010806201549,010806/2015,BID13,rodada_concessao,2015.0,POT-T-743_R13,Potiguar,Terra,Produção,32528443000146,Phoenix Óleo & Gás,Phoenix Óleo & Gás,Phoenix Óleo & Gás,100.0,True,,,False
+48610010807201593,010807/2015,BID13,rodada_concessao,2015.0,POT-T-744_R13,Potiguar,Terra,Produção,32528443000146,Phoenix Óleo & Gás,Phoenix Óleo & Gás,Phoenix Óleo & Gás,100.0,True,,,False
+48610010812201504,010812/2015,BID13,rodada_concessao,2015.0,REC-T-108_R13,Recôncavo,Terra,Produção,55167052000149,Vultur Oil,Vultur Oil,Vultur Oil,100.0,True,,,False
+48610010816201584,010816/2015,BID13,rodada_concessao,2015.0,REC-T-99_R13,Recôncavo,Terra,Produção,00271847000100,Imetame,Imetame,Imetame,100.0,True,,,False
+48610010821201597,010821/2015,BID13,rodada_concessao,2015.0,REC-T-128_R13,Recôncavo,Terra,Produção,16690009000101,Slim Drilling,Slim Drilling,Slim Drilling,40.0,True,,,False
+48610010821201597,010821/2015,BID13,rodada_concessao,2015.0,REC-T-128_R13,Recôncavo,Terra,Produção,19240555000139,Geopar - Geosol,Geopar - Geosol,Geopar - Geosol,60.0,False,,,False
+48610010824201521,010824/2015,BID13,rodada_concessao,2015.0,REC-T-180_R13,Recôncavo,Terra,Exploração,23923453000195,Recôncavo Energia,Recôncavo Energia,Tarmar,100.0,True,,,False
+48610010825201575,010825/2015,BID13,rodada_concessao,2015.0,REC-T-212_R13,Recôncavo,Terra,Produção,48700902000167,Recôncavo Energ SPE,Recôncavo Energ SPE,Recôncavo Energ SPE,100.0,True,,,False
+48610001998201683,001998/2016,BID13AM,acumulacoes_marginais,2015.0,Riacho Sesmaria,Recôncavo,Terra,Exploração,15596829000176,Petroil,Petroil,Petroil,100.0,True,,,False
+48610001999201628,001999/2016,BID13AM,acumulacoes_marginais,2015.0,Barra Bonita,Paraná,Terra,Exploração,22881417000143,Barra Bonita,Barra Bonita,Barra Bonita,100.0,True,,,False
+48610002000201668,002000/2016,BID13AM,acumulacoes_marginais,2015.0,Bela Vista,Recôncavo,Terra,Exploração,18957968000176,Petroborn,Petroborn,Petroborn,100.0,True,,,False
+48610002001201611,002001/2016,BID13AM,acumulacoes_marginais,2015.0,Iraí,Tucano Sul,Terra,Exploração,18957968000176,Petroborn,Petroborn,Petroborn,100.0,True,,,False
+48610002003201600,002003/2016,BID13AM,acumulacoes_marginais,2015.0,Lagoa do Doutor,Espírito Santo,Terra,Exploração,08990767000117,Vipetro,Vipetro,Vipetro,100.0,True,,,False
+48610002004201646,002004/2016,BID13AM,acumulacoes_marginais,2015.0,Alto Alegre,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610002005201691,002005/2016,BID13AM,acumulacoes_marginais,2015.0,São João,Barreirinhas,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610002006201635,002006/2016,BID13AM,acumulacoes_marginais,2015.0,Paramirim Vencimento,Recôncavo,Terra,Exploração,16690009000101,Slim Drilling,Slim Drilling,Slim Drilling,100.0,True,,,False
+48610012625201719,012625/2017,BID14,rodada_concessao,2017.0,SEAL-M-503_R14,Sergipe,Mar,Exploração,12091809000155,Brava Energia S.A.,Brava Energia,Brava Energia,100.0,True,profunda,blocos_ofertados,False
+48610012628201752,012628/2017,BID14,rodada_concessao,2017.0,ES-T-476_R14,Espírito Santo,Terra,Produção,29496603000108,BGM,BGM,BGM,100.0,True,,,False
+48610012631201776,012631/2017,BID14,rodada_concessao,2017.0,ES-T-441_R14,Espírito Santo,Terra,Produção,34812047000171,Capixaba Energia,Capixaba Energia,Capixaba Energia,100.0,True,,,False
+48610012640201767,012640/2017,BID14,rodada_concessao,2017.0,SEAL-M-501_R14,Sergipe,Mar,Exploração,12091809000155,Brava Energia S.A.,Brava Energia,Brava Energia,100.0,True,profunda,blocos_ofertados,False
+48610012641201710,012641/2017,BID14,rodada_concessao,2017.0,ES-T-487_R14,Espírito Santo,Terra,Produção,34812047000171,Capixaba Energia,Capixaba Energia,Capixaba Energia,100.0,True,,,False
+48610012644201745,012644/2017,BID14,rodada_concessao,2017.0,ES-T-453_R14,Espírito Santo,Terra,Exploração,08990767000117,Vipetro,Vipetro,Vipetro,100.0,True,,,False
+48610012646201734,012646/2017,BID14,rodada_concessao,2017.0,ES-M-667_R14,Espírito Santo,Mar,Exploração,03514776000118,Repsol,Repsol,Repsol,100.0,True,profunda,blocos_ofertados,False
+48610012647201789,012647/2017,BID14,rodada_concessao,2017.0,ES-M-592_R14,Espírito Santo,Mar,Exploração,19246634000157,CNOOC Petroleum,CNOOC,CNOOC,100.0,True,profunda,blocos_ofertados,False
+48610012650201701,012650/2017,BID14,rodada_concessao,2017.0,S-M-1537_R14,Santos,Mar,Exploração,09347916000197,Karoon Brasil,Karoon,Karoon,100.0,True,rasa,blocos_ofertados,False
+48610005697201891,005697/2018,BID15,rodada_concessao,2018.0,POT-M-865 _R15,Potiguar,Mar,Exploração,02804865000136,Murphy Brasil,Murphy,Murphy,100.0,True,profunda,blocos_ofertados,False
+48610005698201835,005698/2018,BID15,rodada_concessao,2018.0,C-M-789_R15,Campos,Mar,Exploração,04033958000130,ExxonMobil Brasil,ExxonMobil,ExxonMobil,40.0,True,profunda,blocos_ofertados,False
+48610005698201835,005698/2018,BID15,rodada_concessao,2018.0,C-M-789_R15,Campos,Mar,Exploração,15916060000126,QatarEnergy,QatarEnergy,QatarEnergy,30.0,False,profunda,blocos_ofertados,False
+48610005698201835,005698/2018,BID15,rodada_concessao,2018.0,C-M-789_R15,Campos,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,30.0,False,profunda,blocos_ofertados,False
+48610005699201880,005699/2018,BID15,rodada_concessao,2018.0,POT-M-863 _R15,Potiguar,Mar,Exploração,02804865000136,Murphy Brasil,Murphy,Murphy,100.0,True,profunda,blocos_ofertados,False
+48610005770201824,005770/2018,BID15,rodada_concessao,2018.0,POT-M-859_R15,Potiguar,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,40.0,False,profunda,blocos_ofertados,False
+48610005770201824,005770/2018,BID15,rodada_concessao,2018.0,POT-M-859_R15,Potiguar,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,60.0,True,profunda,blocos_ofertados,False
+48610005771201879,005771/2018,BID15,rodada_concessao,2018.0,POT-M-952_R15,Potiguar,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,40.0,False,profunda,blocos_ofertados,False
+48610005771201879,005771/2018,BID15,rodada_concessao,2018.0,POT-M-952_R15,Potiguar,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,60.0,True,profunda,blocos_ofertados,False
+48610005773201868,005773/2018,BID15,rodada_concessao,2018.0,SEAL-M-430_R15,Alagoas,Mar,Exploração,12091809000155,Brava Energia S.A.,Brava Energia,Brava Energia,100.0,True,profunda,blocos_ofertados,False
+48610005774201811,005774/2018,BID15,rodada_concessao,2018.0,SEAL-M-573_R15,Sergipe,Mar,Exploração,12091809000155,Brava Energia S.A.,Brava Energia,Brava Energia,100.0,True,profunda,blocos_ofertados,False
+48610005779201835,005779/2018,BID15,rodada_concessao,2018.0,POT-M-762_R15,Potiguar,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,blocos_ofertados,False
+48610005780201860,005780/2018,BID15,rodada_concessao,2018.0,POT-M-857_R15,Potiguar,Mar,Exploração,02804865000136,Murphy Brasil,Murphy,Murphy,100.0,True,profunda,blocos_ofertados,False
+48610005781201812,005781/2018,BID15,rodada_concessao,2018.0,POT-M-948_R15,Potiguar,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,100.0,True,profunda,blocos_ofertados,False
+48610221672201913,221672/2019,BID16,rodada_concessao,2019.0,C-M-477_R16,Campos,Mar,Exploração,02873528000109,BP Energy,BP,BP,30.0,False,profunda,blocos_ofertados,False
+48610221672201913,221672/2019,BID16,rodada_concessao,2019.0,C-M-477_R16,Campos,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610221673201968,221673/2019,BID16,rodada_concessao,2019.0,C-M-541_R16,Campos,Mar,Exploração,02461767000143,TotalEnergies EP,TotalEnergies,TotalEnergies,40.0,True,profunda,blocos_ofertados,False
+48610221673201968,221673/2019,BID16,rodada_concessao,2019.0,C-M-541_R16,Campos,Mar,Exploração,15916060000126,QatarEnergy,QatarEnergy,QatarEnergy,40.0,False,profunda,blocos_ofertados,False
+48610221673201968,221673/2019,BID16,rodada_concessao,2019.0,C-M-541_R16,Campos,Mar,Exploração,30653538000166,Petronas,Petronas,Petronas,20.0,False,profunda,blocos_ofertados,False
+48610221674201911,221674/2019,BID16,rodada_concessao,2019.0,C-M-659_R16,Campos,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,35.0,False,profunda,blocos_ofertados,False
+48610221674201911,221674/2019,BID16,rodada_concessao,2019.0,C-M-659_R16,Campos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,40.0,True,profunda,blocos_ofertados,False
+48610221674201911,221674/2019,BID16,rodada_concessao,2019.0,C-M-659_R16,Campos,Mar,Exploração,15916060000126,QatarEnergy,QatarEnergy,QatarEnergy,25.0,False,profunda,blocos_ofertados,False
+48610221676201900,221676/2019,BID16,rodada_concessao,2019.0,C-M-661_R16,Campos,Mar,Exploração,30653538000166,Petronas,Petronas,Petronas,100.0,True,profunda,blocos_ofertados,False
+48610221677201946,221677/2019,BID16,rodada_concessao,2019.0,C-M-715_R16,Campos,Mar,Exploração,30653538000166,Petronas,Petronas,Petronas,100.0,True,profunda,blocos_ofertados,False
+48610221678201991,221678/2019,BID16,rodada_concessao,2019.0,C-M-713_R16,Campos,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,35.0,False,profunda,blocos_ofertados,False
+48610221678201991,221678/2019,BID16,rodada_concessao,2019.0,C-M-713_R16,Campos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,40.0,True,profunda,blocos_ofertados,False
+48610221678201991,221678/2019,BID16,rodada_concessao,2019.0,C-M-713_R16,Campos,Mar,Exploração,15916060000126,QatarEnergy,QatarEnergy,QatarEnergy,25.0,False,profunda,blocos_ofertados,False
+48610224690202171,224690/2021,BID17,rodada_concessao,2021.0,S-M-1707_R17,Santos,Mar,Exploração,08537267000124,Ecopetrol Óleo e Gás,Ecopetrol,Ecopetrol,30.0,False,profunda,blocos_ofertados,False
+48610224690202171,224690/2021,BID17,rodada_concessao,2021.0,S-M-1707_R17,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,70.0,True,profunda,blocos_ofertados,False
+48610224691202116,224691/2021,BID17,rodada_concessao,2021.0,S-M-1709_R17,Santos,Mar,Exploração,08537267000124,Ecopetrol Óleo e Gás,Ecopetrol,Ecopetrol,30.0,False,profunda,blocos_ofertados,False
+48610224691202116,224691/2021,BID17,rodada_concessao,2021.0,S-M-1709_R17,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,70.0,True,profunda,blocos_ofertados,False
+48610224692202161,224692/2021,BID17,rodada_concessao,2021.0,S-M-1715_R17,Santos,Mar,Exploração,08537267000124,Ecopetrol Óleo e Gás,Ecopetrol,Ecopetrol,30.0,False,profunda,blocos_ofertados,False
+48610224692202161,224692/2021,BID17,rodada_concessao,2021.0,S-M-1715_R17,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,70.0,True,profunda,blocos_ofertados,False
+48610224693202113,224693/2021,BID17,rodada_concessao,2021.0,S-M-1717_R17,Santos,Mar,Exploração,08537267000124,Ecopetrol Óleo e Gás,Ecopetrol,Ecopetrol,30.0,False,profunda,blocos_ofertados,False
+48610224693202113,224693/2021,BID17,rodada_concessao,2021.0,S-M-1717_R17,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,70.0,True,profunda,blocos_ofertados,False
+48610224694202150,224694/2021,BID17,rodada_concessao,2021.0,S-M-1719_R17,Santos,Mar,Exploração,08537267000124,Ecopetrol Óleo e Gás,Ecopetrol,Ecopetrol,30.0,False,profunda,blocos_ofertados,False
+48610224694202150,224694/2021,BID17,rodada_concessao,2021.0,S-M-1719_R17,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,70.0,True,profunda,blocos_ofertados,False
+486100038822000,003882/2000,BID2,rodada_concessao,2000.0,BM-S-7,Santos,Mar,Produção,02270689000108,Repsol Sinopec,Repsol Sinopec,Repsol,37.0,False,rasa,cessoes,False
+486100038822000,003882/2000,BID2,rodada_concessao,2000.0,BM-S-7,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,63.0,True,rasa,cessoes,False
+486100038832000,003883/2000,BID2,rodada_concessao,2000.0,BM-S-8,Santos,Mar,Produção,03571723000139,Petrogal Brasil,Galp,Galp,20.0,False,profunda,cessoes,False
+486100038832000,003883/2000,BID2,rodada_concessao,2000.0,BM-S-8,Santos,Mar,Produção,04028583000110,Equinor Brasil,Equinor,Equinor,40.0,True,profunda,cessoes,False
+486100038832000,003883/2000,BID2,rodada_concessao,2000.0,BM-S-8,Santos,Mar,Produção,04033958000130,ExxonMobil Brasil,ExxonMobil,ExxonMobil,40.0,False,profunda,cessoes,False
+486100038842000,003884/2000,BID2,rodada_concessao,2000.0,BM-S-9,Santos,Mar,Produção,02270689000108,Repsol Sinopec,Repsol Sinopec,Repsol,25.0,False,rasa,cessoes,False
+486100038842000,003884/2000,BID2,rodada_concessao,2000.0,BM-S-9,Santos,Mar,Produção,10456016000167,Shell Brasil,Shell,Shell,30.0,False,rasa,cessoes,False
+486100038842000,003884/2000,BID2,rodada_concessao,2000.0,BM-S-9,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,45.0,True,rasa,cessoes,False
+486100038842000A,003884/2000A,BID2,rodada_concessao,2000.0,BM-S-9A,Santos,Mar,Produção,02270689000108,Repsol Sinopec,Repsol Sinopec,Repsol,25.0,False,profunda,cessoes,False
+486100038842000A,003884/2000A,BID2,rodada_concessao,2000.0,BM-S-9A,Santos,Mar,Produção,02461767000143,TotalEnergies EP,TotalEnergies,TotalEnergies,48.0,True,profunda,cessoes,False
+486100038842000A,003884/2000A,BID2,rodada_concessao,2000.0,BM-S-9A,Santos,Mar,Produção,10456016000167,Shell Brasil,Shell,Shell,27.0,False,profunda,cessoes,False
+486100038862000,003886/2000,BID2,rodada_concessao,2000.0,BM-S-11,Santos,Mar,Produção,03571723000139,Petrogal Brasil,Galp,Galp,10.0,False,profunda,cessoes,False
+486100038862000,003886/2000,BID2,rodada_concessao,2000.0,BM-S-11,Santos,Mar,Produção,10456016000167,Shell Brasil,Shell,Shell,25.0,False,profunda,cessoes,False
+486100038862000,003886/2000,BID2,rodada_concessao,2000.0,BM-S-11,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,65.0,True,profunda,cessoes,False
+486100038862000A,003886/2000A,BID2,rodada_concessao,2000.0,BM-S-11A,Santos,Mar,Produção,02461767000143,TotalEnergies EP,TotalEnergies,TotalEnergies,22.5,False,,,False
+486100038862000A,003886/2000A,BID2,rodada_concessao,2000.0,BM-S-11A,Santos,Mar,Produção,03571723000139,Petrogal Brasil,Galp,Galp,10.0,False,,,False
+486100038862000A,003886/2000A,BID2,rodada_concessao,2000.0,BM-S-11A,Santos,Mar,Produção,10456016000167,Shell Brasil,Shell,Shell,25.0,False,,,False
+486100038862000A,003886/2000A,BID2,rodada_concessao,2000.0,BM-S-11A,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,42.5,True,,,False
+486100038872000,003887/2000,BID2,rodada_concessao,2000.0,BM-C-7,Campos,Mar,Produção,04028583000110,Equinor Brasil,Equinor,Equinor,20.0,False,rasa,cessoes,False
+486100038872000,003887/2000,BID2,rodada_concessao,2000.0,BM-C-7,Campos,Mar,Produção,06871406000126,Prio Tigris,PRIO,PRIO,80.0,True,rasa,cessoes,False
+486100038882000,003888/2000,BID2,rodada_concessao,2000.0,BM-C-8,Campos,Mar,Produção,03255266000173,Prio Bravo,PRIO,PRIO,100.0,True,rasa,cessoes,False
+486100038902000,003890/2000,BID2,rodada_concessao,2000.0,BM-CAL-4,Camamu,Mar,Produção,02857854000114,3R Petroleum,3R Petroleum,Brava Energia,100.0,True,rasa,cessoes,False
+486100038922000,003892/2000,BID2,rodada_concessao,2000.0,BT-SEAL-2,Alagoas,Terra,Produção,34186669000131,Origem Alagoas,Origem Energia,Origem Energia,100.0,True,,,False
+486100038942000,003894/2000,BID2,rodada_concessao,2000.0,BM-SEAL-4,Sergipe,Mar,Produção,04033930000100,ONGC Campos,ONGC,ONGC,25.0,False,profunda,cessoes,False
+486100038942000,003894/2000,BID2,rodada_concessao,2000.0,BM-SEAL-4,Sergipe,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,75.0,True,profunda,cessoes,False
+486100038942000A,003894/2000A,BID2,rodada_concessao,2000.0,BM-SEAL-4A,Sergipe,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,cessoes,False
+486100038992000,003899/2000,BID2,rodada_concessao,2000.0,BT-REC-3,Recôncavo,Terra,Produção,03951809000197,Petrosynergy,Petrosynergy,Petrosynergy,100.0,True,,,False
+486100039002000,003900/2000,BID2,rodada_concessao,2000.0,BT-POT-3,Potiguar,Terra,Produção,03951809000197,Petrosynergy,Petrosynergy,Petrosynergy,100.0,True,,,False
+486100039012000,003901/2000,BID2,rodada_concessao,2000.0,BT-POT-4,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,50.0,False,,,False
+486100039012000,003901/2000,BID2,rodada_concessao,2000.0,BT-POT-4,Potiguar,Terra,Produção,05002889000160,Mandacaru Energia,Mandacaru Energia,Mandacaru Energia,50.0,True,,,False
+486100039012000A,003901/2000A,BID2,rodada_concessao,2000.0,BT-POT-4A,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+486100107092001,010709/2001,BID3,rodada_concessao,2001.0,BM-PAMA-3,Pará - Maranhão,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,cessoes,False
+486100107242001,010724/2001,BID3,rodada_concessao,2001.0,BM-ES-5,Espírito Santo,Mar,Produção,04672503000164,BW Maromba,BW Energy,BW Energy,100.0,True,profunda,cessoes,False
+486100107272001A,010727/2001A,BID3,rodada_concessao,2001.0,BM-C-14A,Campos,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+486100107302001,010730/2001,BID3,rodada_concessao,2001.0,BM-BAR-1,Barreirinhas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,cessoes,False
+486100107332001,010733/2001,BID3,rodada_concessao,2001.0,BM-S-24,Santos,Mar,Exploração,03571723000139,Petrogal Brasil,Galp,Galp,20.0,False,profunda,cessoes,False
+486100107332001,010733/2001,BID3,rodada_concessao,2001.0,BM-S-24,Santos,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,80.0,True,profunda,cessoes,False
+486100107352001,010735/2001,BID3,rodada_concessao,2001.0,BT-ES-12,Espírito Santo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+486100107352001A,010735/2001A,BID3,rodada_concessao,2001.0,BT-ES-12A,Espírito Santo,Terra,Produção,40875704000122,Seacrest Norte Cap,Seacrest,Seacrest,100.0,True,,,False
+486100107392001,010739/2001,BID3,rodada_concessao,2001.0,BT-POT-5,Potiguar,Terra,Produção,03951809000197,Petrosynergy,Petrosynergy,Petrosynergy,100.0,True,,,False
+486100092122002,009212/2002,BID4,rodada_concessao,2002.0,BM-BAR-3,Barreirinhas,Mar,Exploração,02873528000109,BP Energy,BP,BP,40.0,False,profunda,cessoes,False
+486100092122002,009212/2002,BID4,rodada_concessao,2002.0,BM-BAR-3,Barreirinhas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,60.0,True,profunda,cessoes,False
+486100092252002,009225/2002,BID4,rodada_concessao,2002.0,BT-POT-8,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+486100092252002A,009225/2002A,BID4,rodada_concessao,2002.0,BT-POT-8A,Potiguar,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+486100092262002,009226/2002,BID4,rodada_concessao,2002.0,BT-POT-9,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+486100092272002,009227/2002,BID4,rodada_concessao,2002.0,BT-POT-10,Potiguar,Terra,Produção,00271847000100,Imetame,Imetame,Imetame,100.0,True,,,False
+486100092272002B,009227/2002B,BID4,rodada_concessao,2002.0,BT-POT-10B,Potiguar,Terra,Produção,45832752000157,Níon Energia,Níon Energia S.A.,Níon Energia S.A.,100.0,True,,,False
+486100092282002,009228/2002,BID4,rodada_concessao,2002.0,BT-REC-7,Recôncavo,Terra,Produção,03347723000150,SHB,SHB,SHB,25.0,False,,,False
+486100092282002,009228/2002,BID4,rodada_concessao,2002.0,BT-REC-7,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,75.0,True,,,False
+486100092312002,009231/2002,BID4,rodada_concessao,2002.0,BT-REC-10,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+486100094872003,009487/2003,BID5,rodada_concessao,2003.0,BT-POT-17,Potiguar,Terra,Produção,03951809000197,Petrosynergy,Petrosynergy,Petrosynergy,100.0,True,,,False
+486100094882003,009488/2003,BID5,rodada_concessao,2003.0,BT-REC-11,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+486100094902003,009490/2003,BID5,rodada_concessao,2003.0,BT-POT-18,Potiguar,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+486100094912003,009491/2003,BID5,rodada_concessao,2003.0,BT-ES-22,Espírito Santo,Terra,Produção,40875704000122,Seacrest Norte Cap,Seacrest,Seacrest,100.0,True,,,False
+486100094922003,009492/2003,BID5,rodada_concessao,2003.0,BT-ES-21,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+486100094932003A,009493/2003A,BID5,rodada_concessao,2003.0,BM-S-41A,Santos,Mar,Produção,09347916000197,Karoon Brasil,Karoon,Karoon,20.0,False,profunda,cessoes,False
+486100094932003A,009493/2003A,BID5,rodada_concessao,2003.0,BM-S-41A,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,80.0,True,profunda,cessoes,False
+486100094942003,009494/2003,BID5,rodada_concessao,2003.0,BM-S-40,Santos,Mar,Produção,09347916000197,Karoon Brasil,Karoon,Karoon,100.0,True,rasa,cessoes,False
+486100095032003,009503/2003,BID5,rodada_concessao,2003.0,BT-POT-21,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,50.0,False,,,False
+486100095032003,009503/2003,BID5,rodada_concessao,2003.0,BT-POT-21,Potiguar,Terra,Produção,05002889000160,Mandacaru Energia,Mandacaru Energia,Mandacaru Energia,50.0,True,,,False
+486100095092003,009509/2003,BID5,rodada_concessao,2003.0,BT-POT-16,Potiguar,Terra,Produção,45832752000157,Níon Energia,Níon Energia S.A.,Níon Energia S.A.,100.0,True,,,False
+486100079662004,007966/2004,BID6,rodada_concessao,2004.0,BM-BAR-5,Barreirinhas,Mar,Exploração,02873528000109,BP Energy,BP,BP,40.0,False,profunda,cessoes,False
+486100079662004,007966/2004,BID6,rodada_concessao,2004.0,BM-BAR-5,Barreirinhas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,60.0,True,profunda,cessoes,False
+486100079742004,007974/2004,BID6,rodada_concessao,2004.0,BM-C-30,Campos,Mar,Exploração,07766332000120,IBV Brasil Petróleo,IBV Brasil,IBV Brasil,35.71,False,profunda,cessoes,False
+486100079742004,007974/2004,BID6,rodada_concessao,2004.0,BM-C-30,Campos,Mar,Exploração,08926302000105,Prio Forte S.A,PRIO,PRIO,64.29,True,profunda,cessoes,False
+486100079762004,007976/2004,BID6,rodada_concessao,2004.0,BM-C-32,Campos,Mar,Exploração,08926302000105,Prio Forte S.A,PRIO,PRIO,100.0,True,profunda,cessoes,False
+486100079772004,007977/2004,BID6,rodada_concessao,2004.0,BM-ES-21,Espírito Santo,Mar,Exploração,02857854000114,3R Petroleum,3R Petroleum,Brava Energia,100.0,True,profunda,cessoes,False
+486100079792004,007979/2004,BID6,rodada_concessao,2004.0,BM-ES-23,Espírito Santo,Mar,Exploração,04672503000164,BW Maromba,BW Energy,BW Energy,76.47,True,profunda,cessoes,False
+486100079792004,007979/2004,BID6,rodada_concessao,2004.0,BM-ES-23,Espírito Santo,Mar,Exploração,19332109000154,Aquamarine,Aquamarine,Aquamarine,23.53,False,profunda,cessoes,False
+486100079842004,007984/2004,BID6,rodada_concessao,2004.0,BT-ES-25,Espírito Santo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+486100079842004A,007984/2004A,BID6,rodada_concessao,2004.0,BT-ES-25A,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+486100079852004,007985/2004,BID6,rodada_concessao,2004.0,BT-ES-26,Espírito Santo,Terra,Produção,03951809000197,Petrosynergy,Petrosynergy,Petrosynergy,100.0,True,,,False
+486100079862004,007986/2004,BID6,rodada_concessao,2004.0,BT-ES-27,Espírito Santo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+486100079862004A,007986/2004A,BID6,rodada_concessao,2004.0,BT-ES-27A,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+486100079892004,007989/2004,BID6,rodada_concessao,2004.0,BM-PAMA-8,Pará - Maranhão,Mar,Exploração,12450530000110,Sinopec,Sinopec,Sinopec,20.0,False,profunda,cessoes,False
+486100079892004,007989/2004,BID6,rodada_concessao,2004.0,BM-PAMA-8,Pará - Maranhão,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,80.0,True,profunda,cessoes,False
+486100079942004,007994/2004,BID6,rodada_concessao,2004.0,BT-POT-28,Potiguar,Terra,Produção,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+486100079952004,007995/2004,BID6,rodada_concessao,2004.0,BT-POT-29,Potiguar,Terra,Produção,03571723000139,Petrogal Brasil,Galp,Galp,50.0,True,,,False
+486100079952004,007995/2004,BID6,rodada_concessao,2004.0,BT-POT-29,Potiguar,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,50.0,False,,,False
+486100079982004,007998/2004,BID6,rodada_concessao,2004.0,BT-POT-32,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+486100080002004,008000/2004,BID6,rodada_concessao,2004.0,BT-POT-34,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,50.0,False,,,False
+486100080002004,008000/2004,BID6,rodada_concessao,2004.0,BT-POT-34,Potiguar,Terra,Produção,05002889000160,Mandacaru Energia,Mandacaru Energia,Mandacaru Energia,50.0,True,,,False
+486100080012004,008001/2004,BID6,rodada_concessao,2004.0,BT-POT-35,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+486100080022004,008002/2004,BID6,rodada_concessao,2004.0,BT-POT-36,Potiguar,Terra,Produção,03571723000139,Petrogal Brasil,Galp,Galp,50.0,True,,,False
+486100080022004,008002/2004,BID6,rodada_concessao,2004.0,BT-POT-36,Potiguar,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,50.0,False,,,False
+486100080052004,008005/2004,BID6,rodada_concessao,2004.0,BT-POT-39,Potiguar,Terra,Produção,32528443000146,Phoenix Óleo & Gás,Phoenix Óleo & Gás,Phoenix Óleo & Gás,100.0,True,,,False
+486100080052004A,008005/2004A,BID6,rodada_concessao,2004.0,BT-POT-39A,Potiguar,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+486100080082004,008008/2004,BID6,rodada_concessao,2004.0,BT-POT-42,Potiguar,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+486100080122004,008012/2004,BID6,rodada_concessao,2004.0,BT-REC-14,Recôncavo,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+486100080132004,008013/2004,BID6,rodada_concessao,2004.0,BT-REC-15,Recôncavo,Terra,Produção,16607122000180,Nova Petróleo,Nova Petróleo,Nova Petróleo,100.0,True,,,False
+486100080162004,008016/2004,BID6,rodada_concessao,2004.0,BT-REC-18,Recôncavo,Terra,Produção,03347723000150,SHB,SHB,SHB,50.0,True,,,False
+486100080162004,008016/2004,BID6,rodada_concessao,2004.0,BT-REC-18,Recôncavo,Terra,Produção,08853092000164,Somoil do Brasil,Somoil do Brasil,Somoil do Brasil,50.0,False,,,False
+486100080172004,008017/2004,BID6,rodada_concessao,2004.0,BT-REC-19,Recôncavo,Terra,Produção,03347723000150,SHB,SHB,SHB,20.0,False,,,False
+486100080172004,008017/2004,BID6,rodada_concessao,2004.0,BT-REC-19,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,80.0,True,,,False
+486100080222004,008022/2004,BID6,rodada_concessao,2004.0,BM-SEAL-10,Sergipe,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+486100080232004,008023/2004,BID6,rodada_concessao,2004.0,BM-SEAL-11,Sergipe,Mar,Produção,07766332000120,IBV Brasil Petróleo,IBV Brasil,IBV Brasil,40.0,False,profunda,cessoes,False
+486100080232004,008023/2004,BID6,rodada_concessao,2004.0,BM-SEAL-11,Sergipe,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,60.0,True,profunda,cessoes,False
+48610009121200588,009121/2005,BID7,rodada_concessao,2005.0,BT-REC-29,Recôncavo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+48610009127200555,009127/2005,BID7,rodada_concessao,2005.0,BT-POT-54,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+48610009128200516,009128/2005,BID7,rodada_concessao,2005.0,BT-POT-55,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,70.0,True,,,False
+48610009128200516,009128/2005,BID7,rodada_concessao,2005.0,BT-POT-55,Potiguar,Terra,Produção,03347723000150,SHB,SHB,SHB,30.0,False,,,False
+48610009128200516A,009128/2005A,BID7,rodada_concessao,2005.0,BT-POT-55A,Potiguar,Terra,Produção,38219997000148,Aguila,Aguila,Aguila,100.0,True,,,False
+48610009134200557,009134/2005,BID7,rodada_concessao,2005.0,BT-POT-61,Potiguar,Terra,Produção,32528443000146,Phoenix Óleo & Gás,Phoenix Óleo & Gás,Phoenix Óleo & Gás,100.0,True,,,False
+48610009138200535,009138/2005,BID7,rodada_concessao,2005.0,BT-SEAL-6,Sergipe,Terra,Produção,04935189000165,Nord,Nord,Nord,100.0,True,,,False
+48610009146200581,009146/2005,BID7,rodada_concessao,2005.0,BT-SOL-3,Solimões,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+48610009149200515,009149/2005,BID7,rodada_concessao,2005.0,BM-POT-17,Potiguar,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,cessoes,False
+48610009151200594,009151/2005,BID7,rodada_concessao,2005.0,BT-POT-51,Potiguar,Terra,Produção,03571723000139,Petrogal Brasil,Galp,Galp,50.0,True,,,False
+48610009151200594,009151/2005,BID7,rodada_concessao,2005.0,BT-POT-51,Potiguar,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,50.0,False,,,False
+48610009155200572,009155/2005,BID7,rodada_concessao,2005.0,BT-POT-50,Potiguar,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+48610009156200517,009156/2005,BID7,rodada_concessao,2005.0,BM-C-36,Campos,Mar,Produção,30653538000166,Petronas,Petronas,Petronas,50.0,False,profunda,cessoes,False
+48610009156200517,009156/2005,BID7,rodada_concessao,2005.0,BM-C-36,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,50.0,True,profunda,cessoes,False
+48610009157200561,009157/2005,BID7,rodada_concessao,2005.0,BM-C-33,Campos,Mar,Produção,02270689000108,Repsol Sinopec,Repsol Sinopec,Repsol,35.0,False,profunda,cessoes,False
+48610009157200561,009157/2005,BID7,rodada_concessao,2005.0,BM-C-33,Campos,Mar,Produção,04580657000126,Equinor Energy,Equinor,Equinor,35.0,True,profunda,cessoes,False
+48610009157200561,009157/2005,BID7,rodada_concessao,2005.0,BM-C-33,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,30.0,False,profunda,cessoes,False
+48610009173200554,009173/2005,BID7,rodada_concessao,2005.0,BT-ES-35,Espírito Santo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+48610009180200556,009180/2005,BID7,rodada_concessao,2005.0,BM-S-50,Santos,Mar,Exploração,02270689000108,Repsol Sinopec,Repsol Sinopec,Repsol,20.0,False,profunda,cessoes,False
+48610009180200556,009180/2005,BID7,rodada_concessao,2005.0,BM-S-50,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,20.0,False,profunda,cessoes,False
+48610009180200556,009180/2005,BID7,rodada_concessao,2005.0,BM-S-50,Santos,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,60.0,True,profunda,cessoes,False
+48610009184200534,009184/2005,BID7,rodada_concessao,2005.0,BM-S-54,Santos,Mar,Produção,08537267000124,Ecopetrol Óleo e Gás,Ecopetrol,Ecopetrol,30.0,False,profunda,cessoes,False
+48610009184200534,009184/2005,BID7,rodada_concessao,2005.0,BM-S-54,Santos,Mar,Produção,10456016000167,Shell Brasil,Shell,Shell,70.0,True,profunda,cessoes,False
+48610009186200523,009186/2005,BID7,rodada_concessao,2005.0,BT-ES-30,Espírito Santo,Terra,Produção,52127214000127,3R RNCE,3R Petroleum,Brava Energia,100.0,True,,,False
+48610009188200512,009188/2005,BID7,rodada_concessao,2005.0,BT-ES-32,Espírito Santo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+48610009188200512A,009188/2005A,BID7,rodada_concessao,2005.0,BT-ES-32A,Espírito Santo,Terra,Produção,35723994000159,Seacrest SPE Cricaré,Seacrest,Seacrest,100.0,True,,,False
+48610009193200525,009193/2005,BID7,rodada_concessao,2005.0,BT-ES-33,Espírito Santo,Terra,Produção,08990767000117,Vipetro,Vipetro,Vipetro,100.0,True,,,False
+48610009197200511,009197/2005,BID7,rodada_concessao,2005.0,BT-SEAL-12,Sergipe,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+48610009198200558,009198/2005,BID7,rodada_concessao,2005.0,BT-SEAL-13,Sergipe,Terra,Produção,32137521000181,Petrom,Petrom,Petrom,100.0,True,,,False
+48610009198200558A,009198/2005A,BID7,rodada_concessao,2005.0,BT-SEAL-13A,Sergipe,Terra,Produção,05002889000160,Mandacaru Energia,Mandacaru Energia,Mandacaru Energia,50.0,True,,,False
+48610009198200558A,009198/2005A,BID7,rodada_concessao,2005.0,BT-SEAL-13A,Sergipe,Terra,Produção,34145046000110,Centro Oeste,Centro Oeste,Centro Oeste,50.0,False,,,False
+48610009202200588,009202/2005,BID7,rodada_concessao,2005.0,BT-SEAL-18,Sergipe,Terra,Produção,03347723000150,SHB,SHB,SHB,30.0,True,,,False
+48610009202200588,009202/2005,BID7,rodada_concessao,2005.0,BT-SEAL-18,Sergipe,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,70.0,False,,,False
+48610009204200577,009204/2005,BID7,rodada_concessao,2005.0,BT-SEAL-20,Sergipe,Terra,Produção,04935189000165,Nord,Nord,Nord,100.0,True,,,False
+48610009207200519,009207/2005,BID7,rodada_concessao,2005.0,BT-SF-5,São Francisco,Terra,Exploração,10243470000130,Cemes,Cemes,Cemes,51.0,True,,,False
+48610009207200519,009207/2005,BID7,rodada_concessao,2005.0,BT-SF-5,São Francisco,Terra,Exploração,19791581000155,Codemig,Codemig,Governo de Minas Gerais,49.0,False,,,False
+48610001293200856,001293/2008,BID9,rodada_concessao,2007.0,BT-REC-59,Recôncavo,Terra,Produção,03951809000197,Petrosynergy,Petrosynergy,Petrosynergy,100.0,True,,,False
+48610001295200845,001295/2008,BID9,rodada_concessao,2007.0,BT-REC-58,Recôncavo,Terra,Exploração,15240822000117,Alvopetro,Alvopetro,Alvopetro,100.0,True,,,False
+48610001365200865,001365/2008,BID9,rodada_concessao,2007.0,BM-C-47,Campos,Mar,Produção,04028583000110,Equinor Brasil,Equinor,Equinor,20.0,False,rasa,cessoes,False
+48610001365200865,001365/2008,BID9,rodada_concessao,2007.0,BM-C-47,Campos,Mar,Produção,06871406000126,Prio Tigris,PRIO,PRIO,80.0,True,rasa,cessoes,False
+48610001367200854,001367/2008,BID9,rodada_concessao,2007.0,BM-C-39,Campos,Mar,Produção,03255266000173,Prio Bravo,PRIO,PRIO,80.0,True,rasa,cessoes,False
+48610001367200854,001367/2008,BID9,rodada_concessao,2007.0,BM-C-39,Campos,Mar,Produção,08926302000105,Prio Forte S.A,PRIO,PRIO,20.0,False,rasa,cessoes,False
+48610001368200807,001368/2008,BID9,rodada_concessao,2007.0,BM-C-40,Campos,Mar,Produção,08926302000105,Prio Forte S.A,PRIO,PRIO,100.0,True,rasa,cessoes,False
+48610001369200843,001369/2008,BID9,rodada_concessao,2007.0,BM-C-41,Campos,Mar,Exploração,08926302000105,Prio Forte S.A,PRIO,PRIO,100.0,True,rasa,cessoes,False
+48610001378200834,001378/2008,BID9,rodada_concessao,2007.0,BM-S-61,Santos,Mar,Produção,09347916000197,Karoon Brasil,Karoon,Karoon,100.0,True,rasa,cessoes,False
+48610001383200847,001383/2008,BID9,rodada_concessao,2007.0,BM-S-68,Santos,Mar,Produção,09347916000197,Karoon Brasil,Karoon,Karoon,100.0,True,rasa,cessoes,False
+48610001402200835,001402/2008,BID9,rodada_concessao,2007.0,BT-ES-38,Espírito Santo,Terra,Produção,08990767000117,Vipetro,Vipetro,Vipetro,100.0,True,,,False
+48610001413200815,001413/2008,BID9,rodada_concessao,2007.0,BT-PN-1,Parnaíba,Terra,Produção,04423567000121,Eneva,Eneva,Eneva,100.0,True,,,False
+48610001414200860,001414/2008,BID9,rodada_concessao,2007.0,BT-PN-4,Parnaíba,Terra,Exploração,04423567000121,Eneva,Eneva,Eneva,100.0,True,,,False
+48610001415200812,001415/2008,BID9,rodada_concessao,2007.0,BT-PN-5,Parnaíba,Terra,Produção,04423567000121,Eneva,Eneva,Eneva,100.0,True,,,False
+48610001417200801,001417/2008,BID9,rodada_concessao,2007.0,BT-PN-7,Parnaíba,Terra,Produção,04423567000121,Eneva,Eneva,Eneva,100.0,True,,,False
+48610001418200848,001418/2008,BID9,rodada_concessao,2007.0,BT-PN-8,Parnaíba,Terra,Produção,04423567000121,Eneva,Eneva,Eneva,100.0,True,,,False
+48610001425200840,001425/2008,BID9,rodada_concessao,2007.0,BT-REC-45,Recôncavo,Terra,Produção,15240822000117,Alvopetro,Alvopetro,Alvopetro,100.0,True,,,False
+48610001427200839,001427/2008,BID9,rodada_concessao,2007.0,BT-REC-47,Recôncavo,Terra,Produção,15240822000117,Alvopetro,Alvopetro,Alvopetro,100.0,True,,,False
+48610001427200839A,001427/2008A,BID9,rodada_concessao,2007.0,BT-REC-47A,Recôncavo,Terra,Exploração,11230625000166,SPE Tiêta,SPE Tiêta,SPE Tiêta,100.0,True,,,False
+48610001429200828,001429/2008,BID9,rodada_concessao,2007.0,BT-REC-49,Recôncavo,Terra,Produção,23018639000108,3R Bahia,3R Petroleum,Brava Energia,100.0,True,,,False
+48610001430200852,001430/2008,BID9,rodada_concessao,2007.0,BT-REC-50,Recôncavo,Terra,Produção,35156290000141,3R Rio Ventura,3R Petroleum,Brava Energia,100.0,True,,,False
+48610001439200863,001439/2008,BID9,rodada_concessao,2007.0,BT-REC-35,Recôncavo,Terra,Produção,00271847000100,Imetame,Imetame,Imetame,69.35,True,,,False
+48610001439200863,001439/2008,BID9,rodada_concessao,2007.0,BT-REC-35,Recôncavo,Terra,Produção,20891041000122,Orteng Óleo e Gás,Orteng,Orteng,30.65,False,,,False
+48610001440200898,001440/2008,BID9,rodada_concessao,2007.0,BT-REC-36,Recôncavo,Terra,Produção,48700902000167,Recôncavo Energ SPE,Recôncavo Energ SPE,Recôncavo Energ SPE,100.0,True,,,False
+48610001443200821,001443/2008,BID9,rodada_concessao,2007.0,BT-REC-39,Recôncavo,Terra,Exploração,11230625000166,SPE Tiêta,SPE Tiêta,SPE Tiêta,100.0,True,,,False
+48610001446200865,001446/2008,BID9,rodada_concessao,2007.0,BT-REC-42,Recôncavo,Terra,Exploração,11230625000166,SPE Tiêta,SPE Tiêta,SPE Tiêta,100.0,True,,,False
+480000034559764,003455/1997,BR(3),outros,,BSOL-5,Solimões,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000034799722,003479/1997,BR(3),outros,,BPOT-10,Potiguar,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000034819774,003481/1997,BR(3),outros,,BPOT-100A,Potiguar,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000034829737,003482/1997,BR(3),outros,,BPOT-4,Potiguar,Terra,Produção,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+480000034849762,003484/1997,BR(3),outros,,BPOT-6,Potiguar,Terra,Produção,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+480000035189782,003518/1997,BR(3),outros,,BCAM-40,Camamu,Mar,Produção,12091809000155,Brava Energia S.A.,Brava Energia,Brava Energia,45.0,False,rasa,cessoes,False
+480000035189782,003518/1997,BR(3),outros,,BCAM-40,Camamu,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,35.0,True,rasa,cessoes,False
+480000035189782,003518/1997,BR(3),outros,,BCAM-40,Camamu,Mar,Produção,38427732000135,Gas Bridge,Gas Bridge,Gas Bridge,20.0,False,rasa,cessoes,False
+480000035419702,003541/1997,BR(3),outros,,BCED,Espírito Santo,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000035729728,003572/1997,BR(3),outros,,BS-3,Santos,Mar,Produção,07467619000150,Panoro Energy,Panoro Energy,Panoro Energy,50.0,False,rasa,cessoes,False
+480000035729728,003572/1997,BR(3),outros,,BS-3,Santos,Mar,Produção,08857415000198,Brasoil Cav. Marinho,Brasoil,Brasoil,15.0,False,rasa,cessoes,False
+480000035729728,003572/1997,BR(3),outros,,BS-3,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,35.0,True,rasa,cessoes,False
+480000034609702,003460/1997,BR(3+2),outros,,BA-3,Amazonas,Terra,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000034609702A,003460/1997A,BR(3+2),outros,,BA-3A,Amazonas,Terra,Produção,04423567000121,Eneva,Eneva,Eneva,100.0,True,,,False
+480000034959789,003495/1997,BR(3+2),outros,,SEAL-100,Sergipe,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000035359700,003535/1997,BR(3+2),outros,,BES-100,Espírito Santo,Mar,Produção,04672503000164,BW Maromba,BW Energy,BW Energy,100.0,True,profunda,cessoes,False
+480000035529711,003552/1997,BR(3+2),outros,,BC-10,Campos,Mar,Produção,04033930000100,ONGC Campos,ONGC,ONGC,27.0,False,profunda,cessoes,False
+480000035529711,003552/1997,BR(3+2),outros,,BC-10,Campos,Mar,Produção,09589793000109,Enauta,Enauta,Brava Energia,23.0,False,profunda,cessoes,False
+480000035529711,003552/1997,BR(3+2),outros,,BC-10,Campos,Mar,Produção,10456016000167,Shell Brasil,Shell,Shell,50.0,True,profunda,cessoes,False
+480000035569771,003556/1997,BR(3+2),outros,,BC-20,Campos,Mar,Produção,02308527000103,Nova Técnica,Nova Técnica,Nova Técnica,37.5,False,profunda,cessoes,False
+480000035569771,003556/1997,BR(3+2),outros,,BC-20,Campos,Mar,Produção,02857854000114,3R Petroleum,3R Petroleum,Brava Energia,62.5,True,profunda,cessoes,False
+480000035569771A,003556/1997A,BR(3+2),outros,,BC-20A,Campos,Mar,Produção,49602180000170,BW Peixe,BW Energy,BW Energy,100.0,True,rasa,cessoes,False
+480000035579734,003557/1997,BR(3+2),outros,,BC-30,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000035609749,003560/1997,BR(3+2),outros,,BC-60,Campos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000035709701,003570/1997,BR(3+2),outros,,BS-1,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,rasa,cessoes,False
+480000035739791,003573/1997,BR(3+2),outros,,BS-4,Santos,Mar,Produção,12091809000155,Brava Energia S.A.,Brava Energia,Brava Energia,80.0,True,profunda,cessoes,False
+480000035739791,003573/1997,BR(3+2),outros,,BS-4,Santos,Mar,Produção,53031967000105,Westlawn Energia,Westlawn Energia,Westlawn Energia,20.0,False,profunda,cessoes,False
+480000035769789,003576/1997,BR(3+2),outros,,BS-400,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+480000035779741,003577/1997,BR(3+2),outros,,BS-500,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,,,False
+48610012913201005,012913/2010,CO_2010,cessao_onerosa,2010.0,C_Onerosa_2010,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,pre_sal_legal,True
+48610220924201997,220924/2019,EXC_CO_2020,excedentes_cessao_onerosa,2019.0,Búzios_EXC,Santos,Mar,Produção,19233194000101,CNPC,CNPC,CNPC,5.0,False,profunda,pre_sal_legal,True
+48610220924201997,220924/2019,EXC_CO_2020,excedentes_cessao_onerosa,2019.0,Búzios_EXC,Santos,Mar,Produção,19246634000157,CNOOC Petroleum,CNOOC,CNOOC,10.0,False,profunda,pre_sal_legal,True
+48610220924201997,220924/2019,EXC_CO_2020,excedentes_cessao_onerosa,2019.0,Búzios_EXC,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,85.0,True,profunda,pre_sal_legal,True
+48610220925201931,220925/2019,EXC_CO_2020,excedentes_cessao_onerosa,2019.0,Itapu_EXC,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,pre_sal_legal,True
+48610226558202102,226558/2021,EXC_CO_2022,excedentes_cessao_onerosa,2021.0,ATAPU_EXC,Santos,Mar,Produção,02461767000143,TotalEnergies EP,TotalEnergies,TotalEnergies,22.5,False,profunda,pre_sal_legal,True
+48610226558202102,226558/2021,EXC_CO_2022,excedentes_cessao_onerosa,2021.0,ATAPU_EXC,Santos,Mar,Produção,10456016000167,Shell Brasil,Shell,Shell,25.0,False,profunda,pre_sal_legal,True
+48610226558202102,226558/2021,EXC_CO_2022,excedentes_cessao_onerosa,2021.0,ATAPU_EXC,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,52.5,True,profunda,pre_sal_legal,True
+48610226559202149,226559/2021,EXC_CO_2022,excedentes_cessao_onerosa,2021.0,SEPIA_EXC,Santos,Mar,Produção,02461767000143,TotalEnergies EP,TotalEnergies,TotalEnergies,28.0,False,profunda,pre_sal_legal,True
+48610226559202149,226559/2021,EXC_CO_2022,excedentes_cessao_onerosa,2021.0,SEPIA_EXC,Santos,Mar,Produção,15916060000126,QatarEnergy,QatarEnergy,QatarEnergy,21.0,False,profunda,pre_sal_legal,True
+48610226559202149,226559/2021,EXC_CO_2022,excedentes_cessao_onerosa,2021.0,SEPIA_EXC,Santos,Mar,Produção,30653538000166,Petronas,Petronas,Petronas,21.0,False,profunda,pre_sal_legal,True
+48610226559202149,226559/2021,EXC_CO_2022,excedentes_cessao_onerosa,2021.0,SEPIA_EXC,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,30.0,True,profunda,pre_sal_legal,True
+48610232915202244,232915/2022,OPP1,oferta_permanente_partilha,2022.0,Água_Marinha_OPP1,Campos,Mar,Exploração,02461767000143,TotalEnergies EP,TotalEnergies,TotalEnergies,30.0,False,profunda,pre_sal_legal,True
+48610232915202244,232915/2022,OPP1,oferta_permanente_partilha,2022.0,Água_Marinha_OPP1,Campos,Mar,Exploração,15916060000126,QatarEnergy,QatarEnergy,QatarEnergy,20.0,False,profunda,pre_sal_legal,True
+48610232915202244,232915/2022,OPP1,oferta_permanente_partilha,2022.0,Água_Marinha_OPP1,Campos,Mar,Exploração,30653538000166,Petronas,Petronas,Petronas,20.0,False,profunda,pre_sal_legal,True
+48610232915202244,232915/2022,OPP1,oferta_permanente_partilha,2022.0,Água_Marinha_OPP1,Campos,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,30.0,True,profunda,pre_sal_legal,True
+48610232916202299,232916/2022,OPP1,oferta_permanente_partilha,2022.0,Norte_de_Brava_OPP1,Campos,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,pre_sal_legal,True
+48610232917202233,232917/2022,OPP1,oferta_permanente_partilha,2022.0,Bumerangue_OPP1,Santos,Mar,Exploração,02873528000109,BP Energy,BP,BP,100.0,True,profunda,pre_sal_legal,True
+48610232918202288,232918/2022,OPP1,oferta_permanente_partilha,2022.0,SO_Sagitário_OPP1,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,40.0,False,profunda,pre_sal_legal,True
+48610232918202288,232918/2022,OPP1,oferta_permanente_partilha,2022.0,SO_Sagitário_OPP1,Santos,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,60.0,True,profunda,pre_sal_legal,True
+48610239990202317,239990/2023,OPP2,oferta_permanente_partilha,2023.0,Tupinamba_OPP2,Santos,Mar,Exploração,02873528000109,BP Energy,BP,BP,100.0,True,profunda,pre_sal_legal,True
+48610202168202643,202168/2026,OPP3,oferta_permanente_partilha,2025.0,Esmeralda_OPP3,Santos,Mar,Exploração,09347916000197,Karoon Brasil,Karoon,Karoon,100.0,True,profunda,pre_sal_legal,True
+48610202169202698,202169/2026,OPP3,oferta_permanente_partilha,2025.0,Ametista_OPP3,Santos,Mar,Exploração,12450530000110,Sinopec,Sinopec,Sinopec,30.0,False,profunda,pre_sal_legal,True
+48610202169202698,202169/2026,OPP3,oferta_permanente_partilha,2025.0,Ametista_OPP3,Santos,Mar,Exploração,19246634000157,CNOOC Petroleum,CNOOC,CNOOC,70.0,True,profunda,pre_sal_legal,True
+48610202170202612,202170/2026,OPP3,oferta_permanente_partilha,2025.0,Citrino_OPP3,Campos,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,pre_sal_legal,True
+48610202171202667,202171/2026,OPP3,oferta_permanente_partilha,2025.0,Itaimbezinho_OPP3,Campos,Mar,Exploração,04028583000110,Equinor Brasil,Equinor,Equinor,100.0,True,profunda,pre_sal_legal,True
+48610202173202656,202173/2026,OPP3,oferta_permanente_partilha,2025.0,Jaspe_OPP3,Campos,Mar,Exploração,04028583000110,Equinor Brasil,Equinor,Equinor,40.0,False,profunda,pre_sal_legal,True
+48610202173202656,202173/2026,OPP3,oferta_permanente_partilha,2025.0,Jaspe_OPP3,Campos,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,60.0,True,profunda,pre_sal_legal,True
+48610222001201970,222001/2019,OP1_AM,acumulacoes_marginais,2019.0,Mosquito,Espírito Santo,Terra,Exploração,47851611000107,NBS,NBS,NBS,100.0,True,,,False
+48610222002201914,222002/2019,OP1_AM,acumulacoes_marginais,2019.0,Saíra,Espírito Santo,Terra,Exploração,47851611000107,NBS,NBS,NBS,100.0,True,,,False
+48610222003201969,222003/2019,OP1_AM,acumulacoes_marginais,2019.0,Lagoa Parda Sul,Espírito Santo,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,100.0,True,,,False
+48610222004201911,222004/2019,OP1_AM,acumulacoes_marginais,2019.0,Trapiá,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610222005201958,222005/2019,OP1_AM,acumulacoes_marginais,2019.0,Tiziu,Potiguar,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,50.0,False,,,False
+48610222005201958,222005/2019,OP1_AM,acumulacoes_marginais,2019.0,Tiziu,Potiguar,Terra,Exploração,34186669000131,Origem Alagoas,Origem Energia,Origem Energia,50.0,True,,,False
+48610222006201901,222006/2019,OP1_AM,acumulacoes_marginais,2019.0,Camaçari,Recôncavo,Terra,Exploração,33400769000156,Creative Energy,Creative Energy,Creative Energy,100.0,True,,,False
+48610222007201947,222007/2019,OP1_AM,acumulacoes_marginais,2019.0,Fazenda Gameleira,Recôncavo,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,50.0,False,,,False
+48610222007201947,222007/2019,OP1_AM,acumulacoes_marginais,2019.0,Fazenda Gameleira,Recôncavo,Terra,Exploração,34186669000131,Origem Alagoas,Origem Energia,Origem Energia,50.0,True,,,False
+48610222008201991,222008/2019,OP1_AM,acumulacoes_marginais,2019.0,Fazenda Sori,Recôncavo,Terra,Exploração,08839018000193,Brasil Refinarias,Brasil Refinarias,Brasil Refinarias,100.0,True,,,False
+48610222009201936,222009/2019,OP1_AM,acumulacoes_marginais,2019.0,Lagoa Verde,Recôncavo,Terra,Exploração,24604414000198,Great Energy,Great Energy,Great Energy,100.0,True,,,False
+48610222010201961,222010/2019,OP1_AM,acumulacoes_marginais,2019.0,Pojuca Norte,Recôncavo,Terra,Exploração,08839018000193,Brasil Refinarias,Brasil Refinarias,Brasil Refinarias,100.0,True,,,False
+48610222011201913,222011/2019,OP1_AM,acumulacoes_marginais,2019.0,Rio Joanes,Recôncavo,Terra,Exploração,33400769000156,Creative Energy,Creative Energy,Creative Energy,100.0,True,,,False
+48610222012201950,222012/2019,OP1_AM,acumulacoes_marginais,2019.0,Piaçabuçu,Alagoas,Terra,Exploração,15594013000103,Perícia,Perícia,Perícia,50.0,True,,,False
+48610222012201950,222012/2019,OP1_AM,acumulacoes_marginais,2019.0,Piaçabuçu,Alagoas,Terra,Exploração,23340906000150,Andorinha Petróleo,Andorinha Petróleo,Andorinha Petróleo,50.0,False,,,False
+48610222046201944,222046/2019,OP1_BE,oferta_permanente_concessao,2019.0,PN-T-102A_OP1,Parnaíba,Terra,Exploração,04423567000121,Eneva,Eneva,Eneva,100.0,True,,,False
+48610222047201999,222047/2019,OP1_BE,oferta_permanente_concessao,2019.0,PN-T-47_OP1,Parnaíba,Terra,Exploração,04423567000121,Eneva,Eneva,Eneva,100.0,True,,,False
+48610222048201933,222048/2019,OP1_BE,oferta_permanente_concessao,2019.0,PN-T-48A_OP1,Parnaíba,Terra,Exploração,04423567000121,Eneva,Eneva,Eneva,100.0,True,,,False
+48610222049201988,222049/2019,OP1_BE,oferta_permanente_concessao,2019.0,PN-T-66_OP1,Parnaíba,Terra,Exploração,04423567000121,Eneva,Eneva,Eneva,100.0,True,,,False
+48610222050201911,222050/2019,OP1_BE,oferta_permanente_concessao,2019.0,PN-T-67A_OP1,Parnaíba,Terra,Exploração,04423567000121,Eneva,Eneva,Eneva,100.0,True,,,False
+48610222051201957,222051/2019,OP1_BE,oferta_permanente_concessao,2019.0,PN-T-68_OP1,Parnaíba,Terra,Exploração,04423567000121,Eneva,Eneva,Eneva,100.0,True,,,False
+48610222052201900,222052/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-392_OP1,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610222053201946,222053/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-432_OP1,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610222054201991,222054/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-433_OP1,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610222055201935,222055/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-434_OP1,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610222056201980,222056/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-476_OP1,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610222057201924,222057/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-477_OP1,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610222058201979,222058/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-478_OP1,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610222059201913,222059/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-519_OP1,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610222060201948,222060/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-521_OP1,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610222061201992,222061/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-564_OP1,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610222062201937,222062/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-565_OP1,Potiguar,Terra,Exploração,32528443000146,Phoenix Óleo & Gás,Phoenix Óleo & Gás,Phoenix Óleo & Gás,100.0,True,,,False
+48610222063201981,222063/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-566_OP1,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610222064201926,222064/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-606_OP1,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610222065201971,222065/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-610_OP1,Potiguar,Terra,Exploração,32528443000146,Phoenix Óleo & Gás,Phoenix Óleo & Gás,Phoenix Óleo & Gás,100.0,True,,,False
+48610222066201915,222066/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-650_OP1,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610222067201960,222067/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-651_OP1,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610222068201912,222068/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-652_OP1,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610222069201959,222069/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-740_OP1,Potiguar,Terra,Exploração,45832752000157,Níon Energia,Níon Energia S.A.,Níon Energia S.A.,100.0,True,,,False
+48610222070201983,222070/2019,OP1_BE,oferta_permanente_concessao,2019.0,POT-T-834_OP1,Potiguar,Terra,Exploração,17572061000126,Geopark Brasil,GeoPark,GeoPark,100.0,True,,,False
+48610222071201928,222071/2019,OP1_BE,oferta_permanente_concessao,2019.0,REC-T-67_OP1,Recôncavo,Terra,Exploração,17572061000126,Geopark Brasil,GeoPark,GeoPark,100.0,True,,,False
+48610222072201972,222072/2019,OP1_BE,oferta_permanente_concessao,2019.0,REC-T-77_OP1,Recôncavo,Terra,Exploração,17572061000126,Geopark Brasil,GeoPark,GeoPark,100.0,True,,,False
+48610222073201917,222073/2019,OP1_BE,oferta_permanente_concessao,2019.0,REC-T-58_OP1,Recôncavo,Terra,Exploração,17572061000126,Geopark Brasil,GeoPark,GeoPark,100.0,True,,,False
+48610222076201951,222076/2019,OP1_BE,oferta_permanente_concessao,2019.0,SEAL-M-505_OP1,Sergipe,Mar,Exploração,12091809000155,Brava Energia S.A.,Brava Energia,Brava Energia,100.0,True,profunda,blocos_ofertados,False
+48610222077201903,222077/2019,OP1_BE,oferta_permanente_concessao,2019.0,SEAL-M-575_OP1,Sergipe,Mar,Exploração,12091809000155,Brava Energia S.A.,Brava Energia,Brava Energia,100.0,True,profunda,blocos_ofertados,False
+48610222078201940,222078/2019,OP1_BE,oferta_permanente_concessao,2019.0,SEAL-M-637_OP1,Sergipe,Mar,Exploração,02804865000136,Murphy Brasil,Murphy,Murphy,20.0,False,profunda,blocos_ofertados,False
+48610222078201940,222078/2019,OP1_BE,oferta_permanente_concessao,2019.0,SEAL-M-637_OP1,Sergipe,Mar,Exploração,04033958000130,ExxonMobil Brasil,ExxonMobil,ExxonMobil,50.0,True,profunda,blocos_ofertados,False
+48610222078201940,222078/2019,OP1_BE,oferta_permanente_concessao,2019.0,SEAL-M-637_OP1,Sergipe,Mar,Exploração,12091809000155,Brava Energia S.A.,Brava Energia,Brava Energia,30.0,False,profunda,blocos_ofertados,False
+48610204682202117,204682/2021,OP2_AM,acumulacoes_marginais,2020.0,Juruá,Solimões,Terra,Exploração,04423567000121,Eneva,Eneva,Eneva,100.0,True,,,False
+48610204665202171,204665/2021,OP2_BE,oferta_permanente_concessao,2020.0,AM-T-62_OP2,Amazonas,Terra,Exploração,04423567000121,Eneva,Eneva,Eneva,100.0,True,,,False
+48610204666202116,204666/2021,OP2_BE,oferta_permanente_concessao,2020.0,AM-T-84_OP2,Amazonas,Terra,Exploração,04423567000121,Eneva,Eneva,Eneva,100.0,True,,,False
+48610204667202161,204667/2021,OP2_BE,oferta_permanente_concessao,2020.0,AM-T-85_OP2,Amazonas,Terra,Exploração,04423567000121,Eneva,Eneva,Eneva,100.0,True,,,False
+48610204668202113,204668/2021,OP2_BE,oferta_permanente_concessao,2020.0,C-M-757_OP2,Campos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,100.0,True,profunda,blocos_ofertados,False
+48610204669202150,204669/2021,OP2_BE,oferta_permanente_concessao,2020.0,ES-T-305_OP2,Espírito Santo,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,50.0,True,,,False
+48610204669202150,204669/2021,OP2_BE,oferta_permanente_concessao,2020.0,ES-T-305_OP2,Espírito Santo,Terra,Exploração,40701381000150,Energy Paranã,Energy Paranã,Energy Paranã,50.0,False,,,False
+48610204670202184,204670/2021,OP2_BE,oferta_permanente_concessao,2020.0,ES-T-409_OP2,Espírito Santo,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,50.0,True,,,False
+48610204670202184,204670/2021,OP2_BE,oferta_permanente_concessao,2020.0,ES-T-409_OP2,Espírito Santo,Terra,Exploração,40701381000150,Energy Paranã,Energy Paranã,Energy Paranã,50.0,False,,,False
+48610204671202129,204671/2021,OP2_BE,oferta_permanente_concessao,2020.0,ES-T-429_OP2,Espírito Santo,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,50.0,True,,,False
+48610204671202129,204671/2021,OP2_BE,oferta_permanente_concessao,2020.0,ES-T-429_OP2,Espírito Santo,Terra,Exploração,40701381000150,Energy Paranã,Energy Paranã,Energy Paranã,50.0,False,,,False
+48610204672202173,204672/2021,OP2_BE,oferta_permanente_concessao,2020.0,ES-T-466_OP2,Espírito Santo,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,50.0,True,,,False
+48610204672202173,204672/2021,OP2_BE,oferta_permanente_concessao,2020.0,ES-T-466_OP2,Espírito Santo,Terra,Exploração,40701381000150,Energy Paranã,Energy Paranã,Energy Paranã,50.0,False,,,False
+48610204673202118,204673/2021,OP2_BE,oferta_permanente_concessao,2020.0,ES-T-486A_OP2,Espírito Santo,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,50.0,True,,,False
+48610204673202118,204673/2021,OP2_BE,oferta_permanente_concessao,2020.0,ES-T-486A_OP2,Espírito Santo,Terra,Exploração,40701381000150,Energy Paranã,Energy Paranã,Energy Paranã,50.0,False,,,False
+48610204674202162,204674/2021,OP2_BE,oferta_permanente_concessao,2020.0,ES-T-517_OP2,Espírito Santo,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,50.0,True,,,False
+48610204674202162,204674/2021,OP2_BE,oferta_permanente_concessao,2020.0,ES-T-517_OP2,Espírito Santo,Terra,Exploração,40701381000150,Energy Paranã,Energy Paranã,Energy Paranã,50.0,False,,,False
+48610204675202115,204675/2021,OP2_BE,oferta_permanente_concessao,2020.0,ES-T-527_OP2,Espírito Santo,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,50.0,True,,,False
+48610204675202115,204675/2021,OP2_BE,oferta_permanente_concessao,2020.0,ES-T-527_OP2,Espírito Santo,Terra,Exploração,40701381000150,Energy Paranã,Energy Paranã,Energy Paranã,50.0,False,,,False
+48610204676202151,204676/2021,OP2_BE,oferta_permanente_concessao,2020.0,PAR-T-196_OP2,Paraná,Terra,Exploração,04423567000121,Eneva,Eneva,Eneva,70.0,True,,,False
+48610204676202151,204676/2021,OP2_BE,oferta_permanente_concessao,2020.0,PAR-T-196_OP2,Paraná,Terra,Exploração,12091809000155,Brava Energia S.A.,Brava Energia,Brava Energia,30.0,False,,,False
+48610204677202104,204677/2021,OP2_BE,oferta_permanente_concessao,2020.0,PAR-T-215_OP2,Paraná,Terra,Exploração,04423567000121,Eneva,Eneva,Eneva,70.0,True,,,False
+48610204677202104,204677/2021,OP2_BE,oferta_permanente_concessao,2020.0,PAR-T-215_OP2,Paraná,Terra,Exploração,12091809000155,Brava Energia S.A.,Brava Energia,Brava Energia,30.0,False,,,False
+48610204678202141,204678/2021,OP2_BE,oferta_permanente_concessao,2020.0,PAR-T-86_OP2,Paraná,Terra,Exploração,04423567000121,Eneva,Eneva,Eneva,70.0,True,,,False
+48610204678202141,204678/2021,OP2_BE,oferta_permanente_concessao,2020.0,PAR-T-86_OP2,Paraná,Terra,Exploração,12091809000155,Brava Energia S.A.,Brava Energia,Brava Energia,30.0,False,,,False
+48610204679202195,204679/2021,OP2_BE,oferta_permanente_concessao,2020.0,PAR-T-99_OP2,Paraná,Terra,Exploração,04423567000121,Eneva,Eneva,Eneva,70.0,True,,,False
+48610204679202195,204679/2021,OP2_BE,oferta_permanente_concessao,2020.0,PAR-T-99_OP2,Paraná,Terra,Exploração,12091809000155,Brava Energia S.A.,Brava Energia,Brava Energia,30.0,False,,,False
+48610204680202110,204680/2021,OP2_BE,oferta_permanente_concessao,2020.0,POT-T-702_OP2,Potiguar,Terra,Exploração,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+48610204681202164,204681/2021,OP2_BE,oferta_permanente_concessao,2020.0,TUC-T-172_OP2,Tucano Sul,Terra,Exploração,18957968000176,Petroborn,Petroborn,Petroborn,100.0,True,,,False
+48610215430202296,215430/2022,OP3_BE,oferta_permanente_concessao,2022.0,ES-T-528_OP3,Espírito Santo,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,30.0,True,,,False
+48610215430202296,215430/2022,OP3_BE,oferta_permanente_concessao,2022.0,ES-T-528_OP3,Espírito Santo,Terra,Exploração,28473807000160,Seacrest,Seacrest,Seacrest,50.0,False,,,False
+48610215430202296,215430/2022,OP3_BE,oferta_permanente_concessao,2022.0,ES-T-528_OP3,Espírito Santo,Terra,Exploração,40701381000150,Energy Paranã,Energy Paranã,Energy Paranã,20.0,False,,,False
+48610215431202231,215431/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-352_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215432202285,215432/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-391_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215433202220,215433/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-474_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215434202274,215434/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-281_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215435202219,215435/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-304_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215436202263,215436/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-326_OP3,Potiguar,Terra,Exploração,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+48610215437202216,215437/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-327_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215438202252,215438/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-353_OP3,Potiguar,Terra,Exploração,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+48610215439202205,215439/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-354_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215440202221,215440/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-355_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215441202276,215441/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-393_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215442202211,215442/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-435_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215443202265,215443/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-436_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215444202218,215444/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-437_OP3,Potiguar,Terra,Exploração,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+48610215445202254,215445/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-520_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215446202207,215446/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-605_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215447202243,215447/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-608_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215448202298,215448/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-609_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215449202232,215449/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-654_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215450202267,215450/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-655_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215451202210,215451/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-696_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215452202256,215452/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-697_OP3,Potiguar,Terra,Exploração,28163588000113,Petro-Victory,Petro-Victory,Petro-Victory,100.0,True,,,False
+48610215453202209,215453/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-524_OP3,Potiguar,Terra,Exploração,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+48610215454202245,215454/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-525_OP3,Potiguar,Terra,Exploração,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+48610215455202290,215455/2022,OP3_BE,oferta_permanente_concessao,2022.0,POT-T-568_OP3,Potiguar,Terra,Exploração,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+48610215456202234,215456/2022,OP3_BE,oferta_permanente_concessao,2022.0,REC-T-103_OP3,Recôncavo,Terra,Exploração,18957968000176,Petroborn,Petroborn,Petroborn,100.0,True,,,False
+48610215457202289,215457/2022,OP3_BE,oferta_permanente_concessao,2022.0,REC-T-24_OP3,Recôncavo,Terra,Exploração,29019399000134,NTF,NTF,NTF,100.0,True,,,False
+48610215458202223,215458/2022,OP3_BE,oferta_permanente_concessao,2022.0,REC-T-165_OP3,Recôncavo,Terra,Exploração,18957968000176,Petroborn,Petroborn,Petroborn,100.0,True,,,False
+48610215459202278,215459/2022,OP3_BE,oferta_permanente_concessao,2022.0,REC-T-191_OP3,Recôncavo,Terra,Exploração,10492453000136,Newo,Newo,Newo,50.0,False,,,False
+48610215459202278,215459/2022,OP3_BE,oferta_permanente_concessao,2022.0,REC-T-191_OP3,Recôncavo,Terra,Exploração,29019399000134,NTF,NTF,NTF,50.0,True,,,False
+48610215460202201,215460/2022,OP3_BE,oferta_permanente_concessao,2022.0,S-M-1599_OP3,Santos,Mar,Exploração,08537267000124,Ecopetrol Óleo e Gás,Ecopetrol,Ecopetrol,30.0,False,profunda,blocos_ofertados,False
+48610215460202201,215460/2022,OP3_BE,oferta_permanente_concessao,2022.0,S-M-1599_OP3,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,70.0,True,profunda,blocos_ofertados,False
+48610215461202247,215461/2022,OP3_BE,oferta_permanente_concessao,2022.0,S-M-1601_OP3,Santos,Mar,Exploração,08537267000124,Ecopetrol Óleo e Gás,Ecopetrol,Ecopetrol,30.0,False,profunda,blocos_ofertados,False
+48610215461202247,215461/2022,OP3_BE,oferta_permanente_concessao,2022.0,S-M-1601_OP3,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,70.0,True,profunda,blocos_ofertados,False
+48610215462202291,215462/2022,OP3_BE,oferta_permanente_concessao,2022.0,S-M-1711_OP3,Santos,Mar,Exploração,02461767000143,TotalEnergies EP,TotalEnergies,TotalEnergies,50.0,True,profunda,blocos_ofertados,False
+48610215462202291,215462/2022,OP3_BE,oferta_permanente_concessao,2022.0,S-M-1711_OP3,Santos,Mar,Exploração,15916060000126,QatarEnergy,QatarEnergy,QatarEnergy,50.0,False,profunda,blocos_ofertados,False
+48610215463202236,215463/2022,OP3_BE,oferta_permanente_concessao,2022.0,S-M-1713_OP3,Santos,Mar,Exploração,08537267000124,Ecopetrol Óleo e Gás,Ecopetrol,Ecopetrol,30.0,False,profunda,blocos_ofertados,False
+48610215463202236,215463/2022,OP3_BE,oferta_permanente_concessao,2022.0,S-M-1713_OP3,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,70.0,True,profunda,blocos_ofertados,False
+48610215464202281,215464/2022,OP3_BE,oferta_permanente_concessao,2022.0,S-M-1815_OP3,Santos,Mar,Exploração,02461767000143,TotalEnergies EP,TotalEnergies,TotalEnergies,50.0,True,profunda,blocos_ofertados,False
+48610215464202281,215464/2022,OP3_BE,oferta_permanente_concessao,2022.0,S-M-1815_OP3,Santos,Mar,Exploração,15916060000126,QatarEnergy,QatarEnergy,QatarEnergy,50.0,False,profunda,blocos_ofertados,False
+48610215465202225,215465/2022,OP3_BE,oferta_permanente_concessao,2022.0,S-M-1817_OP3,Santos,Mar,Exploração,08537267000124,Ecopetrol Óleo e Gás,Ecopetrol,Ecopetrol,30.0,False,profunda,blocos_ofertados,False
+48610215465202225,215465/2022,OP3_BE,oferta_permanente_concessao,2022.0,S-M-1817_OP3,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,70.0,True,profunda,blocos_ofertados,False
+48610215466202270,215466/2022,OP3_BE,oferta_permanente_concessao,2022.0,S-M-1908_OP3,Santos,Mar,Exploração,08537267000124,Ecopetrol Óleo e Gás,Ecopetrol,Ecopetrol,30.0,False,profunda,blocos_ofertados,False
+48610215466202270,215466/2022,OP3_BE,oferta_permanente_concessao,2022.0,S-M-1908_OP3,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,70.0,True,profunda,blocos_ofertados,False
+48610215467202214,215467/2022,OP3_BE,oferta_permanente_concessao,2022.0,S-M-1910_OP3,Santos,Mar,Exploração,08537267000124,Ecopetrol Óleo e Gás,Ecopetrol,Ecopetrol,30.0,False,profunda,blocos_ofertados,False
+48610215467202214,215467/2022,OP3_BE,oferta_permanente_concessao,2022.0,S-M-1910_OP3,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,70.0,True,profunda,blocos_ofertados,False
+48610215470202238,215470/2022,OP3_BE,oferta_permanente_concessao,2022.0,SEAL-T-102_OP3,Alagoas,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215471202282,215471/2022,OP3_BE,oferta_permanente_concessao,2022.0,SEAL-T-103_OP3,Alagoas,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215472202227,215472/2022,OP3_BE,oferta_permanente_concessao,2022.0,SEAL-T-110_OP3,Alagoas,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215473202271,215473/2022,OP3_BE,oferta_permanente_concessao,2022.0,SEAL-T-117_OP3,Alagoas,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215474202216,215474/2022,OP3_BE,oferta_permanente_concessao,2022.0,SEAL-T-120_OP3,Alagoas,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215475202261,215475/2022,OP3_BE,oferta_permanente_concessao,2022.0,SEAL-T-141_OP3,Alagoas,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215476202213,215476/2022,OP3_BE,oferta_permanente_concessao,2022.0,SEAL-T-151_OP3,Alagoas,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215477202250,215477/2022,OP3_BE,oferta_permanente_concessao,2022.0,SEAL-T-153_OP3,Alagoas,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215478202202,215478/2022,OP3_BE,oferta_permanente_concessao,2022.0,SEAL-T-166_OP3,Alagoas,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215479202249,215479/2022,OP3_BE,oferta_permanente_concessao,2022.0,SEAL-T-167_OP3,Alagoas,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215480202273,215480/2022,OP3_BE,oferta_permanente_concessao,2022.0,SEAL-T-179_OP3,Alagoas,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215481202218,215481/2022,OP3_BE,oferta_permanente_concessao,2022.0,SEAL-T-187_OP3,Alagoas,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215482202262,215482/2022,OP3_BE,oferta_permanente_concessao,2022.0,SEAL-T-252_OP3,Alagoas,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215483202215,215483/2022,OP3_BE,oferta_permanente_concessao,2022.0,SEAL-T-253_OP3,Alagoas,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215485202204,215485/2022,OP3_BE,oferta_permanente_concessao,2022.0,TUC-T-146_OP3,Tucano Sul,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215486202241,215486/2022,OP3_BE,oferta_permanente_concessao,2022.0,TUC-T-154_OP3,Tucano Sul,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215487202295,215487/2022,OP3_BE,oferta_permanente_concessao,2022.0,TUC-T-161_OP3,Tucano Sul,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,30.0,True,,,False
+48610215487202295,215487/2022,OP3_BE,oferta_permanente_concessao,2022.0,TUC-T-161_OP3,Tucano Sul,Terra,Exploração,40701381000150,Energy Paranã,Energy Paranã,Energy Paranã,70.0,False,,,False
+48610215488202230,215488/2022,OP3_BE,oferta_permanente_concessao,2022.0,TUC-T-167_OP3,Tucano Sul,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610215489202284,215489/2022,OP3_BE,oferta_permanente_concessao,2022.0,TUC-T-177_OP3,Tucano Sul,Terra,Exploração,32021201000161,Origem,Origem Energia,Origem Energia,100.0,True,,,False
+48610205860202461,205860/2024,OP4_AM,acumulacoes_marginais,2023.0,Japiim,Amazonas,Terra,Exploração,04423567000121,Eneva,Eneva,Eneva,80.0,True,,,False
+48610205860202461,205860/2024,OP4_AM,acumulacoes_marginais,2023.0,Japiim,Amazonas,Terra,Exploração,44290573000172,ATEM Participações,ATEM Participações,ATEM Participações,20.0,False,,,False
+48610205861202414,205861/2024,OP4_BE,oferta_permanente_concessao,2023.0,AM-T-63_OP4,Amazonas,Terra,Exploração,44290573000172,ATEM Participações,ATEM Participações,ATEM Participações,100.0,True,,,False
+48610205862202451,205862/2024,OP4_BE,oferta_permanente_concessao,2023.0,AM-T-64_OP4,Amazonas,Terra,Exploração,44290573000172,ATEM Participações,ATEM Participações,ATEM Participações,100.0,True,,,False
+48610205863202403,205863/2024,OP4_BE,oferta_permanente_concessao,2023.0,AM-T-107_OP4,Amazonas,Terra,Exploração,44290573000172,ATEM Participações,ATEM Participações,ATEM Participações,100.0,True,,,False
+48610205866202439,205866/2024,OP4_BE,oferta_permanente_concessao,2023.0,ES-T-226_OP4,Mucuri,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205867202483,205867/2024,OP4_BE,oferta_permanente_concessao,2023.0,ES-T-380_OP4,Espírito Santo,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205868202428,205868/2024,OP4_BE,oferta_permanente_concessao,2023.0,ES-T-389_OP4,Espírito Santo,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205869202472,205869/2024,OP4_BE,oferta_permanente_concessao,2023.0,ES-T-398_OP4,Espírito Santo,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205870202405,205870/2024,OP4_BE,oferta_permanente_concessao,2023.0,ES-T-399_OP4,Espírito Santo,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205871202441,205871/2024,OP4_BE,oferta_permanente_concessao,2023.0,ES-T-407_OP4,Espírito Santo,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205872202496,205872/2024,OP4_BE,oferta_permanente_concessao,2023.0,ES-T-408_OP4,Espírito Santo,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205873202431,205873/2024,OP4_BE,oferta_permanente_concessao,2023.0,ES-T-504_OP4,Espírito Santo,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205874202485,205874/2024,OP4_BE,oferta_permanente_concessao,2023.0,ES-T-514_OP4,Espírito Santo,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205886202418,205886/2024,OP4_BE,oferta_permanente_concessao,2023.0,ES-T-525_OP4,Espírito Santo,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205887202454,205887/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-192_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205889202443,205889/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-194_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205890202478,205890/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-195_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205891202412,205891/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-204_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205892202467,205892/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-207_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205893202410,205893/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-208_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205894202456,205894/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-426_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205895202409,205895/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-427_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205896202445,205896/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-428_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205897202490,205897/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-469_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205898202434,205898/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-470_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205900202475,205900/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-196_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205901202410,205901/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-197_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205902202464,205902/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-209_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205903202417,205903/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-210_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205904202453,205904/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-211_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205905202406,205905/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-223_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205906202442,205906/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-224_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205907202497,205907/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-225_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205908202431,205908/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-257_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205909202486,205909/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-276_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205910202419,205910/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-298_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205911202455,205911/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-472_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205912202408,205912/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-473_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205913202444,205913/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-303_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205914202499,205914/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-331_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205915202433,205915/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-367_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205916202488,205916/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-368_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205917202422,205917/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-396_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205918202477,205918/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-407_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205919202411,205919/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-408_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205920202446,205920/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-439_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205921202491,205921/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-440_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205922202435,205922/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-446_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205923202480,205923/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-447_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205924202424,205924/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-448_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205929202457,205929/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-449_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205930202481,205930/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-450_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205931202426,205931/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-484_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205932202471,205932/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-485_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205933202415,205933/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-511_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205934202460,205934/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-512_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205935202412,205935/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-513_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205936202459,205936/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-515_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205937202401,205937/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-516_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205938202448,205938/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-557_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205939202492,205939/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-559_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205940202417,205940/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-560_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205941202461,205941/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-602_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205942202414,205942/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-603_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205943202451,205943/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-604_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205944202403,205944/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-607_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205945202440,205945/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-612_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205946202494,205946/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-644_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205947202439,205947/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-647_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205948202483,205948/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-648_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205949202428,205949/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-649_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205953202496,205953/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-656_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205954202431,205954/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-657_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205955202485,205955/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-691_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205956202420,205956/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-692_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205957202474,205957/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-693_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205958202419,205958/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-694_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205959202463,205959/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-701_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205960202498,205960/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-703_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205961202432,205961/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-739_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205962202487,205962/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-745_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205963202421,205963/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-746_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205964202476,205964/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-748_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205965202411,205965/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-749_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205966202465,205966/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-783_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205967202418,205967/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-786_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205968202454,205968/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-790_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205969202407,205969/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-792_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205970202423,205970/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-794A_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205971202478,205971/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-795_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205972202412,205972/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-831_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205973202467,205973/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-835_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205974202410,205974/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-836_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205975202456,205975/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-838_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205976202409,205976/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-840_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205977202445,205977/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-841_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205980202469,205980/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-913_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205981202411,205981/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-914_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205982202458,205982/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-523_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205983202401,205983/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-527_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205984202447,205984/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-530_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205985202491,205985/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-574_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205986202436,205986/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-576_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205987202481,205987/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-620_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205988202425,205988/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-662_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205989202470,205989/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-663_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205990202402,205990/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-664_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205991202449,205991/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-665_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205992202493,205992/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-704_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205993202438,205993/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-705_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205994202482,205994/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-706_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205995202427,205995/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-750_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205996202471,205996/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-751_OP4,Potiguar,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205997202416,205997/2024,OP4_BE,oferta_permanente_concessao,2023.0,SEAL-T-31_OP4,Alagoas,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205998202461,205998/2024,OP4_BE,oferta_permanente_concessao,2023.0,SEAL-T-39_OP4,Alagoas,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610205999202413,205999/2024,OP4_BE,oferta_permanente_concessao,2023.0,SEAL-T-67_OP4,Alagoas,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610206000202445,206000/2024,OP4_BE,oferta_permanente_concessao,2023.0,SEAL-T-71_OP4,Alagoas,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610206001202490,206001/2024,OP4_BE,oferta_permanente_concessao,2023.0,SEAL-T-72_OP4,Alagoas,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610206002202434,206002/2024,OP4_BE,oferta_permanente_concessao,2023.0,SEAL-T-77_OP4,Alagoas,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610206003202489,206003/2024,OP4_BE,oferta_permanente_concessao,2023.0,SEAL-T-156_OP4,Alagoas,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610206004202423,206004/2024,OP4_BE,oferta_permanente_concessao,2023.0,SEAL-T-164_OP4,Alagoas,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610206005202478,206005/2024,OP4_BE,oferta_permanente_concessao,2023.0,SEAL-T-176_OP4,Alagoas,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610206006202412,206006/2024,OP4_BE,oferta_permanente_concessao,2023.0,SEAL-T-228_OP4,Alagoas,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610206007202467,206007/2024,OP4_BE,oferta_permanente_concessao,2023.0,SEAL-T-262_OP4,Alagoas,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610206008202410,206008/2024,OP4_BE,oferta_permanente_concessao,2023.0,SEAL-T-263_OP4,Alagoas,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610206009202456,206009/2024,OP4_BE,oferta_permanente_concessao,2023.0,SEAL-T-271_OP4,Alagoas,Terra,Exploração,51660239000129,Elysian Petroleum,Elysian Petroleum,Elysian Petroleum,100.0,True,,,False
+48610206010202481,206010/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-403_OP4,Potiguar,Terra,Exploração,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+48610206011202425,206011/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-488_OP4,Potiguar,Terra,Exploração,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+48610206012202470,206012/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-531_OP4,Potiguar,Terra,Exploração,44186763000144,3R Potiguar,3R Petroleum,Brava Energia,100.0,True,,,False
+48610206013202414,206013/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-742_OP4,Potiguar,Terra,Exploração,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+48610206014202469,206014/2024,OP4_BE,oferta_permanente_concessao,2023.0,POT-T-793_OP4,Potiguar,Terra,Exploração,03342704000130,PetroRecôncavo,PetroRecôncavo,PetroRecôncavo,100.0,True,,,False
+48610206018202447,206018/2024,OP4_BE,oferta_permanente_concessao,2023.0,REC-T-76_OP4,Recôncavo,Terra,Exploração,15126451000147,PERBRAS,PERBRAS,PERBRAS,100.0,True,,,False
+48610206019202491,206019/2024,OP4_BE,oferta_permanente_concessao,2023.0,REC-T-85_OP4,Recôncavo,Terra,Exploração,15126451000147,PERBRAS,PERBRAS,PERBRAS,100.0,True,,,False
+48610206020202416,206020/2024,OP4_BE,oferta_permanente_concessao,2023.0,REC-T-45_OP4,Recôncavo,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,100.0,True,,,False
+48610206021202461,206021/2024,OP4_BE,oferta_permanente_concessao,2023.0,REC-T-56_OP4,Recôncavo,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,100.0,True,,,False
+48610206022202413,206022/2024,OP4_BE,oferta_permanente_concessao,2023.0,REC-T-82_OP4,Recôncavo,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,100.0,True,,,False
+48610206023202450,206023/2024,OP4_BE,oferta_permanente_concessao,2023.0,REC-T-86_OP4,Recôncavo,Terra,Exploração,00271847000100,Imetame,Imetame,Imetame,100.0,True,,,False
+48610206070202401,206070/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-22_OP4,Pelotas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,100.0,True,profunda,blocos_ofertados,False
+48610206071202448,206071/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-24_OP4,Pelotas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,100.0,True,profunda,blocos_ofertados,False
+48610206072202492,206072/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-76_OP4,Pelotas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,100.0,True,profunda,blocos_ofertados,False
+48610206073202437,206073/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-78_OP4,Pelotas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,100.0,True,profunda,blocos_ofertados,False
+48610206074202481,206074/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-132_OP4,Pelotas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,100.0,True,profunda,blocos_ofertados,False
+48610206075202426,206075/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-134_OP4,Pelotas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,100.0,True,profunda,blocos_ofertados,False
+48610206076202471,206076/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-190_OP4,Pelotas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,100.0,True,profunda,blocos_ofertados,False
+48610206077202415,206077/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-192_OP4,Pelotas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,100.0,True,profunda,blocos_ofertados,False
+48610206078202460,206078/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-194_OP4,Pelotas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,100.0,True,profunda,blocos_ofertados,False
+48610206079202412,206079/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1275_OP4,Pelotas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,100.0,True,profunda,blocos_ofertados,False
+48610206080202439,206080/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1664_OP4,Pelotas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,100.0,True,profunda,blocos_ofertados,False
+48610206081202483,206081/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1666_OP4,Pelotas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,100.0,True,profunda,blocos_ofertados,False
+48610206082202428,206082/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1733_OP4,Pelotas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,100.0,True,profunda,blocos_ofertados,False
+48610206083202472,206083/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1735_OP4,Pelotas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,100.0,True,profunda,blocos_ofertados,False
+48610206084202417,206084/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1791_OP4,Pelotas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,100.0,True,profunda,blocos_ofertados,False
+48610206085202461,206085/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1277_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206085202461,206085/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1277_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206086202414,206086/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1279_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206086202414,206086/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1279_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206087202451,206087/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1281_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206087202451,206087/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1281_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206088202403,206088/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1361_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206088202403,206088/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1361_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206089202440,206089/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1363_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206089202440,206089/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1363_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206090202474,206090/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1441_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206090202474,206090/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1441_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206091202419,206091/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1443_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206091202419,206091/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1443_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206092202463,206092/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1357_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206092202463,206092/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1357_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206093202416,206093/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1359_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206093202416,206093/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1359_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206094202452,206094/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1439_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206094202452,206094/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1439_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206095202405,206095/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1516_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206095202405,206095/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1516_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206096202441,206096/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1518_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206096202441,206096/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1518_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206097202496,206097/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1595_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206097202496,206097/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1595_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206098202431,206098/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1597_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206098202431,206098/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1597_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206099202485,206099/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1793_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206099202485,206099/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1793_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206100202471,206100/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1795_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206100202471,206100/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1795_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206101202416,206101/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1838_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206101202416,206101/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1838_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206102202461,206102/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1840_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206102202461,206102/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1840_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206103202413,206103/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1520_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206103202413,206103/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1520_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206104202450,206104/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1522_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206104202450,206104/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1522_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206105202402,206105/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1599_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206105202402,206105/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1599_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206106202449,206106/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1674_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206106202449,206106/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1674_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206107202493,206107/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1676_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206107202493,206107/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1676_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206108202438,206108/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1678_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206108202438,206108/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1678_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206109202482,206109/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1743_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206109202482,206109/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1743_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206110202415,206110/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1799_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206110202415,206110/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1799_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610206111202451,206111/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1739_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206111202451,206111/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1739_OP4,Pelotas,Mar,Exploração,19246634000157,CNOOC Petroleum,CNOOC,CNOOC,20.0,False,profunda,blocos_ofertados,False
+48610206111202451,206111/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1739_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,50.0,True,profunda,blocos_ofertados,False
+48610206112202404,206112/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1737_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206112202404,206112/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1737_OP4,Pelotas,Mar,Exploração,19246634000157,CNOOC Petroleum,CNOOC,CNOOC,20.0,False,profunda,blocos_ofertados,False
+48610206112202404,206112/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1737_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,50.0,True,profunda,blocos_ofertados,False
+48610206113202441,206113/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1797_OP4,Pelotas,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,blocos_ofertados,False
+48610206113202441,206113/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1797_OP4,Pelotas,Mar,Exploração,19246634000157,CNOOC Petroleum,CNOOC,CNOOC,20.0,False,profunda,blocos_ofertados,False
+48610206113202441,206113/2024,OP4_BE,oferta_permanente_concessao,2023.0,P-M-1797_OP4,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,50.0,True,profunda,blocos_ofertados,False
+48610206114202495,206114/2024,OP4_BE,oferta_permanente_concessao,2023.0,S-M-1813_OP4,Santos,Mar,Exploração,19246634000157,CNOOC Petroleum,CNOOC,CNOOC,100.0,True,profunda,blocos_ofertados,False
+48610206115202430,206115/2024,OP4_BE,oferta_permanente_concessao,2023.0,S-M-1356_OP4,Santos,Mar,Exploração,09347916000197,Karoon Brasil,Karoon,Karoon,100.0,True,profunda,blocos_ofertados,False
+48610206116202484,206116/2024,OP4_BE,oferta_permanente_concessao,2023.0,S-M-1482_OP4,Santos,Mar,Exploração,09347916000197,Karoon Brasil,Karoon,Karoon,100.0,True,profunda,blocos_ofertados,False
+48610206117202429,206117/2024,OP4_BE,oferta_permanente_concessao,2023.0,S-M-1378_OP4,Santos,Mar,Exploração,04028583000110,Equinor Brasil,Equinor,Equinor,100.0,True,profunda,blocos_ofertados,False
+48610220657202504,220657/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-194_OP5,Foz do Amazonas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,65.0,True,profunda,blocos_ofertados,False
+48610220657202504,220657/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-194_OP5,Foz do Amazonas,Mar,Exploração,62335992000165,Petrochina Investm.,CNPC,CNPC,35.0,False,profunda,blocos_ofertados,False
+48610220658202541,220658/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-196_OP5,Foz do Amazonas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,65.0,True,profunda,blocos_ofertados,False
+48610220658202541,220658/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-196_OP5,Foz do Amazonas,Mar,Exploração,62335992000165,Petrochina Investm.,CNPC,CNPC,35.0,False,profunda,blocos_ofertados,False
+48610220659202595,220659/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-265_OP5,Foz do Amazonas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,65.0,True,profunda,blocos_ofertados,False
+48610220659202595,220659/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-265_OP5,Foz do Amazonas,Mar,Exploração,62335992000165,Petrochina Investm.,CNPC,CNPC,35.0,False,profunda,blocos_ofertados,False
+48610220660202510,220660/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-267_OP5,Foz do Amazonas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,65.0,True,profunda,blocos_ofertados,False
+48610220660202510,220660/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-267_OP5,Foz do Amazonas,Mar,Exploração,62335992000165,Petrochina Investm.,CNPC,CNPC,35.0,False,profunda,blocos_ofertados,False
+48610220661202564,220661/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-334_OP5,Foz do Amazonas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,65.0,True,profunda,blocos_ofertados,False
+48610220661202564,220661/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-334_OP5,Foz do Amazonas,Mar,Exploração,62335992000165,Petrochina Investm.,CNPC,CNPC,35.0,False,profunda,blocos_ofertados,False
+48610220662202517,220662/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-336_OP5,Foz do Amazonas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,65.0,True,profunda,blocos_ofertados,False
+48610220662202517,220662/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-336_OP5,Foz do Amazonas,Mar,Exploração,62335992000165,Petrochina Investm.,CNPC,CNPC,35.0,False,profunda,blocos_ofertados,False
+48610220663202553,220663/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-405_OP5,Foz do Amazonas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,50.0,True,profunda,blocos_ofertados,False
+48610220663202553,220663/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-405_OP5,Foz do Amazonas,Mar,Exploração,62335992000165,Petrochina Investm.,CNPC,CNPC,50.0,False,profunda,blocos_ofertados,False
+48610220664202506,220664/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-473_OP5,Foz do Amazonas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,50.0,True,profunda,blocos_ofertados,False
+48610220664202506,220664/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-473_OP5,Foz do Amazonas,Mar,Exploração,62335992000165,Petrochina Investm.,CNPC,CNPC,50.0,False,profunda,blocos_ofertados,False
+48610220665202542,220665/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-475_OP5,Foz do Amazonas,Mar,Exploração,04697624000160,Chevron Brasil,Chevron,Chevron,50.0,True,profunda,blocos_ofertados,False
+48610220665202542,220665/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-475_OP5,Foz do Amazonas,Mar,Exploração,62335992000165,Petrochina Investm.,CNPC,CNPC,50.0,False,profunda,blocos_ofertados,False
+48610220720202502,220720/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-477_OP5,Foz do Amazonas,Mar,Exploração,04033958000130,ExxonMobil Brasil,ExxonMobil,ExxonMobil,50.0,True,profunda,blocos_ofertados,False
+48610220720202502,220720/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-477_OP5,Foz do Amazonas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,50.0,False,profunda,blocos_ofertados,False
+48610220721202549,220721/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-547_OP5,Foz do Amazonas,Mar,Exploração,04033958000130,ExxonMobil Brasil,ExxonMobil,ExxonMobil,50.0,True,profunda,blocos_ofertados,False
+48610220721202549,220721/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-547_OP5,Foz do Amazonas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,50.0,False,profunda,blocos_ofertados,False
+48610220722202593,220722/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-549_OP5,Foz do Amazonas,Mar,Exploração,04033958000130,ExxonMobil Brasil,ExxonMobil,ExxonMobil,50.0,True,profunda,blocos_ofertados,False
+48610220722202593,220722/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-549_OP5,Foz do Amazonas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,50.0,False,profunda,blocos_ofertados,False
+48610220723202538,220723/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-619_OP5,Foz do Amazonas,Mar,Exploração,04033958000130,ExxonMobil Brasil,ExxonMobil,ExxonMobil,50.0,True,profunda,blocos_ofertados,False
+48610220723202538,220723/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-619_OP5,Foz do Amazonas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,50.0,False,profunda,blocos_ofertados,False
+48610220724202582,220724/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-621_OP5,Foz do Amazonas,Mar,Exploração,04033958000130,ExxonMobil Brasil,ExxonMobil,ExxonMobil,50.0,True,profunda,blocos_ofertados,False
+48610220724202582,220724/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-621_OP5,Foz do Amazonas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,50.0,False,profunda,blocos_ofertados,False
+48610220725202527,220725/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-188_OP5,Foz do Amazonas,Mar,Exploração,04033958000130,ExxonMobil Brasil,ExxonMobil,ExxonMobil,50.0,False,profunda,blocos_ofertados,False
+48610220725202527,220725/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-188_OP5,Foz do Amazonas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,50.0,True,profunda,blocos_ofertados,False
+48610220726202571,220726/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-190_OP5,Foz do Amazonas,Mar,Exploração,04033958000130,ExxonMobil Brasil,ExxonMobil,ExxonMobil,50.0,False,profunda,blocos_ofertados,False
+48610220726202571,220726/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-190_OP5,Foz do Amazonas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,50.0,True,profunda,blocos_ofertados,False
+48610220727202516,220727/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-403_OP5,Foz do Amazonas,Mar,Exploração,04033958000130,ExxonMobil Brasil,ExxonMobil,ExxonMobil,50.0,False,profunda,blocos_ofertados,False
+48610220727202516,220727/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-403_OP5,Foz do Amazonas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,50.0,True,profunda,blocos_ofertados,False
+48610220728202561,220728/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-1040_OP5,Foz do Amazonas,Mar,Exploração,04033958000130,ExxonMobil Brasil,ExxonMobil,ExxonMobil,50.0,False,profunda,blocos_ofertados,False
+48610220728202561,220728/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-1040_OP5,Foz do Amazonas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,50.0,True,profunda,blocos_ofertados,False
+48610220729202513,220729/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-1042_OP5,Foz do Amazonas,Mar,Exploração,04033958000130,ExxonMobil Brasil,ExxonMobil,ExxonMobil,50.0,False,profunda,blocos_ofertados,False
+48610220729202513,220729/2025,OP5_BE,oferta_permanente_concessao,2025.0,FZA-M-1042_OP5,Foz do Amazonas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,50.0,True,profunda,blocos_ofertados,False
+48610220730202530,220730/2025,OP5_BE,oferta_permanente_concessao,2025.0,P-M-1670_OP5,Pelotas,Mar,Exploração,16974249000138,Galp Energia Brasil,Galp,Galp,30.0,False,profunda,blocos_ofertados,False
+48610220730202530,220730/2025,OP5_BE,oferta_permanente_concessao,2025.0,P-M-1670_OP5,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610220731202584,220731/2025,OP5_BE,oferta_permanente_concessao,2025.0,P-M-1672_OP5,Pelotas,Mar,Exploração,16974249000138,Galp Energia Brasil,Galp,Galp,30.0,False,profunda,blocos_ofertados,False
+48610220731202584,220731/2025,OP5_BE,oferta_permanente_concessao,2025.0,P-M-1672_OP5,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610220732202529,220732/2025,OP5_BE,oferta_permanente_concessao,2025.0,P-M-1741-OP5,Pelotas,Mar,Exploração,16974249000138,Galp Energia Brasil,Galp,Galp,30.0,False,profunda,blocos_ofertados,False
+48610220732202529,220732/2025,OP5_BE,oferta_permanente_concessao,2025.0,P-M-1741-OP5,Pelotas,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,70.0,True,profunda,blocos_ofertados,False
+48610220736202515,220736/2025,OP5_BE,oferta_permanente_concessao,2025.0,S-M-974_OP5,Santos,Mar,Exploração,09347916000197,Karoon Brasil,Karoon,Karoon,100.0,True,rasa,blocos_ofertados,False
+48610220737202551,220737/2025,OP5_BE,oferta_permanente_concessao,2025.0,S-M-1038_OP5,Santos,Mar,Exploração,09347916000197,Karoon Brasil,Karoon,Karoon,100.0,True,rasa,blocos_ofertados,False
+48610220738202504,220738/2025,OP5_BE,oferta_permanente_concessao,2025.0,S-M-1358_OP5,Santos,Mar,Exploração,09347916000197,Karoon Brasil,Karoon,Karoon,100.0,True,profunda,blocos_ofertados,False
+48610220739202541,220739/2025,OP5_BE,oferta_permanente_concessao,2025.0,S-M-1484_OP5,Santos,Mar,Exploração,09347916000197,Karoon Brasil,Karoon,Karoon,100.0,True,profunda,blocos_ofertados,False
+48610220740202575,220740/2025,OP5_BE,oferta_permanente_concessao,2025.0,S-M-1603_OP5,Santos,Mar,Exploração,09347916000197,Karoon Brasil,Karoon,Karoon,100.0,True,profunda,blocos_ofertados,False
+48610220741202510,220741/2025,OP5_BE,oferta_permanente_concessao,2025.0,S-M-1605_OP5,Santos,Mar,Exploração,09347916000197,Karoon Brasil,Karoon,Karoon,100.0,True,profunda,blocos_ofertados,False
+48610220742202564,220742/2025,OP5_BE,oferta_permanente_concessao,2025.0,S-M-1819_OP5,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,100.0,True,profunda,blocos_ofertados,False
+48610220743202517,220743/2025,OP5_BE,oferta_permanente_concessao,2025.0,S-M-1821_OP5,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,100.0,True,profunda,blocos_ofertados,False
+48610220744202553,220744/2025,OP5_BE,oferta_permanente_concessao,2025.0,S-M-1912_OP5,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,100.0,True,profunda,blocos_ofertados,False
+48610220745202506,220745/2025,OP5_BE,oferta_permanente_concessao,2025.0,S-M-1914_OP5,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,100.0,True,profunda,blocos_ofertados,False
+48610220746202542,220746/2025,OP5_BE,oferta_permanente_concessao,2025.0,S-M-1617_OP5,Santos,Mar,Exploração,04028583000110,Equinor Brasil,Equinor,Equinor,100.0,True,profunda,blocos_ofertados,False
+48610220747202597,220747/2025,OP5_BE,oferta_permanente_concessao,2025.0,PRC-T-121_OP5,Parecis - Alto Xingu,Terra,Exploração,58579722000122,Dillianz,Dillianz,Dillianz,100.0,True,,,False
+48610011150201310,011150/2013,PP1,partilha_rodada,2013.0,LIBRA_P1,Santos,Mar,Exploração,02461767000143,TotalEnergies EP,TotalEnergies,TotalEnergies,20.0,False,profunda,pre_sal_legal,True
+48610011150201310,011150/2013,PP1,partilha_rodada,2013.0,LIBRA_P1,Santos,Mar,Exploração,10456016000167,Shell Brasil,Shell,Shell,20.0,False,profunda,pre_sal_legal,True
+48610011150201310,011150/2013,PP1,partilha_rodada,2013.0,LIBRA_P1,Santos,Mar,Exploração,19233194000101,CNPC,CNPC,CNPC,10.0,False,profunda,pre_sal_legal,True
+48610011150201310,011150/2013,PP1,partilha_rodada,2013.0,LIBRA_P1,Santos,Mar,Exploração,19246634000157,CNOOC Petroleum,CNOOC,CNOOC,10.0,False,profunda,pre_sal_legal,True
+48610011150201310,011150/2013,PP1,partilha_rodada,2013.0,LIBRA_P1,Santos,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,40.0,True,profunda,pre_sal_legal,True
+48610012961201761,012961/2017,PP2,partilha_rodada,2017.0,Entorno Sapinhoá_P2,Santos,Mar,Produção,02270689000108,Repsol Sinopec,Repsol Sinopec,Repsol,25.0,False,profunda,pre_sal_legal,True
+48610012961201761,012961/2017,PP2,partilha_rodada,2017.0,Entorno Sapinhoá_P2,Santos,Mar,Produção,10456016000167,Shell Brasil,Shell,Shell,30.0,False,profunda,pre_sal_legal,True
+48610012961201761,012961/2017,PP2,partilha_rodada,2017.0,Entorno Sapinhoá_P2,Santos,Mar,Produção,33000167000101,Petrobras,Petrobras,Petrobras,45.0,True,profunda,pre_sal_legal,True
+48610012964201703,012964/2017,PP2,partilha_rodada,2017.0,Norte de Carcará_P2,Santos,Mar,Produção,03571723000139,Petrogal Brasil,Galp,Galp,20.0,False,profunda,pre_sal_legal,True
+48610012964201703,012964/2017,PP2,partilha_rodada,2017.0,Norte de Carcará_P2,Santos,Mar,Produção,04028583000110,Equinor Brasil,Equinor,Equinor,40.0,True,profunda,pre_sal_legal,True
+48610012964201703,012964/2017,PP2,partilha_rodada,2017.0,Norte de Carcará_P2,Santos,Mar,Produção,04033958000130,ExxonMobil Brasil,ExxonMobil,ExxonMobil,40.0,False,profunda,pre_sal_legal,True
+48610012965201740,012965/2017,PP2,partilha_rodada,2017.0,Sul Gato do Mato_P2,Santos,Mar,Produção,08537267000124,Ecopetrol Óleo e Gás,Ecopetrol,Ecopetrol,30.0,False,profunda,pre_sal_legal,True
+48610012965201740,012965/2017,PP2,partilha_rodada,2017.0,Sul Gato do Mato_P2,Santos,Mar,Produção,10456016000167,Shell Brasil,Shell,Shell,70.0,True,profunda,pre_sal_legal,True
+48610012962201714,012962/2017,PP3,partilha_rodada,2017.0,Alto CF Central P3,Campos,Mar,Exploração,02873528000109,BP Energy,BP,BP,50.0,False,profunda,pre_sal_legal,True
+48610012962201714,012962/2017,PP3,partilha_rodada,2017.0,Alto CF Central P3,Campos,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,50.0,True,profunda,pre_sal_legal,True
+48610006637201895,006637/2018,PP4,partilha_rodada,2018.0,Uirapuru_P4,Santos,Mar,Exploração,03571723000139,Petrogal Brasil,Galp,Galp,14.0,False,profunda,pre_sal_legal,True
+48610006637201895,006637/2018,PP4,partilha_rodada,2018.0,Uirapuru_P4,Santos,Mar,Exploração,04028583000110,Equinor Brasil,Equinor,Equinor,28.0,False,profunda,pre_sal_legal,True
+48610006637201895,006637/2018,PP4,partilha_rodada,2018.0,Uirapuru_P4,Santos,Mar,Exploração,04033958000130,ExxonMobil Brasil,ExxonMobil,ExxonMobil,28.0,False,profunda,pre_sal_legal,True
+48610006637201895,006637/2018,PP4,partilha_rodada,2018.0,Uirapuru_P4,Santos,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,30.0,True,profunda,pre_sal_legal,True
+48610011230201880,011230/2018,PP5,partilha_rodada,2018.0,SO Tartaruga Vd_P5,Campos,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,100.0,True,profunda,pre_sal_legal,True
+48610220938201919,220938/2019,PP6,partilha_rodada,2019.0,Aram_P6,Santos,Mar,Exploração,19233194000101,CNPC,CNPC,CNPC,20.0,False,profunda,pre_sal_legal,True
+48610220938201919,220938/2019,PP6,partilha_rodada,2019.0,Aram_P6,Santos,Mar,Exploração,33000167000101,Petrobras,Petrobras,Petrobras,80.0,True,profunda,pre_sal_legal,True
+48610212133202299,212133/2022,Xisto_2022,outros,,SMS_SIX,Paraná,Terra,Produção,40254927000172,Paraná Xisto,Paraná Xisto S.A.,Paraná Xisto S.A.,100.0,True,,,False

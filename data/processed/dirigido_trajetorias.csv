@@ -1,0 +1,42 @@
+grupo,primeiro_ano_mar,primeiro_ano_nao_operadora,primeiro_ano_operadora_consorcio,unidades_nao_operadora,unidades_operadora_consorcio,unidades_operadora_profunda,trajetoria,contratos_operando_parceiros_hoje,operadoras_antes
+Chevron,1999.0,1999.0,2000.0,8,14,13,graduou,9,Unocal (1)
+ExxonMobil,1999.0,1999.0,2001.0,16,19,18,graduou,9,BP (1)
+Shell,1999.0,1999.0,2004.0,47,12,12,graduou,29,Petrobras (2); BP (1); TotalEnergies (1)
+BG,2000.0,2000.0,2005.0,5,6,3,graduou,0,Petrobras (3)
+Repsol,2000.0,2000.0,2001.0,14,5,4,graduou,0,Petrobras (1)
+Enauta,2001.0,2001.0,2013.0,18,5,5,graduou,0,Petrobras (8)
+Equinor,2001.0,2001.0,2013.0,20,5,5,graduou,6,Petrobras (5); Repsol (2); Sinochem (2)
+CNOOC,2013.0,2013.0,2025.0,5,1,1,graduou,1,Petrobras (5)
+Eni,1999.0,1999.0,1999.0,1,1,0,operou antes ou junto,0,
+Hess,1999.0,2000.0,1999.0,2,4,1,operou antes ou junto,0,
+El Paso,2001.0,2001.0,2001.0,6,1,0,operou antes ou junto,0,
+Ocean Energy,2001.0,2001.0,2001.0,1,1,0,operou antes ou junto,0,
+Unocal,1999.0,2002.0,1999.0,1,1,0,operou antes ou junto,0,
+Devon,2000.0,2005.0,2000.0,1,5,4,operou antes ou junto,0,
+Maersk Oil,2001.0,2007.0,2003.0,2,3,0,operou antes ou junto,0,
+BP,1999.0,2013.0,1999.0,8,5,4,operou antes ou junto,0,
+Premier Oil,2013.0,2013.0,2013.0,1,2,2,operou antes ou junto,0,
+TotalEnergies,2001.0,2013.0,2001.0,9,8,7,operou antes ou junto,6,
+British-Borneo,1999.0,1999.0,,1,0,0,so nao operadora,0,BP (1)
+Kerr-McGee,1999.0,1999.0,,8,0,0,so nao operadora,0,Petrobras (4); Devon (2); ExxonMobil (1); Hess (1)
+YPF,1999.0,1999.0,,4,0,0,so nao operadora,0,Petrobras (2); Eni (1); Unocal (1)
+Encana,2000.0,2000.0,,11,0,0,so nao operadora,0,Petrobras (9); Coastal (1); Devon (1)
+Galp,2000.0,2000.0,,27,0,0,so nao operadora,0,Petrobras (21); BG (4); Shell (1); Equinor (1)
+Odebrecht,2000.0,2000.0,,2,0,0,so nao operadora,0,Devon (1); Hess (1)
+SK,2000.0,2000.0,,3,0,0,so nao operadora,0,Devon (3)
+Enterprise Oil,2001.0,2001.0,,3,0,0,so nao operadora,0,TotalEnergies (1); Petrobras (1); Repsol (1)
+Petroserv S/A,2001.0,2001.0,,2,0,0,so nao operadora,0,Petrobras (2)
+Partex,2002.0,2002.0,,1,0,0,so nao operadora,0,Petrobras (1)
+Brasoil,2007.0,2007.0,,3,0,0,so nao operadora,0,Panoro Energy (3)
+Ecopetrol,2007.0,2007.0,,15,0,0,so nao operadora,0,Shell (8); Petrobras (6); Chevron (1)
+OGX/Dommo,2007.0,2007.0,,10,0,0,so nao operadora,0,Perenco (5); ExxonMobil (2); Maersk Oil (2); TotalEnergies (1)
+Vale,2007.0,2007.0,,7,0,0,so nao operadora,0,Petrobras (7)
+CNPC,2013.0,2013.0,,12,0,0,so nao operadora,0,Chevron (9); Petrobras (3)
+Cepsa,2013.0,2013.0,,2,0,0,so nao operadora,0,Premier Oil (2)
+Pacific Brasil,2013.0,2013.0,,3,0,0,so nao operadora,0,Enauta (3)
+Petra Energia,2013.0,2013.0,,4,0,0,so nao operadora,0,Niko Resources (2); Enauta (2)
+Murphy,2017.0,2017.0,,7,0,0,so nao operadora,0,ExxonMobil (7)
+QatarEnergy,2018.0,2018.0,,9,0,0,so nao operadora,0,ExxonMobil (4); Shell (2); Petrobras (2); TotalEnergies (1)
+Wintershall,2001.0,2018.0,,5,0,0,so nao operadora,0,Chevron (3); Repsol (2)
+Petronas,2019.0,2019.0,,3,0,0,so nao operadora,0,Petrobras (2); TotalEnergies (1)
+Sinopec,2025.0,2025.0,,1,0,0,so nao operadora,0,CNOOC (1)

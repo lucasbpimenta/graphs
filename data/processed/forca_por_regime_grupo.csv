@@ -1,0 +1,119 @@
+rede,grupo,total,acumulacoes_marginais,excedentes_cessao_onerosa,oferta_permanente_concessao,oferta_permanente_partilha,outros,partilha_rodada,rodada_concessao,rodada_zero
+adjudicacao,Petrobras,152,0,7,45,5,13,11,71,0
+adjudicacao,Shell,66,0,2,38,1,4,8,13,0
+adjudicacao,ExxonMobil,35,0,0,16,0,4,5,10,0
+adjudicacao,TotalEnergies,35,0,5,0,3,0,6,21,0
+adjudicacao,Galp,30,0,0,3,0,0,5,22,0
+adjudicacao,Enauta,22,0,0,10,0,0,0,12,0
+adjudicacao,Imetame,22,0,0,10,0,0,0,12,0
+adjudicacao,BG,18,0,0,0,0,0,0,18,0
+adjudicacao,Chevron,18,0,0,9,0,4,0,5,0
+adjudicacao,Orteng,17,2,0,0,0,0,0,15,0
+adjudicacao,CNPC,16,0,2,9,0,0,5,0,0
+adjudicacao,Murphy,14,0,0,6,0,0,0,8,0
+adjudicacao,QatarEnergy,14,0,3,0,3,0,0,8,0
+adjudicacao,BP,13,0,0,0,0,0,1,12,0
+adjudicacao,CNOOC,13,0,2,6,1,0,4,0,0
+adjudicacao,Equinor,13,0,0,0,1,0,5,7,0
+adjudicacao,Delp,11,2,0,0,0,0,0,9,0
+adjudicacao,Energy Paranã,10,0,0,10,0,0,0,0,0
+adjudicacao,Repsol,10,0,0,0,0,0,2,8,0
+adjudicacao,Ecopetrol,9,0,0,6,0,0,2,1,0
+adjudicacao,Governo de Minas Gerais,9,0,0,0,0,0,0,9,0
+adjudicacao,Petronas,8,0,3,0,3,0,0,2,0
+adjudicacao,Devon,7,0,0,0,0,0,0,7,0
+adjudicacao,SK,7,0,0,0,0,0,0,7,0
+adjudicacao,Sipet,6,0,0,0,0,0,0,6,0
+adjudicacao,Brava Energia,5,0,0,0,0,5,0,0,0
+adjudicacao,Eneva,5,1,0,4,0,0,0,0,0
+adjudicacao,Kerr-McGee,5,0,0,0,0,0,0,5,0
+adjudicacao,Encana,4,0,0,0,0,0,0,4,0
+adjudicacao,Hess,4,0,0,0,0,0,0,4,0
+adjudicacao,Pacific Brasil,4,0,0,0,0,0,0,4,0
+adjudicacao,Starfish Oil & Gás S/A,4,0,0,0,0,3,0,1,0
+adjudicacao,Coplex Petróleo do Brasil Ltda.,3,0,0,0,0,3,0,0,0
+adjudicacao,Cowan,3,0,0,0,0,0,0,3,0
+adjudicacao,Enterprise Oil,3,0,0,0,0,0,0,3,0
+adjudicacao,Logos Engenharia S/A,3,0,0,0,0,0,0,3,0
+adjudicacao,Phoenix Óleo & Gás,3,0,0,0,0,0,0,3,0
+adjudicacao,Anadarko,2,0,0,0,0,0,0,2,0
+adjudicacao,Arcadis Logos S.A.,2,2,0,0,0,0,0,0,0
+adjudicacao,Occidental,2,0,0,0,0,2,0,0,0
+adjudicacao,Odebrecht,2,0,0,0,0,0,0,2,0
+adjudicacao,Partex,2,0,0,0,0,0,0,2,0
+adjudicacao,Petroserv S/A,2,0,0,0,0,2,0,0,0
+adjudicacao,Premier Oil,2,0,0,0,0,0,0,2,0
+adjudicacao,Seacrest,2,0,0,2,0,0,0,0,0
+adjudicacao,Sonangol,2,0,0,0,0,0,0,2,0
+adjudicacao,UTC,2,0,0,0,0,0,0,2,0
+adjudicacao,ATEM Participações,1,1,0,0,0,0,0,0,0
+adjudicacao,Andorinha Petróleo,1,1,0,0,0,0,0,0,0
+adjudicacao,Construtora Pioneira S/A,1,0,0,0,0,0,0,1,0
+adjudicacao,EMPA S/A Serviços de Engenharia,1,0,0,0,0,0,0,1,0
+adjudicacao,ERG Petróleo e Gás Ltda.,1,1,0,0,0,0,0,0,0
+adjudicacao,El Paso,1,0,0,0,0,0,0,1,0
+adjudicacao,GeoPark,1,0,0,0,0,0,0,1,0
+adjudicacao,Geopar - Geosol,1,0,0,0,0,0,0,1,0
+adjudicacao,NTF,1,0,0,1,0,0,0,0,0
+adjudicacao,Newo,1,0,0,1,0,0,0,0,0
+adjudicacao,Panergy Petróleo e Gás Ltda.,1,1,0,0,0,0,0,0,0
+adjudicacao,Perícia,1,1,0,0,0,0,0,0,0
+adjudicacao,Petrosynergy,1,0,0,0,0,0,0,1,0
+adjudicacao,Quantra Petróleo S.A.,1,0,0,0,0,0,0,1,0
+adjudicacao,SHB,1,0,0,0,0,0,0,1,0
+adjudicacao,Silver Marlin,1,0,0,0,0,0,0,1,0
+adjudicacao,Sinopec,1,0,0,0,1,0,0,0,0
+atual,Petrobras,122,0,7,45,5,4,11,37,13
+atual,Shell,83,0,2,38,1,2,7,31,2
+atual,Galp,27,0,0,3,0,0,5,19,0
+atual,ExxonMobil,21,0,0,12,0,0,5,4,0
+atual,TotalEnergies,21,0,5,2,3,0,4,7,0
+atual,Brava Energia,18,0,0,6,0,6,0,2,4
+atual,CNPC,16,0,2,9,0,0,5,0,0
+atual,Imetame,16,1,0,10,0,0,0,5,0
+atual,QatarEnergy,16,0,3,2,3,0,0,8,0
+atual,CNOOC,13,0,2,6,1,0,4,0,0
+atual,Chevron,13,0,0,9,0,0,0,4,0
+atual,Ecopetrol,13,0,0,6,0,0,1,6,0
+atual,Equinor,13,0,0,0,1,0,5,6,1
+atual,Energy Paranã,12,0,0,10,0,0,0,2,0
+atual,Repsol,12,0,0,0,0,0,2,9,1
+atual,Mandacaru Energia,10,0,0,0,0,0,0,4,6
+atual,PetroRecôncavo,10,0,0,0,0,0,0,4,6
+atual,Petronas,10,0,3,0,3,0,0,3,1
+atual,PRIO,7,0,0,0,0,0,0,3,4
+atual,Panoro Energy,6,0,0,0,0,2,0,0,4
+atual,Eneva,5,1,0,4,0,0,0,0,0
+atual,SHB,5,0,0,0,0,0,0,5,0
+atual,BP,4,0,0,0,0,0,1,3,0
+atual,BGM,3,0,0,0,0,0,0,3,0
+atual,BS-3 S/A,3,0,0,0,0,0,0,0,3
+atual,Campo Petróleo,3,0,0,0,0,0,0,3,0
+atual,Governo de Minas Gerais,3,0,0,0,0,0,0,3,0
+atual,ONGC,3,0,0,0,0,2,0,1,0
+atual,Brasoil,2,0,0,0,0,2,0,0,0
+atual,Gas Bridge,2,0,0,0,0,2,0,0,0
+atual,IBV Brasil,2,0,0,0,0,0,0,2,0
+atual,Murphy,2,0,0,2,0,0,0,0,0
+atual,Seacrest,2,0,0,2,0,0,0,0,0
+atual,Sinopec,2,0,0,0,1,0,0,1,0
+atual,ATEM Participações,1,1,0,0,0,0,0,0,0
+atual,Andorinha Petróleo,1,1,0,0,0,0,0,0,0
+atual,Aquamarine,1,0,0,0,0,0,0,1,0
+atual,BW Energy,1,0,0,0,0,0,0,1,0
+atual,Cemes,1,0,0,0,0,0,0,1,0
+atual,Centro Oeste,1,0,0,0,0,0,0,1,0
+atual,Geoflux,1,1,0,0,0,0,0,0,0
+atual,Geopar - Geosol,1,0,0,0,0,0,0,1,0
+atual,IPI,1,1,0,0,0,0,0,0,0
+atual,Karoon,1,0,0,0,0,0,0,1,0
+atual,NTF,1,0,0,1,0,0,0,0,0
+atual,Newo,1,0,0,1,0,0,0,0,0
+atual,Nova Técnica,1,0,0,0,0,1,0,0,0
+atual,Orteng,1,0,0,0,0,0,0,1,0
+atual,Perícia,1,1,0,0,0,0,0,0,0
+atual,Rubicão,1,1,0,0,0,0,0,0,0
+atual,SPE Tiêta,1,0,0,0,0,0,0,0,1
+atual,Slim Drilling,1,0,0,0,0,0,0,1,0
+atual,Somoil do Brasil,1,0,0,0,0,0,0,1,0
+atual,Westlawn Energia,1,0,0,0,0,1,0,0,0

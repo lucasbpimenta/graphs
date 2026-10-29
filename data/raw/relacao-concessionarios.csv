@@ -1,0 +1,1103 @@
+BID;Número Contrato;Fase;Nome Fantasia;Bacia;CNPJ;Nome;% Participação;Ambiente
+AM1            ;48610009275200571;Produção;Carapitanga;Sergipe;11210501000119;(Operador) - EPG Brasil;100,00;Terra
+AM1            ;48610009278200511;Produção;Foz do Vaza Barris;Sergipe;4054366000102;(Operador) - Guto & Cacal;100,00;Terra
+AM1            ;48610009279200558;Produção;Tigre;Sergipe;15596829000176;(Operador) - Petroil;100,00;Terra
+AM1            ;48610009282200571;Produção;Jiribatuba;Camamu;8839018000193;(Operador) - Brasil Refinarias;100,00;Terra
+AM1            ;48610009283200516;Produção;Morro do Barro;Camamu;33400769000156;(Operador) - Creative Energy;100,00;Terra
+AM1            ;48610009284200561;Produção;Cidade de Aracaju;Sergipe;11210501000119;(Operador) - EPG Brasil;100,00;Terra
+AM1            ;48610009285200513;Produção;Bom Lugar;Recôncavo;15240822000117;(Operador) - Alvopetro;100,00;Terra
+AM1            ;48610009288200549;Produção;Sempre Viva;Tucano Sul;12432261000160;(Operador) - Oceania;100,00;Terra
+AM1            ;48610009289200593;Produção;Araças Leste;Recôncavo;17186461000101;(Operador) - Egesa;100,00;Terra
+AM2            ;48610007479200657;Avaliação;RIO DO CARMO;Potiguar;32528443000146;(Operador) - Phoenix Óleo & Gás;100,00;Terra
+AM2            ;48610007480200681;Produção;RIACHO VELHO;Potiguar;22771986000136;(Operador) - Leros;100,00;Terra
+AM2            ;48610007481200626;Avaliação;CHAUÁ;Potiguar;8270816000147;(Operador) - Allpetro;100,00;Terra
+AM2            ;48610007482200671;Produção;RIO IPIRANGA;Espírito Santo;271847000100;(Operador) - Imetame;50,00;Terra
+AM2            ;48610007482200671;Produção;RIO IPIRANGA;Espírito Santo;19285411000107;IPI;50,00;Terra
+AM2            ;48610007483200615;Avaliação;Espigão;Barreirinhas;11844597000177;(Operador) - Espigão;100,00;Terra
+AM2            ;48610007484200661;Produção;CREJOÁ;Espírito Santo;40194755000199;(Operador) - Tarmar;100,00;Terra
+AM2            ;48610007485200612;Produção;SÃO MANOEL;Potiguar;11205119000117;(Operador) - Arclima;100,00;Terra
+AM2            ;48610007487200611;Avaliação;Oeste de Canoas;Barreirinhas;11285456000161;(Operador) - Oeste de Canoas;100,00;Terra
+AM2            ;48610007488200648;Avaliação;Porto do Mangue;Potiguar;8834891000193;(Operador) - Máxima 07;100,00;Terra
+AM4            ;48610007063201791;Exploração;Vale do Quiricó;Recôncavo;25315943000134;(Operador) - Energizzi Energias;100,00;Terra
+AM4            ;48610007064201736;Exploração;Garça Branca;Espírito Santo;32021201000161;(Operador) - Origem;100,00;Terra
+AM4            ;48610007065201781;Exploração;Rio Mariricu;Espírito Santo;5002889000160;(Operador) - Mandacaru Energia;100,00;Terra
+AM4            ;48610007066201725;Exploração;Urutau;Potiguar;5002889000160;(Operador) - Mandacaru Energia;100,00;Terra
+AM4            ;48610007067201770;Exploração;Iraúna;Potiguar;45832752000157;(Operador) - Níon Energia;100,00;Terra
+AM4            ;48610007068201714;Exploração;Araçás Leste;Recôncavo;8839018000193;(Operador) - Brasil Refinarias;100,00;Terra
+AM4            ;48610007069201769;Exploração;Itaparica;Recôncavo;32385032000149;(Operador) - Geoflux;40,00;Terra
+AM4            ;48610007069201769;Exploração;Itaparica;Recôncavo;55372111000110;Rubicão;60,00;Terra
+AM4            ;48610007070201793;Exploração;Jacumirim;Recôncavo;8839018000193;(Operador) - Brasil Refinarias;100,00;Terra
+BID0           ;480000036279718;Produção;LUC       ;Solimões;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036289781;Produção;RUC       ;Solimões;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036299743;Produção;AG;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Terra
+BID0           ;480000036309722;Produção;APR;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036319795;Produção;AR        ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036329758;Produção;A         ;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Terra
+BID0           ;480000036339711;Produção;ME        ;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Terra
+BID0           ;480000036359746;Produção;BA        ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036369717;Produção;BJ;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036379771;Produção;CB;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036389734;Produção;C         ;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Terra
+BID0           ;480000036399705;Produção;CGL       ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036409786;Produção;CS;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036419749;Produção;CX        ;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Terra
+BID0           ;480000036429710;Produção;CER       ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036449737;Produção;DJ        ;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Terra
+BID0           ;480000036459708;Produção;DJM       ;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Mar
+BID0           ;480000036469762;Produção;FAV       ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036479725;Produção;FA        ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036489798;Produção;FBM       ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036499751;Produção;FBL;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036509730;Produção;FBE       ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036519701;Produção;FI;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036529765;Produção;FO;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036539728;Produção;FP        ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036549791;Produção;FRB;Recôncavo;16607122000180;(Operador) - Nova Petróleo;100,00;Terra
+BID0           ;480000036559753;Produção;FSE;Recôncavo;16607122000180;(Operador) - Nova Petróleo;100,00;Terra
+BID0           ;480000036569716;Produção;GO;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036579789;Produção;IB        ;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Terra
+BID0           ;480000036589741;Produção;BSU;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Terra
+BID0           ;480000036599712;Produção;I         ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036609793;Produção;JA;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036639781;Produção;LV        ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036649744;Produção;LM        ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036659715;Produção;LE        ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036669770;Produção;ML        ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036679732;Produção;MDU       ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036689703;Produção;MP        ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036699768;Produção;MUI       ;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Terra
+BID0           ;480000036709747;Produção;MJ;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036719718;Produção;RO;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036729772;Produção;BB;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036739735;Produção;MG;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036749706;Produção;RPP       ;Recôncavo;40768701000190;(Operador) - SPE Miranga;100,00;Terra
+BID0           ;480000036769723;Produção;MGN;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036779796;Produção;NFC;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036789759;Produção;PDR;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Terra
+BID0           ;480000036799711;Produção;PC        ;Recôncavo;35156290000141;(Operador) - 3R Rio Ventura;100,00;Terra
+BID0           ;480000036809709;Produção;PJN       ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036829726;Produção;RCB       ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036839799;Produção;ROU       ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036849751;Produção;RSP;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036859714;Produção;RS        ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036869787;Produção;RBU       ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036879740;Produção;ROV;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036889711;Produção;RI        ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036899775;Produção;RPJ       ;Recôncavo;35156290000141;(Operador) - 3R Rio Ventura;100,00;Terra
+BID0           ;480000036909754;Produção;RSE       ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000036919717;Produção;RSU;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036929780;Produção;SA;Recôncavo;25315943000134;(Operador) - Energizzi Energias;100,00;Terra
+BID0           ;480000036939742;Produção;SDS       ;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Terra
+BID0           ;480000036949713;Produção;SP;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036959778;Produção;SE;Recôncavo;16607122000180;(Operador) - Nova Petróleo;100,00;Terra
+BID0           ;480000036969731;Produção;SI;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000036979701;Produção;SC;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Terra
+BID0           ;480000036989766;Produção;SCX;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Terra
+BID0           ;480000036999729;Produção;SUS;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000037009714;Produção;TQ        ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000037029731;Produção;CON;Tucano Sul;32021201000161;(Operador) - Origem;100,00;Terra
+BID0           ;480000037039702;Produção;AB        ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037049767;Produção;VD        ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037059720;Produção;BD        ;Campos;33639843000191;(Operador) - Trident Energy;100,00;Mar
+BID0           ;480000037069792;Produção;LI        ;Campos;33639843000191;(Operador) - Trident Energy;100,00;Mar
+BID0           ;480000037079755;Produção;PM        ;Campos;33639843000191;(Operador) - Trident Energy;100,00;Mar
+BID0           ;480000037089718;Produção;TR        ;Campos;33639843000191;(Operador) - Trident Energy;100,00;Mar
+BID0           ;480000037099781;Produção;BJ        ;Campos;10456016000167;(Operador) - Shell Brasil;80,00;Mar
+BID0           ;480000037099781;Produção;BJ        ;Campos;33000167000101;Petrobras;20,00;Mar
+BID0           ;480000037109760;Produção;SA        ;Campos;10456016000167;(Operador) - Shell Brasil;80,00;Mar
+BID0           ;480000037109760;Produção;SA        ;Campos;33000167000101;Petrobras;20,00;Mar
+BID0           ;480000037119722;Produção;CRP       ;Campos;9309027000135;(Operador) - Perenco Brasil;100,00;Mar
+BID0           ;480000037129795;Produção;PG        ;Campos;9309027000135;(Operador) - Perenco Brasil;100,00;Mar
+BID0           ;480000037139758;Produção;VM        ;Campos;9309027000135;(Operador) - Perenco Brasil;100,00;Mar
+BID0           ;480000037149711;Produção;CG        ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037159783;Produção;CO        ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037169746;Produção;MLH       ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037179717;Produção;BI        ;Campos;33639843000191;(Operador) - Trident Energy;100,00;Mar
+BID0           ;480000037189771;Produção;BO        ;Campos;33639843000191;(Operador) - Trident Energy;100,00;Mar
+BID0           ;480000037199734;Produção;EN        ;Campos;33639843000191;(Operador) - Trident Energy;100,00;Mar
+BID0           ;480000037209713;Produção;ENO       ;Campos;33639843000191;(Operador) - Trident Energy;100,00;Mar
+BID0           ;480000037219786;Produção;GP        ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037229749;Produção;GPN       ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037239710;Produção;MRL       ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037249774;Produção;MLS       ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037259737;Produção;MO        ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037269708;Produção;BG        ;Campos;9309027000135;(Operador) - Perenco Brasil;100,00;Mar
+BID0           ;480000037279762;Produção;CH        ;Campos;9309027000135;(Operador) - Perenco Brasil;100,00;Mar
+BID0           ;480000037289725;Produção;NA        ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037299798;Produção;NEN       ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037309777;Produção;ANQ       ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037319730;Produção;PA        ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037329701;Produção;MA        ;Campos;33639843000191;(Operador) - Trident Energy;100,00;Mar
+BID0           ;480000037339765;Produção;PU        ;Campos;33639843000191;(Operador) - Trident Energy;100,00;Mar
+BID0           ;480000037349728;Produção;VL        ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037359791;Produção;CA        ;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037369753;Produção;CAB;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037379716;Produção;CG;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037389789;Produção;CCN;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037399741;Produção;CP;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037409721;Produção;CD;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037429756;Produção;FAL       ;Espírito Santo;40875704000122;(Operador) - Seacrest Norte Cap;100,00;Terra
+BID0           ;480000037439719;Produção;FC;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037449781;Produção;FQ        ;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037459744;Produção;FCN       ;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037469715;Produção;FSL       ;Espírito Santo;40875704000122;(Operador) - Seacrest Norte Cap;100,00;Terra
+BID0           ;480000037479770;Produção;FSJ;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037489732;Produção;LB        ;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037499703;Produção;RIB       ;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000037509784;Produção;FSR       ;Espírito Santo;40875704000122;(Operador) - Seacrest Norte Cap;100,00;Terra
+BID0           ;480000037519747;Produção;GU;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037529718;Produção;LP;Espírito Santo;34812047000171;(Operador) - Capixaba Energia;100,00;Terra
+BID0           ;480000037539772;Produção;LPS       ;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000037549735;Produção;LPN;Espírito Santo;34812047000171;(Operador) - Capixaba Energia;100,00;Terra
+BID0           ;480000037559706;Produção;LPB;Espírito Santo;34812047000171;(Operador) - Capixaba Energia;100,00;Terra
+BID0           ;480000037569761;Produção;BI        ;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000037579723;Produção;LS;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037589796;Produção;MA;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037599759;Produção;MAO       ;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000037609738;Produção;MAN;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037619709;Produção;NO;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000037649799;Produção;RD        ;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000037659751;Produção;RBS       ;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000037669714;Produção;RI;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037679787;Produção;RIL       ;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000037689740;Produção;RM        ;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000037699711;Produção;RP;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037709791;Produção;RPO       ;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037719754;Produção;RPS       ;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037729717;Produção;RSM;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037739780;Produção;SM;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID0           ;480000037759713;Produção;AT        ;Ceará;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037769778;Produção;CR        ;Ceará;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037779731;Produção;EP        ;Ceará;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037789701;Produção;XA        ;Ceará;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037799766;Produção;AG        ;Potiguar;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000037809745;Produção;ART       ;Potiguar;33443860000159;(Operador) - 3R Macau;100,00;Mar
+BID0           ;480000037819716;Produção;SER       ;Potiguar;33443860000159;(Operador) - 3R Macau;100,00;Mar
+BID0           ;480000037829771;Produção;UB        ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Mar
+BID0           ;480000037849704;Produção;ARG       ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000037859769;Produção;BAL;Potiguar;3342704000130;PetroRecôncavo;50,00;Terra
+BID0           ;480000037859769;Produção;BAL;Potiguar;5002889000160;(Operador) - Mandacaru Energia;50,00;Terra
+BID0           ;480000037869721;Produção;BAR       ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000037879794;Produção;BE;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000037889757;Produção;BVS       ;Potiguar;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000037899710;Produção;BR;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000037909707;Produção;VR        ;Potiguar;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000037919761;Produção;CAC;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000037929724;Produção;CAM       ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000037939797;Produção;ET        ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000037959712;Produção;FZB       ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000037969785;Produção;FCN       ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000037979748;Produção;FC;Potiguar;3342704000130;PetroRecôncavo;50,00;Terra
+BID0           ;480000037979748;Produção;FC;Potiguar;5002889000160;(Operador) - Mandacaru Energia;50,00;Terra
+BID0           ;480000037989719;Produção;FMQ;Potiguar;3342704000130;PetroRecôncavo;50,00;Terra
+BID0           ;480000037989719;Produção;FMQ;Potiguar;5002889000160;(Operador) - Mandacaru Energia;50,00;Terra
+BID0           ;480000037999773;Produção;FP;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000038009751;Produção;GMR       ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000038019713;Produção;IC        ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000038029786;Produção;JD;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000038039749;Produção;JZ;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000038049710;Produção;LAR;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000038059774;Produção;LV;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000038079708;Produção;LOR;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000038089762;Produção;MA;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000038099725;Produção;MAG       ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000038109712;Produção;MOR       ;Potiguar;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000038119777;Produção;MO        ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000038129730;Produção;NMR       ;Potiguar;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000038139701;Produção;PJ;Potiguar;3342704000130;PetroRecôncavo;50,00;Terra
+BID0           ;480000038139701;Produção;PJ;Potiguar;5002889000160;(Operador) - Mandacaru Energia;50,00;Terra
+BID0           ;480000038149765;Produção;PV        ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000038159728;Produção;PX;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000038169791;Produção;PML;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000038179753;Produção;PC;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000038189716;Produção;RE;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000038199789;Produção;REP       ;Potiguar;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000038219721;Produção;RFQ;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000038249719;Produção;RMO;Potiguar;3342704000130;PetroRecôncavo;50,00;Terra
+BID0           ;480000038249719;Produção;RMO;Potiguar;5002889000160;(Operador) - Mandacaru Energia;50,00;Terra
+BID0           ;480000038259781;Produção;SCR;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000038289770;Produção;SM        ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000038299732;Produção;SVM       ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000038309711;Produção;SE        ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;480000038329747;Produção;TM;Potiguar;3342704000130;PetroRecôncavo;50,00;Terra
+BID0           ;480000038329747;Produção;TM;Potiguar;5002889000160;(Operador) - Mandacaru Energia;50,00;Terra
+BID0           ;480000038339718;Produção;UPN;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000038349772;Produção;S019      ;Sergipe;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000038359735;Produção;S107;Sergipe;11230625000166;(Operador) - SPE Tiêta;75,00;Mar
+BID0           ;480000038359735;Produção;S107;Sergipe;33000167000101;Petrobras;25,00;Mar
+BID0           ;480000038369706;Produção;CB        ;Sergipe;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000038379761;Produção;CM;Sergipe;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000038389723;Produção;DO        ;Sergipe;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000038399796;Produção;GA        ;Sergipe;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000038409775;Produção;PARU;Alagoas;34186669000131;(Operador) - Origem Alagoas;100,00;Mar
+BID0           ;480000038419738;Produção;SG        ;Sergipe;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000038429709;Produção;AG        ;Sergipe;41955491000101;(Operador) - Carmo;100,00;Terra
+BID0           ;480000038439763;Produção;AN        ;Sergipe;41955491000101;(Operador) - Carmo;100,00;Terra
+BID0           ;480000038449726;Produção;ARI       ;Sergipe;41955491000101;(Operador) - Carmo;100,00;Terra
+BID0           ;480000038459799;Produção;ATS       ;Sergipe;41955491000101;(Operador) - Carmo;100,00;Terra
+BID0           ;480000038469751;Produção;BRG       ;Sergipe;41955491000101;(Operador) - Carmo;100,00;Terra
+BID0           ;480000038479714;Produção;CP        ;Sergipe;41955491000101;(Operador) - Carmo;100,00;Terra
+BID0           ;480000038489787;Produção;CL        ;Sergipe;41955491000101;(Operador) - Carmo;100,00;Terra
+BID0           ;480000038509729;Produção;CSM       ;Alagoas;34186669000131;(Operador) - Origem Alagoas;100,00;Terra
+BID0           ;480000038519791;Produção;CS;Alagoas;3951809000197;(Operador) - Petrosynergy;100,00;Terra
+BID0           ;480000038529754;Produção;FPB;Alagoas;15594013000103;(Operador) - Perícia;100,00;Terra
+BID0           ;480000038549780;Produção;FU;Alagoas;34186669000131;(Operador) - Origem Alagoas;100,00;Terra
+BID0           ;480000038559742;Produção;IP        ;Sergipe;41955491000101;(Operador) - Carmo;100,00;Terra
+BID0           ;480000038569713;Produção;JA;Alagoas;3951809000197;(Operador) - Petrosynergy;100,00;Terra
+BID0           ;480000038579778;Produção;MG;Sergipe;41955491000101;(Operador) - Carmo;100,00;Terra
+BID0           ;480000038599701;Produção;PIR;Alagoas;34186669000131;(Operador) - Origem Alagoas;100,00;Terra
+BID0           ;480000038609782;Produção;RO        ;Sergipe;41955491000101;(Operador) - Carmo;100,00;Terra
+BID0           ;480000038619745;Produção;SMC       ;Alagoas;34186669000131;(Operador) - Origem Alagoas;100,00;Terra
+BID0           ;480000038629716;Produção;SZ        ;Sergipe;41955491000101;(Operador) - Carmo;100,00;Terra
+BID0           ;480000038639771;Produção;SCE;Alagoas;3951809000197;(Operador) - Petrosynergy;100,00;Terra
+BID0           ;480000038649733;Produção;TM;Alagoas;3951809000197;(Operador) - Petrosynergy;100,00;Terra
+BID0           ;480000038659704;Produção;CRV       ;Santos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000038669769;Produção;MLZ       ;Santos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000038679721;Produção;IP        ;Solimões;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000038689794;Produção;CRP       ;Solimões;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000038699757;Produção;CUP       ;Solimões;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000038709736;Produção;JR        ;Solimões;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000038719707;Produção;NEJ       ;Solimões;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000038729761;Produção;SOJ       ;Solimões;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000038739724;Produção;SUC       ;Solimões;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000038759750;Produção;B097;Camamu;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000038819752;Produção;CA        ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000038839788;Produção;FSR;Tucano Sul;32021201000161;(Operador) - Origem;100,00;Terra
+BID0           ;480000038849741;Produção;FS        ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000038889700;Produção;PV        ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000038909743;Produção;RJ        ;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000038919714;Produção;FMT;Tucano Sul;32021201000161;(Operador) - Origem;100,00;Terra
+BID0           ;480000038929779;Produção;IR        ;Tucano Sul;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000038939731;Produção;LB        ;Tucano Sul;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000038949702;Produção;QE;Tucano Sul;32021201000161;(Operador) - Origem;100,00;Terra
+BID0           ;480000038959767;Produção;ABL       ;Campos;2270689000108;Repsol Sinopec;10,00;Mar
+BID0           ;480000038959767;Produção;ABL       ;Campos;8926302000105;(Operador) - Prio Forte S.A;90,00;Mar
+BID0           ;480000038969720;Produção;FR;Campos;3255266000173;Prio Bravo;18,26;Mar
+BID0           ;480000038969720;Produção;FR;Campos;8926302000105;(Operador) - Prio Forte S.A;81,74;Mar
+BID0           ;480000038979792;Produção;BR        ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000038989755;Produção;CRT       ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000038999718;Produção;ESP       ;Campos;30653538000166;Petronas;50,00;Mar
+BID0           ;480000038999718;Produção;ESP       ;Campos;33000167000101;(Operador) - Petrobras;50,00;Mar
+BID0           ;480000039009703;Produção;MLL       ;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000039019768;Produção;RO        ;Campos;4580657000126;Equinor Energy;25,00;Mar
+BID0           ;480000039019768;Produção;RO        ;Campos;33000167000101;(Operador) - Petrobras;75,00;Mar
+BID0           ;480000039029721;Produção;CAN       ;Espírito Santo;2857854000114;(Operador) - 3R Petroleum;100,00;Mar
+BID0           ;480000039039793;Produção;PER       ;Espírito Santo;2857854000114;(Operador) - 3R Petroleum;100,00;Mar
+BID0           ;480000039069781;Produção;R035      ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Mar
+BID0           ;480000039079744;Produção;R093      ;Potiguar;3605739000115;3R Pescada;35,00;Mar
+BID0           ;480000039079744;Produção;R093      ;Potiguar;33000167000101;(Operador) - Petrobras;65,00;Mar
+BID0           ;480000039089715;Produção;R128;Potiguar;3605739000115;3R Pescada;35,00;Mar
+BID0           ;480000039089715;Produção;R128;Potiguar;33000167000101;(Operador) - Petrobras;65,00;Mar
+BID0           ;480000039099770;Produção;R134      ;Potiguar;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000039109759;Produção;R071      ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Mar
+BID0           ;480000039129784;Produção;PE        ;Potiguar;3605739000115;3R Pescada;35,00;Mar
+BID0           ;480000039129784;Produção;PE        ;Potiguar;33000167000101;(Operador) - Petrobras;65,00;Mar
+BID0           ;480000039139747;Produção;ARB       ;Potiguar;3605739000115;3R Pescada;35,00;Mar
+BID0           ;480000039139747;Produção;ARB       ;Potiguar;33000167000101;(Operador) - Petrobras;65,00;Mar
+BID0           ;480000039149718;Produção;BJZ;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000039159772;Produção;FJ;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000039169735;Produção;SAB;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;480000039179706;Produção;A032      ;Alagoas;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;480000039199723;Produção;CSF;Alagoas;3951809000197;(Operador) - Petrosynergy;100,00;Terra
+BID0           ;480000039209711;Produção;FGT;Alagoas;3951809000197;(Operador) - Petrosynergy;100,00;Terra
+BID0           ;480000039219775;Produção;LPC;Alagoas;3951809000197;(Operador) - Petrosynergy;100,00;Terra
+BID0           ;480000039229738;Produção;SF;Alagoas;3951809000197;(Operador) - Petrosynergy;100,00;Terra
+BID0           ;480000039239709;Produção;BB        ;Paraná;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID0           ;480000039249763;Produção;CRL;Santos;4768625000159;BS-3;15,00;Mar
+BID0           ;480000039249763;Produção;CRL;Santos;7467619000150;Panoro Energy;35,00;Mar
+BID0           ;480000039249763;Produção;CRL;Santos;8844986000198;Petro Rio Coral;15,00;Mar
+BID0           ;480000039249763;Produção;CRL;Santos;33000167000101;(Operador) - Petrobras;35,00;Mar
+BID0           ;480000039259726;Produção;EM;Santos;7467619000150;Panoro Energy;65,00;Mar
+BID0           ;480000039259726;Produção;EM;Santos;33000167000101;(Operador) - Petrobras;35,00;Mar
+BID0           ;480000039269799;Produção;TB        ;Santos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID0           ;4861000400098;Produção;LPX;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;4861000400198;Produção;PSA       ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;4861000400298;Produção;VRG;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID0           ;4861000400398;Produção;BEN       ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID0           ;4861000400498;Produção;FAP;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Terra
+BID1           ;4861000475099;Produção;BM-S-3;Santos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID10          ;48610001502200942;Produção;POT-T-609_R10;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID10          ;48610001503200997;Produção;POT-T-610_R10;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID10          ;48610001547200917;Produção;SEAL-T-240_R10;Alagoas;34186669000131;(Operador) - Origem Alagoas;100,00;Terra
+BID10          ;48610001557200952;Produção;REC-T-235_R10;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Terra
+BID10          ;48610001558200905;Exploração;SF-T-104_R10;São Francisco;271847000100;(Operador) - Imetame;51,00;Terra
+BID10          ;48610001558200905;Exploração;SF-T-104_R10;São Francisco;17155730000164;CEMIG;24,50;Terra
+BID10          ;48610001558200905;Exploração;SF-T-104_R10;São Francisco;19791581000155;Codemig;24,50;Terra
+BID10          ;48610001559200941;Exploração;SF-T-114_R10;São Francisco;271847000100;(Operador) - Imetame;51,00;Terra
+BID10          ;48610001559200941;Exploração;SF-T-114_R10;São Francisco;17155730000164;CEMIG;24,50;Terra
+BID10          ;48610001559200941;Exploração;SF-T-114_R10;São Francisco;19791581000155;Codemig;24,50;Terra
+BID11          ;48610005402201371;Produção;POT-T-569_R11;Potiguar;45832752000157;(Operador) - Níon Energia;100,00;Terra
+BID11          ;48610005403201316;Produção;ES-T-486_R11;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID11          ;48610005425201386;Produção;REC-T-107_R11;Recôncavo;55167052000149;(Operador) - Vultur Oil;100,00;Terra
+BID11          ;48610005428201310;Exploração;FZA-M-90_R11;Foz do Amazonas;12091809000155;(Operador) - Brava Energia S.A.;100,00;Mar
+BID11          ;48610005429201364;Exploração;BAR-M-298_R11;Barreirinhas;10456016000167;(Operador) - Shell Brasil;100,00;Mar
+BID11          ;48610005432201388;Exploração;BAR-M-340_R11;Barreirinhas;10456016000167;(Operador) - Shell Brasil;100,00;Mar
+BID11          ;48610005437201319;Exploração;TUC-T-139_R11;Tucano Sul;271847000100;(Operador) - Imetame;30,00;Terra
+BID11          ;48610005437201319;Exploração;TUC-T-139_R11;Tucano Sul;40701381000150;Energy Paranã;70,00;Terra
+BID11          ;48610005438201355;Exploração;TUC-T-147_R11;Tucano Sul;271847000100;(Operador) - Imetame;30,00;Terra
+BID11          ;48610005438201355;Exploração;TUC-T-147_R11;Tucano Sul;40701381000150;Energy Paranã;70,00;Terra
+BID11          ;48610005447201346;Exploração;BAR-M-344_R11;Barreirinhas;10456016000167;(Operador) - Shell Brasil;50,00;Mar
+BID11          ;48610005447201346;Exploração;BAR-M-344_R11;Barreirinhas;16974249000138;Galp Energia Brasil;10,00;Mar
+BID11          ;48610005447201346;Exploração;BAR-M-344_R11;Barreirinhas;33000167000101;Petrobras;40,00;Mar
+BID11          ;48610005451201312;Exploração;BAR-M-300_R11;Barreirinhas;10456016000167;(Operador) - Shell Brasil;50,00;Mar
+BID11          ;48610005451201312;Exploração;BAR-M-300_R11;Barreirinhas;16974249000138;Galp Energia Brasil;10,00;Mar
+BID11          ;48610005451201312;Exploração;BAR-M-300_R11;Barreirinhas;33000167000101;Petrobras;40,00;Mar
+BID11          ;48610005456201337;Exploração;ES-T-516_R11;Espírito Santo;29496603000108;(Operador) - BGM;55,00;Terra
+BID11          ;48610005456201337;Exploração;ES-T-516_R11;Espírito Santo;43508877000109;Campo Petróleo;45,00;Terra
+BID11          ;48610005457201381;Produção;ES-T-496_R11;Espírito Santo;29496603000108;(Operador) - BGM;55,00;Terra
+BID11          ;48610005457201381;Produção;ES-T-496_R11;Espírito Santo;43508877000109;Campo Petróleo;45,00;Terra
+BID11          ;48610005459201371;Exploração;ES-M-743_R11;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID11          ;48610005461201340;Exploração;BAR-M-388_R11;Barreirinhas;10456016000167;(Operador) - Shell Brasil;50,00;Mar
+BID11          ;48610005461201340;Exploração;BAR-M-388_R11;Barreirinhas;16974249000138;Galp Energia Brasil;10,00;Mar
+BID11          ;48610005461201340;Exploração;BAR-M-388_R11;Barreirinhas;33000167000101;Petrobras;40,00;Mar
+BID11          ;48610005466201372;Produção;ES-T-506_R11;Espírito Santo;29496603000108;(Operador) - BGM;55,00;Terra
+BID11          ;48610005466201372;Produção;ES-T-506_R11;Espírito Santo;43508877000109;Campo Petróleo;45,00;Terra
+BID11          ;48610005469201314;Exploração;PAMA-M-337_R11;Pará - Maranhão;12091809000155;(Operador) - Brava Energia S.A.;100,00;Mar
+BID11          ;48610005472201320;Exploração;ES-M-669_R11;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID11          ;48610005473201374;Exploração;PAMA-M-265_R11;Pará - Maranhão;12091809000155;(Operador) - Brava Energia S.A.;100,00;Mar
+BID11          ;48610005485201307;Exploração;ES-M-671_R11;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID11          ;48610005487201398;Exploração;FZA-M-254_R11;Foz do Amazonas;8926302000105;(Operador) - Prio Forte S.A;100,00;Mar
+BID11          ;48610005489201387;Exploração;FZA-M-539_R11;Foz do Amazonas;8926302000105;(Operador) - Prio Forte S.A;100,00;Mar
+BID11          ;48610005490201310;Exploração;BAR-M-342_R11;Barreirinhas;10456016000167;(Operador) - Shell Brasil;50,00;Mar
+BID11          ;48610005490201310;Exploração;BAR-M-342_R11;Barreirinhas;16974249000138;Galp Energia Brasil;10,00;Mar
+BID11          ;48610005490201310;Exploração;BAR-M-342_R11;Barreirinhas;33000167000101;Petrobras;40,00;Mar
+BID11          ;48610005500201317;Exploração;FZA-M-57_R11;Foz do Amazonas;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID11          ;48610005504201397;Exploração;FZA-M-127_R11;Foz do Amazonas;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID11          ;48610005505201331;Exploração;FZA-M-88_R11;Foz do Amazonas;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID11          ;48610005507201321;Exploração;FZA-M-59_R11;Foz do Amazonas;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID11          ;48610005510201344;Exploração;FZA-M-86_R11;Foz do Amazonas;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID11          ;48610005518201319;Exploração;FZA-M-125_R11;Foz do Amazonas;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID12          ;48610000055201471;Exploração;REC-T-78_R12;Recôncavo;18709581000109;(Operador) - TOG Brasil;100,00;Terra
+BID12          ;48610000057201461;Produção;REC-T-198_R12;Recôncavo;15240822000117;(Operador) - Alvopetro;100,00;Terra
+BID12          ;48610000064201462;Exploração;REC-T-59_R12;Recôncavo;18709581000109;(Operador) - TOG Brasil;100,00;Terra
+BID12          ;48610000068201441;Exploração;REC-T-68_R12;Recôncavo;18709581000109;(Operador) - TOG Brasil;100,00;Terra
+BID12          ;48610000069201495;Produção;REC-T-80_R12;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID12          ;48610000070201410;Exploração;REC-T-88_R12;Recôncavo;18709581000109;(Operador) - TOG Brasil;100,00;Terra
+BID12          ;48610000071201464;Produção;REC-T-89_R12;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID12          ;48610000077201431;Exploração;PAR-T-198_R12;Paraná;24414030000102;(Operador) - Ubuntu;100,00;Terra
+BID12          ;48610000081201408;Exploração;PAR-T-218_R12;Paraná;24414030000102;(Operador) - Ubuntu;100,00;Terra
+BID12          ;48610000095201413;Produção;REC-T-51_R12;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID12          ;48610000097201411;Exploração;REC-T-69_R12;Recôncavo;18709581000109;(Operador) - TOG Brasil;100,00;Terra
+BID12          ;48610000103201421;Exploração;REC-T-79_R12;Recôncavo;18709581000109;(Operador) - TOG Brasil;100,00;Terra
+BID13          ;48610010805201502;Exploração;POT-T-741_R13;Potiguar;45832752000157;(Operador) - Níon Energia;100,00;Terra
+BID13          ;48610010806201549;Produção;POT-T-743_R13;Potiguar;32528443000146;(Operador) - Phoenix Óleo & Gás;100,00;Terra
+BID13          ;48610010807201593;Produção;POT-T-744_R13;Potiguar;32528443000146;(Operador) - Phoenix Óleo & Gás;100,00;Terra
+BID13          ;48610010812201504;Produção;REC-T-108_R13;Recôncavo;55167052000149;(Operador) - Vultur Oil;100,00;Terra
+BID13          ;48610010816201584;Produção;REC-T-99_R13;Recôncavo;271847000100;(Operador) - Imetame;100,00;Terra
+BID13          ;48610010821201597;Produção;REC-T-128_R13;Recôncavo;16690009000101;(Operador) - Slim Drilling;40,00;Terra
+BID13          ;48610010821201597;Produção;REC-T-128_R13;Recôncavo;19240555000139;Geopar - Geosol;60,00;Terra
+BID13          ;48610010824201521;Exploração;REC-T-180_R13;Recôncavo;23923453000195;(Operador) - Recôncavo Energia;100,00;Terra
+BID13          ;48610010825201575;Produção;REC-T-212_R13;Recôncavo;48700902000167;(Operador) - Recôncavo Energ SPE;100,00;Terra
+BID13AM        ;48610001998201683;Exploração;Riacho Sesmaria;Recôncavo;15596829000176;(Operador) - Petroil;100,00;Terra
+BID13AM        ;48610001999201628;Exploração;Barra Bonita;Paraná;22881417000143;(Operador) - Barra Bonita;100,00;Terra
+BID13AM        ;48610002000201668;Exploração;Bela Vista;Recôncavo;18957968000176;(Operador) - Petroborn;100,00;Terra
+BID13AM        ;48610002001201611;Exploração;Iraí;Tucano Sul;18957968000176;(Operador) - Petroborn;100,00;Terra
+BID13AM        ;48610002003201600;Exploração;Lagoa do Doutor;Espírito Santo;8990767000117;(Operador) - Vipetro;100,00;Terra
+BID13AM        ;48610002004201646;Exploração;Alto Alegre;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+BID13AM        ;48610002005201691;Exploração;São João;Barreirinhas;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+BID13AM        ;48610002006201635;Exploração;Paramirim Vencimento;Recôncavo;16690009000101;(Operador) - Slim Drilling;100,00;Terra
+BID14          ;48610012625201719;Exploração;SEAL-M-503_R14;Sergipe;12091809000155;(Operador) - Brava Energia S.A.;100,00;Mar
+BID14          ;48610012628201752;Produção;ES-T-476_R14;Espírito Santo;29496603000108;(Operador) - BGM;100,00;Terra
+BID14          ;48610012631201776;Produção;ES-T-441_R14;Espírito Santo;34812047000171;(Operador) - Capixaba Energia;100,00;Terra
+BID14          ;48610012640201767;Exploração;SEAL-M-501_R14;Sergipe;12091809000155;(Operador) - Brava Energia S.A.;100,00;Mar
+BID14          ;48610012641201710;Produção;ES-T-487_R14;Espírito Santo;34812047000171;(Operador) - Capixaba Energia;100,00;Terra
+BID14          ;48610012644201745;Exploração;ES-T-453_R14;Espírito Santo;8990767000117;(Operador) - Vipetro;100,00;Terra
+BID14          ;48610012646201734;Exploração;ES-M-667_R14;Espírito Santo;3514776000118;(Operador) - Repsol;100,00;Mar
+BID14          ;48610012647201789;Exploração;ES-M-592_R14;Espírito Santo;19246634000157;(Operador) - CNOOC Petroleum;100,00;Mar
+BID14          ;48610012650201701;Exploração;S-M-1537_R14;Santos;9347916000197;(Operador) - Karoon Brasil;100,00;Mar
+BID15          ;48610005697201891;Exploração;POT-M-865 _R15;Potiguar;2804865000136;(Operador) - Murphy Brasil;100,00;Mar
+BID15          ;48610005698201835;Exploração;C-M-789_R15;Campos;4033958000130;(Operador) - ExxonMobil Brasil;40,00;Mar
+BID15          ;48610005698201835;Exploração;C-M-789_R15;Campos;15916060000126;QatarEnergy;30,00;Mar
+BID15          ;48610005698201835;Exploração;C-M-789_R15;Campos;33000167000101;Petrobras;30,00;Mar
+BID15          ;48610005699201880;Exploração;POT-M-863 _R15;Potiguar;2804865000136;(Operador) - Murphy Brasil;100,00;Mar
+BID15          ;48610005770201824;Exploração;POT-M-859_R15;Potiguar;10456016000167;Shell Brasil;40,00;Mar
+BID15          ;48610005770201824;Exploração;POT-M-859_R15;Potiguar;33000167000101;(Operador) - Petrobras;60,00;Mar
+BID15          ;48610005771201879;Exploração;POT-M-952_R15;Potiguar;10456016000167;Shell Brasil;40,00;Mar
+BID15          ;48610005771201879;Exploração;POT-M-952_R15;Potiguar;33000167000101;(Operador) - Petrobras;60,00;Mar
+BID15          ;48610005773201868;Exploração;SEAL-M-430_R15;Alagoas;12091809000155;(Operador) - Brava Energia S.A.;100,00;Mar
+BID15          ;48610005774201811;Exploração;SEAL-M-573_R15;Sergipe;12091809000155;(Operador) - Brava Energia S.A.;100,00;Mar
+BID15          ;48610005779201835;Exploração;POT-M-762_R15;Potiguar;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID15          ;48610005780201860;Exploração;POT-M-857_R15;Potiguar;2804865000136;(Operador) - Murphy Brasil;100,00;Mar
+BID15          ;48610005781201812;Exploração;POT-M-948_R15;Potiguar;10456016000167;(Operador) - Shell Brasil;100,00;Mar
+BID16          ;48610221672201913;Exploração;C-M-477_R16;Campos;2873528000109;BP Energy;30,00;Mar
+BID16          ;48610221672201913;Exploração;C-M-477_R16;Campos;33000167000101;(Operador) - Petrobras;70,00;Mar
+BID16          ;48610221673201968;Exploração;C-M-541_R16;Campos;2461767000143;(Operador) - TotalEnergies EP;40,00;Mar
+BID16          ;48610221673201968;Exploração;C-M-541_R16;Campos;15916060000126;QatarEnergy;40,00;Mar
+BID16          ;48610221673201968;Exploração;C-M-541_R16;Campos;30653538000166;Petronas;20,00;Mar
+BID16          ;48610221674201911;Exploração;C-M-659_R16;Campos;4697624000160;Chevron Brasil;35,00;Mar
+BID16          ;48610221674201911;Exploração;C-M-659_R16;Campos;10456016000167;(Operador) - Shell Brasil;40,00;Mar
+BID16          ;48610221674201911;Exploração;C-M-659_R16;Campos;15916060000126;QatarEnergy;25,00;Mar
+BID16          ;48610221676201900;Exploração;C-M-661_R16;Campos;30653538000166;(Operador) - Petronas;100,00;Mar
+BID16          ;48610221677201946;Exploração;C-M-715_R16;Campos;30653538000166;(Operador) - Petronas;100,00;Mar
+BID16          ;48610221678201991;Exploração;C-M-713_R16;Campos;4697624000160;Chevron Brasil;35,00;Mar
+BID16          ;48610221678201991;Exploração;C-M-713_R16;Campos;10456016000167;(Operador) - Shell Brasil;40,00;Mar
+BID16          ;48610221678201991;Exploração;C-M-713_R16;Campos;15916060000126;QatarEnergy;25,00;Mar
+BID17          ;48610224690202171;Exploração;S-M-1707_R17;Santos;8537267000124;Ecopetrol Óleo e Gás;30,00;Mar
+BID17          ;48610224690202171;Exploração;S-M-1707_R17;Santos;10456016000167;(Operador) - Shell Brasil;70,00;Mar
+BID17          ;48610224691202116;Exploração;S-M-1709_R17;Santos;8537267000124;Ecopetrol Óleo e Gás;30,00;Mar
+BID17          ;48610224691202116;Exploração;S-M-1709_R17;Santos;10456016000167;(Operador) - Shell Brasil;70,00;Mar
+BID17          ;48610224692202161;Exploração;S-M-1715_R17;Santos;8537267000124;Ecopetrol Óleo e Gás;30,00;Mar
+BID17          ;48610224692202161;Exploração;S-M-1715_R17;Santos;10456016000167;(Operador) - Shell Brasil;70,00;Mar
+BID17          ;48610224693202113;Exploração;S-M-1717_R17;Santos;8537267000124;Ecopetrol Óleo e Gás;30,00;Mar
+BID17          ;48610224693202113;Exploração;S-M-1717_R17;Santos;10456016000167;(Operador) - Shell Brasil;70,00;Mar
+BID17          ;48610224694202150;Exploração;S-M-1719_R17;Santos;8537267000124;Ecopetrol Óleo e Gás;30,00;Mar
+BID17          ;48610224694202150;Exploração;S-M-1719_R17;Santos;10456016000167;(Operador) - Shell Brasil;70,00;Mar
+BID2           ;486100038822000;Produção;BM-S-7;Santos;2270689000108;Repsol Sinopec;37,00;Mar
+BID2           ;486100038822000;Produção;BM-S-7;Santos;33000167000101;(Operador) - Petrobras;63,00;Mar
+BID2           ;486100038832000;Produção;BM-S-8;Santos;3571723000139;Petrogal Brasil;20,00;Mar
+BID2           ;486100038832000;Produção;BM-S-8;Santos;4028583000110;(Operador) - Equinor Brasil;40,00;Mar
+BID2           ;486100038832000;Produção;BM-S-8;Santos;4033958000130;ExxonMobil Brasil;40,00;Mar
+BID2           ;486100038842000;Produção;BM-S-9;Santos;2270689000108;Repsol Sinopec;25,00;Mar
+BID2           ;486100038842000;Produção;BM-S-9;Santos;10456016000167;Shell Brasil;30,00;Mar
+BID2           ;486100038842000;Produção;BM-S-9;Santos;33000167000101;(Operador) - Petrobras;45,00;Mar
+BID2           ;486100038842000A              ;Produção;BM-S-9A;Santos;2270689000108;Repsol Sinopec;25,00;Mar
+BID2           ;486100038842000A              ;Produção;BM-S-9A;Santos;2461767000143;(Operador) - TotalEnergies EP;48,00;Mar
+BID2           ;486100038842000A              ;Produção;BM-S-9A;Santos;10456016000167;Shell Brasil;27,00;Mar
+BID2           ;486100038862000;Produção;BM-S-11;Santos;3571723000139;Petrogal Brasil;10,00;Mar
+BID2           ;486100038862000;Produção;BM-S-11;Santos;10456016000167;Shell Brasil;25,00;Mar
+BID2           ;486100038862000;Produção;BM-S-11;Santos;33000167000101;(Operador) - Petrobras;65,00;Mar
+BID2           ;486100038862000A              ;Produção;BM-S-11A;Santos;2461767000143;TotalEnergies EP;22,50;Mar
+BID2           ;486100038862000A              ;Produção;BM-S-11A;Santos;3571723000139;Petrogal Brasil;10,00;Mar
+BID2           ;486100038862000A              ;Produção;BM-S-11A;Santos;10456016000167;Shell Brasil;25,00;Mar
+BID2           ;486100038862000A              ;Produção;BM-S-11A;Santos;33000167000101;(Operador) - Petrobras;42,50;Mar
+BID2           ;486100038872000;Produção;BM-C-7;Campos;4028583000110;Equinor Brasil;20,00;Mar
+BID2           ;486100038872000;Produção;BM-C-7;Campos;6871406000126;(Operador) - Prio Tigris;80,00;Mar
+BID2           ;486100038882000;Produção;BM-C-8;Campos;3255266000173;(Operador) - Prio Bravo;100,00;Mar
+BID2           ;486100038902000;Produção;BM-CAL-4;Camamu;2857854000114;(Operador) - 3R Petroleum;100,00;Mar
+BID2           ;486100038922000;Produção;BT-SEAL-2;Alagoas;34186669000131;(Operador) - Origem Alagoas;100,00;Terra
+BID2           ;486100038942000;Produção;BM-SEAL-4;Sergipe;4033930000100;ONGC Campos;25,00;Mar
+BID2           ;486100038942000;Produção;BM-SEAL-4;Sergipe;33000167000101;(Operador) - Petrobras;75,00;Mar
+BID2           ;486100038942000A              ;Produção;BM-SEAL-4A;Sergipe;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID2           ;486100038992000;Produção;BT-REC-3;Recôncavo;3951809000197;(Operador) - Petrosynergy;100,00;Terra
+BID2           ;486100039002000;Produção;BT-POT-3;Potiguar;3951809000197;(Operador) - Petrosynergy;100,00;Terra
+BID2           ;486100039012000;Produção;BT-POT-4;Potiguar;3342704000130;PetroRecôncavo;50,00;Terra
+BID2           ;486100039012000;Produção;BT-POT-4;Potiguar;5002889000160;(Operador) - Mandacaru Energia;50,00;Terra
+BID2           ;486100039012000A              ;Produção;BT-POT-4A;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID3           ;486100107092001;Exploração;BM-PAMA-3;Pará - Maranhão;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID3           ;486100107242001;Produção;BM-ES-5;Espírito Santo;4672503000164;(Operador) - BW Maromba;100,00;Mar
+BID3           ;486100107272001A              ;Exploração;BM-C-14A;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID3           ;486100107302001;Exploração;BM-BAR-1;Barreirinhas;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID3           ;486100107332001;Exploração;BM-S-24;Santos;3571723000139;Petrogal Brasil;20,00;Mar
+BID3           ;486100107332001;Exploração;BM-S-24;Santos;33000167000101;(Operador) - Petrobras;80,00;Mar
+BID3           ;486100107352001;Produção;BT-ES-12;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID3           ;486100107352001A              ;Produção;BT-ES-12A;Espírito Santo;40875704000122;(Operador) - Seacrest Norte Cap;100,00;Terra
+BID3           ;486100107392001;Produção;BT-POT-5;Potiguar;3951809000197;(Operador) - Petrosynergy;100,00;Terra
+BID4           ;486100092122002;Exploração;BM-BAR-3;Barreirinhas;2873528000109;BP Energy;40,00;Mar
+BID4           ;486100092122002;Exploração;BM-BAR-3;Barreirinhas;33000167000101;(Operador) - Petrobras;60,00;Mar
+BID4           ;486100092252002;Produção;BT-POT-8;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID4           ;486100092252002A              ;Produção;BT-POT-8A;Potiguar;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID4           ;486100092262002;Produção;BT-POT-9;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID4           ;486100092272002;Produção;BT-POT-10;Potiguar;271847000100;(Operador) - Imetame;100,00;Terra
+BID4           ;486100092272002B              ;Produção;BT-POT-10B;Potiguar;45832752000157;(Operador) - Níon Energia;100,00;Terra
+BID4           ;486100092282002;Produção;BT-REC-7;Recôncavo;3347723000150;SHB;25,00;Terra
+BID4           ;486100092282002;Produção;BT-REC-7;Recôncavo;23018639000108;(Operador) - 3R Bahia;75,00;Terra
+BID4           ;486100092312002;Produção;BT-REC-10;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID5           ;486100094872003;Produção;BT-POT-17;Potiguar;3951809000197;(Operador) - Petrosynergy;100,00;Terra
+BID5           ;486100094882003;Produção;BT-REC-11;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID5           ;486100094902003;Produção;BT-POT-18;Potiguar;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID5           ;486100094912003;Produção;BT-ES-22;Espírito Santo;40875704000122;(Operador) - Seacrest Norte Cap;100,00;Terra
+BID5           ;486100094922003;Produção;BT-ES-21;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID5           ;486100094932003A              ;Produção;BM-S-41A;Santos;9347916000197;Karoon Brasil;20,00;Mar
+BID5           ;486100094932003A              ;Produção;BM-S-41A;Santos;33000167000101;(Operador) - Petrobras;80,00;Mar
+BID5           ;486100094942003;Produção;BM-S-40;Santos;9347916000197;(Operador) - Karoon Brasil;100,00;Mar
+BID5           ;486100095032003;Produção;BT-POT-21;Potiguar;3342704000130;PetroRecôncavo;50,00;Terra
+BID5           ;486100095032003;Produção;BT-POT-21;Potiguar;5002889000160;(Operador) - Mandacaru Energia;50,00;Terra
+BID5           ;486100095092003;Produção;BT-POT-16;Potiguar;45832752000157;(Operador) - Níon Energia;100,00;Terra
+BID6           ;486100079662004;Exploração;BM-BAR-5;Barreirinhas;2873528000109;BP Energy;40,00;Mar
+BID6           ;486100079662004;Exploração;BM-BAR-5;Barreirinhas;33000167000101;(Operador) - Petrobras;60,00;Mar
+BID6           ;486100079742004;Exploração;BM-C-30;Campos;7766332000120;IBV Brasil Petróleo;35,71;Mar
+BID6           ;486100079742004;Exploração;BM-C-30;Campos;8926302000105;(Operador) - Prio Forte S.A;64,29;Mar
+BID6           ;486100079762004;Exploração;BM-C-32;Campos;8926302000105;(Operador) - Prio Forte S.A;100,00;Mar
+BID6           ;486100079772004;Exploração;BM-ES-21;Espírito Santo;2857854000114;(Operador) - 3R Petroleum;100,00;Mar
+BID6           ;486100079792004;Exploração;BM-ES-23;Espírito Santo;4672503000164;(Operador) - BW Maromba;76,47;Mar
+BID6           ;486100079792004;Exploração;BM-ES-23;Espírito Santo;19332109000154;Aquamarine;23,53;Mar
+BID6           ;486100079842004;Produção;BT-ES-25;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID6           ;486100079842004A              ;Produção;BT-ES-25A;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID6           ;486100079852004;Produção;BT-ES-26;Espírito Santo;3951809000197;(Operador) - Petrosynergy;100,00;Terra
+BID6           ;486100079862004;Produção;BT-ES-27;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID6           ;486100079862004A              ;Produção;BT-ES-27A;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID6           ;486100079892004;Exploração;BM-PAMA-8;Pará - Maranhão;12450530000110;Sinopec;20,00;Mar
+BID6           ;486100079892004;Exploração;BM-PAMA-8;Pará - Maranhão;33000167000101;(Operador) - Petrobras;80,00;Mar
+BID6           ;486100079942004;Produção;BT-POT-28;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+BID6           ;486100079952004;Produção;BT-POT-29;Potiguar;3571723000139;(Operador) - Petrogal Brasil;50,00;Terra
+BID6           ;486100079952004;Produção;BT-POT-29;Potiguar;33000167000101;Petrobras;50,00;Terra
+BID6           ;486100079982004;Produção;BT-POT-32;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID6           ;486100080002004;Produção;BT-POT-34;Potiguar;3342704000130;PetroRecôncavo;50,00;Terra
+BID6           ;486100080002004;Produção;BT-POT-34;Potiguar;5002889000160;(Operador) - Mandacaru Energia;50,00;Terra
+BID6           ;486100080012004;Produção;BT-POT-35;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID6           ;486100080022004;Produção;BT-POT-36;Potiguar;3571723000139;(Operador) - Petrogal Brasil;50,00;Terra
+BID6           ;486100080022004;Produção;BT-POT-36;Potiguar;33000167000101;Petrobras;50,00;Terra
+BID6           ;486100080052004;Produção;BT-POT-39;Potiguar;32528443000146;(Operador) - Phoenix Óleo & Gás;100,00;Terra
+BID6           ;486100080052004A              ;Produção;BT-POT-39A;Potiguar;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID6           ;486100080082004;Produção;BT-POT-42;Potiguar;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID6           ;486100080122004;Produção;BT-REC-14;Recôncavo;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BID6           ;486100080132004;Produção;BT-REC-15;Recôncavo;16607122000180;(Operador) - Nova Petróleo;100,00;Terra
+BID6           ;486100080162004;Produção;BT-REC-18;Recôncavo;3347723000150;(Operador) - SHB;50,00;Terra
+BID6           ;486100080162004;Produção;BT-REC-18;Recôncavo;8853092000164;Somoil do Brasil;50,00;Terra
+BID6           ;486100080172004;Produção;BT-REC-19;Recôncavo;3347723000150;SHB;20,00;Terra
+BID6           ;486100080172004;Produção;BT-REC-19;Recôncavo;23018639000108;(Operador) - 3R Bahia;80,00;Terra
+BID6           ;486100080222004;Produção;BM-SEAL-10;Sergipe;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID6           ;486100080232004;Produção;BM-SEAL-11;Sergipe;7766332000120;IBV Brasil Petróleo;40,00;Mar
+BID6           ;486100080232004;Produção;BM-SEAL-11;Sergipe;33000167000101;(Operador) - Petrobras;60,00;Mar
+BID7           ;48610009121200588;Produção;BT-REC-29;Recôncavo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID7           ;48610009127200555;Produção;BT-POT-54;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BID7           ;48610009128200516;Produção;BT-POT-55;Potiguar;3342704000130;(Operador) - PetroRecôncavo;70,00;Terra
+BID7           ;48610009128200516;Produção;BT-POT-55;Potiguar;3347723000150;SHB;30,00;Terra
+BID7           ;48610009128200516A            ;Produção;BT-POT-55A;Potiguar;38219997000148;(Operador) - Aguila;100,00;Terra
+BID7           ;48610009134200557;Produção;BT-POT-61;Potiguar;32528443000146;(Operador) - Phoenix Óleo & Gás;100,00;Terra
+BID7           ;48610009138200535;Produção;BT-SEAL-6;Sergipe;4935189000165;(Operador) - Nord;100,00;Terra
+BID7           ;48610009146200581;Produção;BT-SOL-3;Solimões;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID7           ;48610009149200515;Exploração;BM-POT-17;Potiguar;33000167000101;(Operador) - Petrobras;100,00;Mar
+BID7           ;48610009151200594;Produção;BT-POT-51;Potiguar;3571723000139;(Operador) - Petrogal Brasil;50,00;Terra
+BID7           ;48610009151200594;Produção;BT-POT-51;Potiguar;33000167000101;Petrobras;50,00;Terra
+BID7           ;48610009155200572;Produção;BT-POT-50;Potiguar;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID7           ;48610009156200517;Produção;BM-C-36;Campos;30653538000166;Petronas;50,00;Mar
+BID7           ;48610009156200517;Produção;BM-C-36;Campos;33000167000101;(Operador) - Petrobras;50,00;Mar
+BID7           ;48610009157200561;Produção;BM-C-33;Campos;2270689000108;Repsol Sinopec;35,00;Mar
+BID7           ;48610009157200561;Produção;BM-C-33;Campos;4580657000126;(Operador) - Equinor Energy;35,00;Mar
+BID7           ;48610009157200561;Produção;BM-C-33;Campos;33000167000101;Petrobras;30,00;Mar
+BID7           ;48610009173200554;Produção;BT-ES-35;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID7           ;48610009180200556;Exploração;BM-S-50;Santos;2270689000108;Repsol Sinopec;20,00;Mar
+BID7           ;48610009180200556;Exploração;BM-S-50;Santos;10456016000167;Shell Brasil;20,00;Mar
+BID7           ;48610009180200556;Exploração;BM-S-50;Santos;33000167000101;(Operador) - Petrobras;60,00;Mar
+BID7           ;48610009184200534;Produção;BM-S-54;Santos;8537267000124;Ecopetrol Óleo e Gás;30,00;Mar
+BID7           ;48610009184200534;Produção;BM-S-54;Santos;10456016000167;(Operador) - Shell Brasil;70,00;Mar
+BID7           ;48610009186200523;Produção;BT-ES-30;Espírito Santo;52127214000127;(Operador) - 3R RNCE;100,00;Terra
+BID7           ;48610009188200512;Produção;BT-ES-32;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID7           ;48610009188200512A            ;Produção;BT-ES-32A;Espírito Santo;35723994000159;(Operador) - Seacrest SPE Cricaré;100,00;Terra
+BID7           ;48610009193200525;Produção;BT-ES-33;Espírito Santo;8990767000117;(Operador) - Vipetro;100,00;Terra
+BID7           ;48610009197200511;Produção;BT-SEAL-12;Sergipe;33000167000101;(Operador) - Petrobras;100,00;Terra
+BID7           ;48610009198200558;Produção;BT-SEAL-13;Sergipe;32137521000181;(Operador) - Petrom;100,00;Terra
+BID7           ;48610009198200558A            ;Produção;BT-SEAL-13A;Sergipe;5002889000160;(Operador) - Mandacaru Energia;50,00;Terra
+BID7           ;48610009198200558A            ;Produção;BT-SEAL-13A;Sergipe;34145046000110;Centro Oeste;50,00;Terra
+BID7           ;48610009202200588;Produção;BT-SEAL-18;Sergipe;3347723000150;(Operador) - SHB;30,00;Terra
+BID7           ;48610009202200588;Produção;BT-SEAL-18;Sergipe;33000167000101;Petrobras;70,00;Terra
+BID7           ;48610009204200577;Produção;BT-SEAL-20;Sergipe;4935189000165;(Operador) - Nord;100,00;Terra
+BID7           ;48610009207200519;Exploração;BT-SF-5;São Francisco;10243470000130;(Operador) - Cemes;51,00;Terra
+BID7           ;48610009207200519;Exploração;BT-SF-5;São Francisco;19791581000155;Codemig;49,00;Terra
+BID9           ;48610001293200856;Produção;BT-REC-59;Recôncavo;3951809000197;(Operador) - Petrosynergy;100,00;Terra
+BID9           ;48610001295200845;Exploração;BT-REC-58;Recôncavo;15240822000117;(Operador) - Alvopetro;100,00;Terra
+BID9           ;48610001365200865;Produção;BM-C-47;Campos;4028583000110;Equinor Brasil;20,00;Mar
+BID9           ;48610001365200865;Produção;BM-C-47;Campos;6871406000126;(Operador) - Prio Tigris;80,00;Mar
+BID9           ;48610001367200854;Produção;BM-C-39;Campos;3255266000173;(Operador) - Prio Bravo;80,00;Mar
+BID9           ;48610001367200854;Produção;BM-C-39;Campos;8926302000105;Prio Forte S.A;20,00;Mar
+BID9           ;48610001368200807;Produção;BM-C-40;Campos;8926302000105;(Operador) - Prio Forte S.A;100,00;Mar
+BID9           ;48610001369200843;Exploração;BM-C-41;Campos;8926302000105;(Operador) - Prio Forte S.A;100,00;Mar
+BID9           ;48610001378200834;Produção;BM-S-61;Santos;9347916000197;(Operador) - Karoon Brasil;100,00;Mar
+BID9           ;48610001383200847;Produção;BM-S-68;Santos;9347916000197;(Operador) - Karoon Brasil;100,00;Mar
+BID9           ;48610001402200835;Produção;BT-ES-38;Espírito Santo;8990767000117;(Operador) - Vipetro;100,00;Terra
+BID9           ;48610001413200815;Produção;BT-PN-1;Parnaíba;4423567000121;(Operador) - Eneva;100,00;Terra
+BID9           ;48610001414200860;Exploração;BT-PN-4;Parnaíba;4423567000121;(Operador) - Eneva;100,00;Terra
+BID9           ;48610001415200812;Produção;BT-PN-5;Parnaíba;4423567000121;(Operador) - Eneva;100,00;Terra
+BID9           ;48610001417200801;Produção;BT-PN-7;Parnaíba;4423567000121;(Operador) - Eneva;100,00;Terra
+BID9           ;48610001418200848;Produção;BT-PN-8;Parnaíba;4423567000121;(Operador) - Eneva;100,00;Terra
+BID9           ;48610001425200840;Produção;BT-REC-45;Recôncavo;15240822000117;(Operador) - Alvopetro;100,00;Terra
+BID9           ;48610001427200839;Produção;BT-REC-47;Recôncavo;15240822000117;(Operador) - Alvopetro;100,00;Terra
+BID9           ;48610001427200839A            ;Exploração;BT-REC-47A;Recôncavo;11230625000166;(Operador) - SPE Tiêta;100,00;Terra
+BID9           ;48610001429200828;Produção;BT-REC-49;Recôncavo;23018639000108;(Operador) - 3R Bahia;100,00;Terra
+BID9           ;48610001430200852;Produção;BT-REC-50;Recôncavo;35156290000141;(Operador) - 3R Rio Ventura;100,00;Terra
+BID9           ;48610001439200863;Produção;BT-REC-35;Recôncavo;271847000100;(Operador) - Imetame;69,35;Terra
+BID9           ;48610001439200863;Produção;BT-REC-35;Recôncavo;20891041000122;Orteng Óleo e Gás;30,65;Terra
+BID9           ;48610001440200898;Produção;BT-REC-36;Recôncavo;48700902000167;(Operador) - Recôncavo Energ SPE;100,00;Terra
+BID9           ;48610001443200821;Exploração;BT-REC-39;Recôncavo;11230625000166;(Operador) - SPE Tiêta;100,00;Terra
+BID9           ;48610001446200865;Exploração;BT-REC-42;Recôncavo;11230625000166;(Operador) - SPE Tiêta;100,00;Terra
+BR(3)          ;480000034559764;Produção;BSOL-5;Solimões;33000167000101;(Operador) - Petrobras;100,00;Terra
+BR(3)          ;480000034799722;Produção;BPOT-10   ;Potiguar;33000167000101;(Operador) - Petrobras;100,00;Mar
+BR(3)          ;480000034819774;Produção;BPOT-100A;Potiguar;33000167000101;(Operador) - Petrobras;100,00;Mar
+BR(3)          ;480000034829737;Produção;BPOT-4;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+BR(3)          ;480000034849762;Produção;BPOT-6    ;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+BR(3)          ;480000035189782;Produção;BCAM-40;Camamu;12091809000155;Brava Energia S.A.;45,00;Mar
+BR(3)          ;480000035189782;Produção;BCAM-40;Camamu;33000167000101;(Operador) - Petrobras;35,00;Mar
+BR(3)          ;480000035189782;Produção;BCAM-40;Camamu;38427732000135;Gas Bridge;20,00;Mar
+BR(3)          ;480000035419702;Produção;BCED      ;Espírito Santo;33000167000101;(Operador) - Petrobras;100,00;Terra
+BR(3)          ;480000035729728;Produção;BS-3;Santos;7467619000150;Panoro Energy;50,00;Mar
+BR(3)          ;480000035729728;Produção;BS-3;Santos;8857415000198;Brasoil Cav. Marinho;15,00;Mar
+BR(3)          ;480000035729728;Produção;BS-3;Santos;33000167000101;(Operador) - Petrobras;35,00;Mar
+BR(3+2)        ;480000034609702;Produção;BA-3;Amazonas;33000167000101;(Operador) - Petrobras;100,00;Terra
+BR(3+2)        ;480000034609702A              ;Produção;BA-3A;Amazonas;4423567000121;(Operador) - Eneva;100,00;Terra
+BR(3+2)        ;480000034959789;Produção;SEAL-100;Sergipe;33000167000101;(Operador) - Petrobras;100,00;Mar
+BR(3+2)        ;480000035359700;Produção;BES-100;Espírito Santo;4672503000164;(Operador) - BW Maromba;100,00;Mar
+BR(3+2)        ;480000035529711;Produção;BC-10;Campos;4033930000100;ONGC Campos;27,00;Mar
+BR(3+2)        ;480000035529711;Produção;BC-10;Campos;9589793000109;Enauta;23,00;Mar
+BR(3+2)        ;480000035529711;Produção;BC-10;Campos;10456016000167;(Operador) - Shell Brasil;50,00;Mar
+BR(3+2)        ;480000035569771;Produção;BC-20;Campos;2308527000103;Nova Técnica;37,50;Mar
+BR(3+2)        ;480000035569771;Produção;BC-20;Campos;2857854000114;(Operador) - 3R Petroleum;62,50;Mar
+BR(3+2)        ;480000035569771A              ;Produção;BC-20A;Campos;49602180000170;(Operador) - BW Peixe;100,00;Mar
+BR(3+2)        ;480000035579734;Produção;BC-30;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BR(3+2)        ;480000035609749;Produção;BC-60;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BR(3+2)        ;480000035709701;Produção;BS-1;Santos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BR(3+2)        ;480000035739791;Produção;BS-4;Santos;12091809000155;(Operador) - Brava Energia S.A.;80,00;Mar
+BR(3+2)        ;480000035739791;Produção;BS-4;Santos;53031967000105;Westlawn Energia;20,00;Mar
+BR(3+2)        ;480000035769789;Produção;BS-400;Santos;33000167000101;(Operador) - Petrobras;100,00;Mar
+BR(3+2)        ;480000035779741;Produção;BS-500;Santos;33000167000101;(Operador) - Petrobras;100,00;Mar
+CO_2010        ;48610012913201005;Produção;C_Onerosa_2010;Santos;33000167000101;(Operador) - Petrobras;100,00;Mar
+EXC_CO_2020    ;48610220924201997;Produção;Búzios_EXC;Santos;19233194000101;CNPC;5,00;Mar
+EXC_CO_2020    ;48610220924201997;Produção;Búzios_EXC;Santos;19246634000157;CNOOC Petroleum;10,00;Mar
+EXC_CO_2020    ;48610220924201997;Produção;Búzios_EXC;Santos;33000167000101;(Operador) - Petrobras;85,00;Mar
+EXC_CO_2020    ;48610220925201931;Produção;Itapu_EXC;Santos;33000167000101;(Operador) - Petrobras;100,00;Mar
+EXC_CO_2022    ;48610226558202102;Produção;ATAPU_EXC;Santos;2461767000143;TotalEnergies EP;22,50;Mar
+EXC_CO_2022    ;48610226558202102;Produção;ATAPU_EXC;Santos;10456016000167;Shell Brasil;25,00;Mar
+EXC_CO_2022    ;48610226558202102;Produção;ATAPU_EXC;Santos;33000167000101;(Operador) - Petrobras;52,50;Mar
+EXC_CO_2022    ;48610226559202149;Produção;SEPIA_EXC;Santos;2461767000143;TotalEnergies EP;28,00;Mar
+EXC_CO_2022    ;48610226559202149;Produção;SEPIA_EXC;Santos;15916060000126;QatarEnergy;21,00;Mar
+EXC_CO_2022    ;48610226559202149;Produção;SEPIA_EXC;Santos;30653538000166;Petronas;21,00;Mar
+EXC_CO_2022    ;48610226559202149;Produção;SEPIA_EXC;Santos;33000167000101;(Operador) - Petrobras;30,00;Mar
+OPP1           ;48610232915202244;Exploração;Água_Marinha_OPP1;Campos;2461767000143;TotalEnergies EP;30,00;Mar
+OPP1           ;48610232915202244;Exploração;Água_Marinha_OPP1;Campos;15916060000126;QatarEnergy;20,00;Mar
+OPP1           ;48610232915202244;Exploração;Água_Marinha_OPP1;Campos;30653538000166;Petronas;20,00;Mar
+OPP1           ;48610232915202244;Exploração;Água_Marinha_OPP1;Campos;33000167000101;(Operador) - Petrobras;30,00;Mar
+OPP1           ;48610232916202299;Exploração;Norte_de_Brava_OPP1;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+OPP1           ;48610232917202233;Exploração;Bumerangue_OPP1;Santos;2873528000109;(Operador) - BP Energy;100,00;Mar
+OPP1           ;48610232918202288;Exploração;SO_Sagitário_OPP1;Santos;10456016000167;Shell Brasil;40,00;Mar
+OPP1           ;48610232918202288;Exploração;SO_Sagitário_OPP1;Santos;33000167000101;(Operador) - Petrobras;60,00;Mar
+OPP2           ;48610239990202317;Exploração;Tupinamba_OPP2;Santos;2873528000109;(Operador) - BP Energy;100,00;Mar
+OPP3           ;48610202168202643;Exploração;Esmeralda_OPP3;Santos;9347916000197;(Operador) - Karoon Brasil;100,00;Mar
+OPP3           ;48610202169202698;Exploração;Ametista_OPP3;Santos;12450530000110;Sinopec;30,00;Mar
+OPP3           ;48610202169202698;Exploração;Ametista_OPP3;Santos;19246634000157;(Operador) - CNOOC Petroleum;70,00;Mar
+OPP3           ;48610202170202612;Exploração;Citrino_OPP3;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+OPP3           ;48610202171202667;Exploração;Itaimbezinho_OPP3;Campos;4028583000110;(Operador) - Equinor Brasil;100,00;Mar
+OPP3           ;48610202173202656;Exploração;Jaspe_OPP3;Campos;4028583000110;Equinor Brasil;40,00;Mar
+OPP3           ;48610202173202656;Exploração;Jaspe_OPP3;Campos;33000167000101;(Operador) - Petrobras;60,00;Mar
+OP1_AM         ;48610222001201970;Exploração;Mosquito;Espírito Santo;47851611000107;(Operador) - NBS;100,00;Terra
+OP1_AM         ;48610222002201914;Exploração;Saíra;Espírito Santo;47851611000107;(Operador) - NBS;100,00;Terra
+OP1_AM         ;48610222003201969;Exploração;Lagoa Parda Sul;Espírito Santo;271847000100;(Operador) - Imetame;100,00;Terra
+OP1_AM         ;48610222004201911;Exploração;Trapiá;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP1_AM         ;48610222005201958;Exploração;Tiziu;Potiguar;32021201000161;Origem;50,00;Terra
+OP1_AM         ;48610222005201958;Exploração;Tiziu;Potiguar;34186669000131;(Operador) - Origem Alagoas;50,00;Terra
+OP1_AM         ;48610222006201901;Exploração;Camaçari;Recôncavo;33400769000156;(Operador) - Creative Energy;100,00;Terra
+OP1_AM         ;48610222007201947;Exploração;Fazenda Gameleira;Recôncavo;32021201000161;Origem;50,00;Terra
+OP1_AM         ;48610222007201947;Exploração;Fazenda Gameleira;Recôncavo;34186669000131;(Operador) - Origem Alagoas;50,00;Terra
+OP1_AM         ;48610222008201991;Exploração;Fazenda Sori;Recôncavo;8839018000193;(Operador) - Brasil Refinarias;100,00;Terra
+OP1_AM         ;48610222009201936;Exploração;Lagoa Verde;Recôncavo;24604414000198;(Operador) - Great Energy;100,00;Terra
+OP1_AM         ;48610222010201961;Exploração;Pojuca Norte;Recôncavo;8839018000193;(Operador) - Brasil Refinarias;100,00;Terra
+OP1_AM         ;48610222011201913;Exploração;Rio Joanes;Recôncavo;33400769000156;(Operador) - Creative Energy;100,00;Terra
+OP1_AM         ;48610222012201950;Exploração;Piaçabuçu;Alagoas;15594013000103;(Operador) - Perícia;50,00;Terra
+OP1_AM         ;48610222012201950;Exploração;Piaçabuçu;Alagoas;23340906000150;Andorinha Petróleo;50,00;Terra
+OP1_BE         ;48610222046201944;Exploração;PN-T-102A_OP1;Parnaíba;4423567000121;(Operador) - Eneva;100,00;Terra
+OP1_BE         ;48610222047201999;Exploração;PN-T-47_OP1;Parnaíba;4423567000121;(Operador) - Eneva;100,00;Terra
+OP1_BE         ;48610222048201933;Exploração;PN-T-48A_OP1;Parnaíba;4423567000121;(Operador) - Eneva;100,00;Terra
+OP1_BE         ;48610222049201988;Exploração;PN-T-66_OP1;Parnaíba;4423567000121;(Operador) - Eneva;100,00;Terra
+OP1_BE         ;48610222050201911;Exploração;PN-T-67A_OP1;Parnaíba;4423567000121;(Operador) - Eneva;100,00;Terra
+OP1_BE         ;48610222051201957;Exploração;PN-T-68_OP1;Parnaíba;4423567000121;(Operador) - Eneva;100,00;Terra
+OP1_BE         ;48610222052201900;Exploração;POT-T-392_OP1;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP1_BE         ;48610222053201946;Exploração;POT-T-432_OP1;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP1_BE         ;48610222054201991;Exploração;POT-T-433_OP1;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP1_BE         ;48610222055201935;Exploração;POT-T-434_OP1;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP1_BE         ;48610222056201980;Exploração;POT-T-476_OP1;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP1_BE         ;48610222057201924;Exploração;POT-T-477_OP1;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP1_BE         ;48610222058201979;Exploração;POT-T-478_OP1;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP1_BE         ;48610222059201913;Exploração;POT-T-519_OP1;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP1_BE         ;48610222060201948;Exploração;POT-T-521_OP1;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP1_BE         ;48610222061201992;Exploração;POT-T-564_OP1;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP1_BE         ;48610222062201937;Exploração;POT-T-565_OP1;Potiguar;32528443000146;(Operador) - Phoenix Óleo & Gás;100,00;Terra
+OP1_BE         ;48610222063201981;Exploração;POT-T-566_OP1;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP1_BE         ;48610222064201926;Exploração;POT-T-606_OP1;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP1_BE         ;48610222065201971;Exploração;POT-T-610_OP1;Potiguar;32528443000146;(Operador) - Phoenix Óleo & Gás;100,00;Terra
+OP1_BE         ;48610222066201915;Exploração;POT-T-650_OP1;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP1_BE         ;48610222067201960;Exploração;POT-T-651_OP1;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP1_BE         ;48610222068201912;Exploração;POT-T-652_OP1;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP1_BE         ;48610222069201959;Exploração;POT-T-740_OP1;Potiguar;45832752000157;(Operador) - Níon Energia;100,00;Terra
+OP1_BE         ;48610222070201983;Exploração;POT-T-834_OP1;Potiguar;17572061000126;(Operador) - Geopark Brasil;100,00;Terra
+OP1_BE         ;48610222071201928;Exploração;REC-T-67_OP1;Recôncavo;17572061000126;(Operador) - Geopark Brasil;100,00;Terra
+OP1_BE         ;48610222072201972;Exploração;REC-T-77_OP1;Recôncavo;17572061000126;(Operador) - Geopark Brasil;100,00;Terra
+OP1_BE         ;48610222073201917;Exploração;REC-T-58_OP1;Recôncavo;17572061000126;(Operador) - Geopark Brasil;100,00;Terra
+OP1_BE         ;48610222076201951;Exploração;SEAL-M-505_OP1;Sergipe;12091809000155;(Operador) - Brava Energia S.A.;100,00;Mar
+OP1_BE         ;48610222077201903;Exploração;SEAL-M-575_OP1;Sergipe;12091809000155;(Operador) - Brava Energia S.A.;100,00;Mar
+OP1_BE         ;48610222078201940;Exploração;SEAL-M-637_OP1;Sergipe;2804865000136;Murphy Brasil;20,00;Mar
+OP1_BE         ;48610222078201940;Exploração;SEAL-M-637_OP1;Sergipe;4033958000130;(Operador) - ExxonMobil Brasil;50,00;Mar
+OP1_BE         ;48610222078201940;Exploração;SEAL-M-637_OP1;Sergipe;12091809000155;Brava Energia S.A.;30,00;Mar
+OP2_AM         ;48610204682202117;Exploração;Juruá;Solimões;4423567000121;(Operador) - Eneva;100,00;Terra
+OP2_BE         ;48610204665202171;Exploração;AM-T-62_OP2;Amazonas;4423567000121;(Operador) - Eneva;100,00;Terra
+OP2_BE         ;48610204666202116;Exploração;AM-T-84_OP2;Amazonas;4423567000121;(Operador) - Eneva;100,00;Terra
+OP2_BE         ;48610204667202161;Exploração;AM-T-85_OP2;Amazonas;4423567000121;(Operador) - Eneva;100,00;Terra
+OP2_BE         ;48610204668202113;Exploração;C-M-757_OP2;Campos;10456016000167;(Operador) - Shell Brasil;100,00;Mar
+OP2_BE         ;48610204669202150;Exploração;ES-T-305_OP2;Espírito Santo;271847000100;(Operador) - Imetame;50,00;Terra
+OP2_BE         ;48610204669202150;Exploração;ES-T-305_OP2;Espírito Santo;40701381000150;Energy Paranã;50,00;Terra
+OP2_BE         ;48610204670202184;Exploração;ES-T-409_OP2;Espírito Santo;271847000100;(Operador) - Imetame;50,00;Terra
+OP2_BE         ;48610204670202184;Exploração;ES-T-409_OP2;Espírito Santo;40701381000150;Energy Paranã;50,00;Terra
+OP2_BE         ;48610204671202129;Exploração;ES-T-429_OP2;Espírito Santo;271847000100;(Operador) - Imetame;50,00;Terra
+OP2_BE         ;48610204671202129;Exploração;ES-T-429_OP2;Espírito Santo;40701381000150;Energy Paranã;50,00;Terra
+OP2_BE         ;48610204672202173;Exploração;ES-T-466_OP2;Espírito Santo;271847000100;(Operador) - Imetame;50,00;Terra
+OP2_BE         ;48610204672202173;Exploração;ES-T-466_OP2;Espírito Santo;40701381000150;Energy Paranã;50,00;Terra
+OP2_BE         ;48610204673202118;Exploração;ES-T-486A_OP2;Espírito Santo;271847000100;(Operador) - Imetame;50,00;Terra
+OP2_BE         ;48610204673202118;Exploração;ES-T-486A_OP2;Espírito Santo;40701381000150;Energy Paranã;50,00;Terra
+OP2_BE         ;48610204674202162;Exploração;ES-T-517_OP2;Espírito Santo;271847000100;(Operador) - Imetame;50,00;Terra
+OP2_BE         ;48610204674202162;Exploração;ES-T-517_OP2;Espírito Santo;40701381000150;Energy Paranã;50,00;Terra
+OP2_BE         ;48610204675202115;Exploração;ES-T-527_OP2;Espírito Santo;271847000100;(Operador) - Imetame;50,00;Terra
+OP2_BE         ;48610204675202115;Exploração;ES-T-527_OP2;Espírito Santo;40701381000150;Energy Paranã;50,00;Terra
+OP2_BE         ;48610204676202151;Exploração;PAR-T-196_OP2;Paraná;4423567000121;(Operador) - Eneva;70,00;Terra
+OP2_BE         ;48610204676202151;Exploração;PAR-T-196_OP2;Paraná;12091809000155;Brava Energia S.A.;30,00;Terra
+OP2_BE         ;48610204677202104;Exploração;PAR-T-215_OP2;Paraná;4423567000121;(Operador) - Eneva;70,00;Terra
+OP2_BE         ;48610204677202104;Exploração;PAR-T-215_OP2;Paraná;12091809000155;Brava Energia S.A.;30,00;Terra
+OP2_BE         ;48610204678202141;Exploração;PAR-T-86_OP2;Paraná;4423567000121;(Operador) - Eneva;70,00;Terra
+OP2_BE         ;48610204678202141;Exploração;PAR-T-86_OP2;Paraná;12091809000155;Brava Energia S.A.;30,00;Terra
+OP2_BE         ;48610204679202195;Exploração;PAR-T-99_OP2;Paraná;4423567000121;(Operador) - Eneva;70,00;Terra
+OP2_BE         ;48610204679202195;Exploração;PAR-T-99_OP2;Paraná;12091809000155;Brava Energia S.A.;30,00;Terra
+OP2_BE         ;48610204680202110;Exploração;POT-T-702_OP2;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+OP2_BE         ;48610204681202164;Exploração;TUC-T-172_OP2;Tucano Sul;18957968000176;(Operador) - Petroborn;100,00;Terra
+OP3_BE         ;48610215430202296;Exploração;ES-T-528_OP3;Espírito Santo;271847000100;(Operador) - Imetame;30,00;Terra
+OP3_BE         ;48610215430202296;Exploração;ES-T-528_OP3;Espírito Santo;28473807000160;Seacrest;50,00;Terra
+OP3_BE         ;48610215430202296;Exploração;ES-T-528_OP3;Espírito Santo;40701381000150;Energy Paranã;20,00;Terra
+OP3_BE         ;48610215431202231;Exploração;POT-T-352_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215432202285;Exploração;POT-T-391_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215433202220;Exploração;POT-T-474_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215434202274;Exploração;POT-T-281_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215435202219;Exploração;POT-T-304_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215436202263;Exploração;POT-T-326_OP3;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+OP3_BE         ;48610215437202216;Exploração;POT-T-327_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215438202252;Exploração;POT-T-353_OP3;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+OP3_BE         ;48610215439202205;Exploração;POT-T-354_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215440202221;Exploração;POT-T-355_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215441202276;Exploração;POT-T-393_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215442202211;Exploração;POT-T-435_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215443202265;Exploração;POT-T-436_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215444202218;Exploração;POT-T-437_OP3;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+OP3_BE         ;48610215445202254;Exploração;POT-T-520_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215446202207;Exploração;POT-T-605_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215447202243;Exploração;POT-T-608_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215448202298;Exploração;POT-T-609_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215449202232;Exploração;POT-T-654_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215450202267;Exploração;POT-T-655_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215451202210;Exploração;POT-T-696_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215452202256;Exploração;POT-T-697_OP3;Potiguar;28163588000113;(Operador) - Petro-Victory;100,00;Terra
+OP3_BE         ;48610215453202209;Exploração;POT-T-524_OP3;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+OP3_BE         ;48610215454202245;Exploração;POT-T-525_OP3;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+OP3_BE         ;48610215455202290;Exploração;POT-T-568_OP3;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+OP3_BE         ;48610215456202234;Exploração;REC-T-103_OP3;Recôncavo;18957968000176;(Operador) - Petroborn;100,00;Terra
+OP3_BE         ;48610215457202289;Exploração;REC-T-24_OP3;Recôncavo;29019399000134;(Operador) - NTF;100,00;Terra
+OP3_BE         ;48610215458202223;Exploração;REC-T-165_OP3;Recôncavo;18957968000176;(Operador) - Petroborn;100,00;Terra
+OP3_BE         ;48610215459202278;Exploração;REC-T-191_OP3;Recôncavo;10492453000136;Newo;50,00;Terra
+OP3_BE         ;48610215459202278;Exploração;REC-T-191_OP3;Recôncavo;29019399000134;(Operador) - NTF;50,00;Terra
+OP3_BE         ;48610215460202201;Exploração;S-M-1599_OP3;Santos;8537267000124;Ecopetrol Óleo e Gás;30,00;Mar
+OP3_BE         ;48610215460202201;Exploração;S-M-1599_OP3;Santos;10456016000167;(Operador) - Shell Brasil;70,00;Mar
+OP3_BE         ;48610215461202247;Exploração;S-M-1601_OP3;Santos;8537267000124;Ecopetrol Óleo e Gás;30,00;Mar
+OP3_BE         ;48610215461202247;Exploração;S-M-1601_OP3;Santos;10456016000167;(Operador) - Shell Brasil;70,00;Mar
+OP3_BE         ;48610215462202291;Exploração;S-M-1711_OP3;Santos;2461767000143;(Operador) - TotalEnergies EP;50,00;Mar
+OP3_BE         ;48610215462202291;Exploração;S-M-1711_OP3;Santos;15916060000126;QatarEnergy;50,00;Mar
+OP3_BE         ;48610215463202236;Exploração;S-M-1713_OP3;Santos;8537267000124;Ecopetrol Óleo e Gás;30,00;Mar
+OP3_BE         ;48610215463202236;Exploração;S-M-1713_OP3;Santos;10456016000167;(Operador) - Shell Brasil;70,00;Mar
+OP3_BE         ;48610215464202281;Exploração;S-M-1815_OP3;Santos;2461767000143;(Operador) - TotalEnergies EP;50,00;Mar
+OP3_BE         ;48610215464202281;Exploração;S-M-1815_OP3;Santos;15916060000126;QatarEnergy;50,00;Mar
+OP3_BE         ;48610215465202225;Exploração;S-M-1817_OP3;Santos;8537267000124;Ecopetrol Óleo e Gás;30,00;Mar
+OP3_BE         ;48610215465202225;Exploração;S-M-1817_OP3;Santos;10456016000167;(Operador) - Shell Brasil;70,00;Mar
+OP3_BE         ;48610215466202270;Exploração;S-M-1908_OP3;Santos;8537267000124;Ecopetrol Óleo e Gás;30,00;Mar
+OP3_BE         ;48610215466202270;Exploração;S-M-1908_OP3;Santos;10456016000167;(Operador) - Shell Brasil;70,00;Mar
+OP3_BE         ;48610215467202214;Exploração;S-M-1910_OP3;Santos;8537267000124;Ecopetrol Óleo e Gás;30,00;Mar
+OP3_BE         ;48610215467202214;Exploração;S-M-1910_OP3;Santos;10456016000167;(Operador) - Shell Brasil;70,00;Mar
+OP3_BE         ;48610215470202238;Exploração;SEAL-T-102_OP3;Alagoas;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215471202282;Exploração;SEAL-T-103_OP3;Alagoas;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215472202227;Exploração;SEAL-T-110_OP3;Alagoas;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215473202271;Exploração;SEAL-T-117_OP3;Alagoas;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215474202216;Exploração;SEAL-T-120_OP3;Alagoas;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215475202261;Exploração;SEAL-T-141_OP3;Alagoas;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215476202213;Exploração;SEAL-T-151_OP3;Alagoas;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215477202250;Exploração;SEAL-T-153_OP3;Alagoas;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215478202202;Exploração;SEAL-T-166_OP3;Alagoas;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215479202249;Exploração;SEAL-T-167_OP3;Alagoas;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215480202273;Exploração;SEAL-T-179_OP3;Alagoas;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215481202218;Exploração;SEAL-T-187_OP3;Alagoas;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215482202262;Exploração;SEAL-T-252_OP3;Alagoas;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215483202215;Exploração;SEAL-T-253_OP3;Alagoas;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215485202204;Exploração;TUC-T-146_OP3;Tucano Sul;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215486202241;Exploração;TUC-T-154_OP3;Tucano Sul;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215487202295;Exploração;TUC-T-161_OP3;Tucano Sul;271847000100;(Operador) - Imetame;30,00;Terra
+OP3_BE         ;48610215487202295;Exploração;TUC-T-161_OP3;Tucano Sul;40701381000150;Energy Paranã;70,00;Terra
+OP3_BE         ;48610215488202230;Exploração;TUC-T-167_OP3;Tucano Sul;32021201000161;(Operador) - Origem;100,00;Terra
+OP3_BE         ;48610215489202284;Exploração;TUC-T-177_OP3;Tucano Sul;32021201000161;(Operador) - Origem;100,00;Terra
+OP4_AM         ;48610205860202461;Exploração;Japiim;Amazonas;4423567000121;(Operador) - Eneva;80,00;Terra
+OP4_AM         ;48610205860202461;Exploração;Japiim;Amazonas;44290573000172;ATEM Participações;20,00;Terra
+OP4_BE         ;48610205861202414;Exploração;AM-T-63_OP4;Amazonas;44290573000172;(Operador) - ATEM Participações;100,00;Terra
+OP4_BE         ;48610205862202451;Exploração;AM-T-64_OP4;Amazonas;44290573000172;(Operador) - ATEM Participações;100,00;Terra
+OP4_BE         ;48610205863202403;Exploração;AM-T-107_OP4;Amazonas;44290573000172;(Operador) - ATEM Participações;100,00;Terra
+OP4_BE         ;48610205866202439;Exploração;ES-T-226_OP4;Mucuri;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205867202483;Exploração;ES-T-380_OP4;Espírito Santo;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205868202428;Exploração;ES-T-389_OP4;Espírito Santo;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205869202472;Exploração;ES-T-398_OP4;Espírito Santo;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205870202405;Exploração;ES-T-399_OP4;Espírito Santo;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205871202441;Exploração;ES-T-407_OP4;Espírito Santo;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205872202496;Exploração;ES-T-408_OP4;Espírito Santo;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205873202431;Exploração;ES-T-504_OP4;Espírito Santo;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205874202485;Exploração;ES-T-514_OP4;Espírito Santo;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205886202418;Exploração;ES-T-525_OP4;Espírito Santo;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205887202454;Exploração;POT-T-192_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205889202443;Exploração;POT-T-194_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205890202478;Exploração;POT-T-195_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205891202412;Exploração;POT-T-204_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205892202467;Exploração;POT-T-207_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205893202410;Exploração;POT-T-208_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205894202456;Exploração;POT-T-426_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205895202409;Exploração;POT-T-427_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205896202445;Exploração;POT-T-428_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205897202490;Exploração;POT-T-469_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205898202434;Exploração;POT-T-470_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205900202475;Exploração;POT-T-196_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205901202410;Exploração;POT-T-197_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205902202464;Exploração;POT-T-209_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205903202417;Exploração;POT-T-210_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205904202453;Exploração;POT-T-211_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205905202406;Exploração;POT-T-223_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205906202442;Exploração;POT-T-224_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205907202497;Exploração;POT-T-225_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205908202431;Exploração;POT-T-257_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205909202486;Exploração;POT-T-276_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205910202419;Exploração;POT-T-298_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205911202455;Exploração;POT-T-472_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205912202408;Exploração;POT-T-473_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205913202444;Exploração;POT-T-303_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205914202499;Exploração;POT-T-331_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205915202433;Exploração;POT-T-367_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205916202488;Exploração;POT-T-368_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205917202422;Exploração;POT-T-396_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205918202477;Exploração;POT-T-407_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205919202411;Exploração;POT-T-408_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205920202446;Exploração;POT-T-439_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205921202491;Exploração;POT-T-440_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205922202435;Exploração;POT-T-446_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205923202480;Exploração;POT-T-447_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205924202424;Exploração;POT-T-448_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205929202457;Exploração;POT-T-449_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205930202481;Exploração;POT-T-450_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205931202426;Exploração;POT-T-484_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205932202471;Exploração;POT-T-485_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205933202415;Exploração;POT-T-511_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205934202460;Exploração;POT-T-512_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205935202412;Exploração;POT-T-513_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205936202459;Exploração;POT-T-515_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205937202401;Exploração;POT-T-516_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205938202448;Exploração;POT-T-557_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205939202492;Exploração;POT-T-559_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205940202417;Exploração;POT-T-560_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205941202461;Exploração;POT-T-602_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205942202414;Exploração;POT-T-603_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205943202451;Exploração;POT-T-604_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205944202403;Exploração;POT-T-607_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205945202440;Exploração;POT-T-612_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205946202494;Exploração;POT-T-644_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205947202439;Exploração;POT-T-647_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205948202483;Exploração;POT-T-648_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205949202428;Exploração;POT-T-649_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205953202496;Exploração;POT-T-656_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205954202431;Exploração;POT-T-657_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205955202485;Exploração;POT-T-691_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205956202420;Exploração;POT-T-692_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205957202474;Exploração;POT-T-693_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205958202419;Exploração;POT-T-694_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205959202463;Exploração;POT-T-701_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205960202498;Exploração;POT-T-703_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205961202432;Exploração;POT-T-739_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205962202487;Exploração;POT-T-745_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205963202421;Exploração;POT-T-746_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205964202476;Exploração;POT-T-748_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205965202411;Exploração;POT-T-749_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205966202465;Exploração;POT-T-783_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205967202418;Exploração;POT-T-786_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205968202454;Exploração;POT-T-790_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205969202407;Exploração;POT-T-792_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205970202423;Exploração;POT-T-794A_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205971202478;Exploração;POT-T-795_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205972202412;Exploração;POT-T-831_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205973202467;Exploração;POT-T-835_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205974202410;Exploração;POT-T-836_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205975202456;Exploração;POT-T-838_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205976202409;Exploração;POT-T-840_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205977202445;Exploração;POT-T-841_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205980202469;Exploração;POT-T-913_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205981202411;Exploração;POT-T-914_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205982202458;Exploração;POT-T-523_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205983202401;Exploração;POT-T-527_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205984202447;Exploração;POT-T-530_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205985202491;Exploração;POT-T-574_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205986202436;Exploração;POT-T-576_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205987202481;Exploração;POT-T-620_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205988202425;Exploração;POT-T-662_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205989202470;Exploração;POT-T-663_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205990202402;Exploração;POT-T-664_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205991202449;Exploração;POT-T-665_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205992202493;Exploração;POT-T-704_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205993202438;Exploração;POT-T-705_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205994202482;Exploração;POT-T-706_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205995202427;Exploração;POT-T-750_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205996202471;Exploração;POT-T-751_OP4;Potiguar;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205997202416;Exploração;SEAL-T-31_OP4;Alagoas;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205998202461;Exploração;SEAL-T-39_OP4;Alagoas;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610205999202413;Exploração;SEAL-T-67_OP4;Alagoas;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610206000202445;Exploração;SEAL-T-71_OP4;Alagoas;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610206001202490;Exploração;SEAL-T-72_OP4;Alagoas;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610206002202434;Exploração;SEAL-T-77_OP4;Alagoas;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610206003202489;Exploração;SEAL-T-156_OP4;Alagoas;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610206004202423;Exploração;SEAL-T-164_OP4;Alagoas;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610206005202478;Exploração;SEAL-T-176_OP4;Alagoas;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610206006202412;Exploração;SEAL-T-228_OP4;Alagoas;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610206007202467;Exploração;SEAL-T-262_OP4;Alagoas;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610206008202410;Exploração;SEAL-T-263_OP4;Alagoas;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610206009202456;Exploração;SEAL-T-271_OP4;Alagoas;51660239000129;(Operador) - Elysian Petroleum;100,00;Terra
+OP4_BE         ;48610206010202481;Exploração;POT-T-403_OP4;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+OP4_BE         ;48610206011202425;Exploração;POT-T-488_OP4;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+OP4_BE         ;48610206012202470;Exploração;POT-T-531_OP4;Potiguar;44186763000144;(Operador) - 3R Potiguar;100,00;Terra
+OP4_BE         ;48610206013202414;Exploração;POT-T-742_OP4;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+OP4_BE         ;48610206014202469;Exploração;POT-T-793_OP4;Potiguar;3342704000130;(Operador) - PetroRecôncavo;100,00;Terra
+OP4_BE         ;48610206018202447;Exploração;REC-T-76_OP4;Recôncavo;15126451000147;(Operador) - PERBRAS;100,00;Terra
+OP4_BE         ;48610206019202491;Exploração;REC-T-85_OP4;Recôncavo;15126451000147;(Operador) - PERBRAS;100,00;Terra
+OP4_BE         ;48610206020202416;Exploração;REC-T-45_OP4;Recôncavo;271847000100;(Operador) - Imetame;100,00;Terra
+OP4_BE         ;48610206021202461;Exploração;REC-T-56_OP4;Recôncavo;271847000100;(Operador) - Imetame;100,00;Terra
+OP4_BE         ;48610206022202413;Exploração;REC-T-82_OP4;Recôncavo;271847000100;(Operador) - Imetame;100,00;Terra
+OP4_BE         ;48610206023202450;Exploração;REC-T-86_OP4;Recôncavo;271847000100;(Operador) - Imetame;100,00;Terra
+OP4_BE         ;48610206070202401;Exploração;P-M-22_OP4;Pelotas;4697624000160;(Operador) - Chevron Brasil;100,00;Mar
+OP4_BE         ;48610206071202448;Exploração;P-M-24_OP4;Pelotas;4697624000160;(Operador) - Chevron Brasil;100,00;Mar
+OP4_BE         ;48610206072202492;Exploração;P-M-76_OP4;Pelotas;4697624000160;(Operador) - Chevron Brasil;100,00;Mar
+OP4_BE         ;48610206073202437;Exploração;P-M-78_OP4;Pelotas;4697624000160;(Operador) - Chevron Brasil;100,00;Mar
+OP4_BE         ;48610206074202481;Exploração;P-M-132_OP4;Pelotas;4697624000160;(Operador) - Chevron Brasil;100,00;Mar
+OP4_BE         ;48610206075202426;Exploração;P-M-134_OP4;Pelotas;4697624000160;(Operador) - Chevron Brasil;100,00;Mar
+OP4_BE         ;48610206076202471;Exploração;P-M-190_OP4;Pelotas;4697624000160;(Operador) - Chevron Brasil;100,00;Mar
+OP4_BE         ;48610206077202415;Exploração;P-M-192_OP4;Pelotas;4697624000160;(Operador) - Chevron Brasil;100,00;Mar
+OP4_BE         ;48610206078202460;Exploração;P-M-194_OP4;Pelotas;4697624000160;(Operador) - Chevron Brasil;100,00;Mar
+OP4_BE         ;48610206079202412;Exploração;P-M-1275_OP4;Pelotas;4697624000160;(Operador) - Chevron Brasil;100,00;Mar
+OP4_BE         ;48610206080202439;Exploração;P-M-1664_OP4;Pelotas;4697624000160;(Operador) - Chevron Brasil;100,00;Mar
+OP4_BE         ;48610206081202483;Exploração;P-M-1666_OP4;Pelotas;4697624000160;(Operador) - Chevron Brasil;100,00;Mar
+OP4_BE         ;48610206082202428;Exploração;P-M-1733_OP4;Pelotas;4697624000160;(Operador) - Chevron Brasil;100,00;Mar
+OP4_BE         ;48610206083202472;Exploração;P-M-1735_OP4;Pelotas;4697624000160;(Operador) - Chevron Brasil;100,00;Mar
+OP4_BE         ;48610206084202417;Exploração;P-M-1791_OP4;Pelotas;4697624000160;(Operador) - Chevron Brasil;100,00;Mar
+OP4_BE         ;48610206085202461;Exploração;P-M-1277_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206085202461;Exploração;P-M-1277_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206086202414;Exploração;P-M-1279_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206086202414;Exploração;P-M-1279_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206087202451;Exploração;P-M-1281_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206087202451;Exploração;P-M-1281_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206088202403;Exploração;P-M-1361_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206088202403;Exploração;P-M-1361_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206089202440;Exploração;P-M-1363_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206089202440;Exploração;P-M-1363_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206090202474;Exploração;P-M-1441_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206090202474;Exploração;P-M-1441_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206091202419;Exploração;P-M-1443_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206091202419;Exploração;P-M-1443_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206092202463;Exploração;P-M-1357_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206092202463;Exploração;P-M-1357_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206093202416;Exploração;P-M-1359_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206093202416;Exploração;P-M-1359_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206094202452;Exploração;P-M-1439_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206094202452;Exploração;P-M-1439_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206095202405;Exploração;P-M-1516_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206095202405;Exploração;P-M-1516_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206096202441;Exploração;P-M-1518_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206096202441;Exploração;P-M-1518_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206097202496;Exploração;P-M-1595_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206097202496;Exploração;P-M-1595_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206098202431;Exploração;P-M-1597_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206098202431;Exploração;P-M-1597_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206099202485;Exploração;P-M-1793_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206099202485;Exploração;P-M-1793_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206100202471;Exploração;P-M-1795_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206100202471;Exploração;P-M-1795_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206101202416;Exploração;P-M-1838_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206101202416;Exploração;P-M-1838_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206102202461;Exploração;P-M-1840_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206102202461;Exploração;P-M-1840_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206103202413;Exploração;P-M-1520_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206103202413;Exploração;P-M-1520_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206104202450;Exploração;P-M-1522_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206104202450;Exploração;P-M-1522_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206105202402;Exploração;P-M-1599_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206105202402;Exploração;P-M-1599_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206106202449;Exploração;P-M-1674_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206106202449;Exploração;P-M-1674_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206107202493;Exploração;P-M-1676_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206107202493;Exploração;P-M-1676_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206108202438;Exploração;P-M-1678_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206108202438;Exploração;P-M-1678_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206109202482;Exploração;P-M-1743_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206109202482;Exploração;P-M-1743_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206110202415;Exploração;P-M-1799_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206110202415;Exploração;P-M-1799_OP4;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP4_BE         ;48610206111202451;Exploração;P-M-1739_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206111202451;Exploração;P-M-1739_OP4;Pelotas;19246634000157;CNOOC Petroleum;20,00;Mar
+OP4_BE         ;48610206111202451;Exploração;P-M-1739_OP4;Pelotas;33000167000101;(Operador) - Petrobras;50,00;Mar
+OP4_BE         ;48610206112202404;Exploração;P-M-1737_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206112202404;Exploração;P-M-1737_OP4;Pelotas;19246634000157;CNOOC Petroleum;20,00;Mar
+OP4_BE         ;48610206112202404;Exploração;P-M-1737_OP4;Pelotas;33000167000101;(Operador) - Petrobras;50,00;Mar
+OP4_BE         ;48610206113202441;Exploração;P-M-1797_OP4;Pelotas;10456016000167;Shell Brasil;30,00;Mar
+OP4_BE         ;48610206113202441;Exploração;P-M-1797_OP4;Pelotas;19246634000157;CNOOC Petroleum;20,00;Mar
+OP4_BE         ;48610206113202441;Exploração;P-M-1797_OP4;Pelotas;33000167000101;(Operador) - Petrobras;50,00;Mar
+OP4_BE         ;48610206114202495;Exploração;S-M-1813_OP4;Santos;19246634000157;(Operador) - CNOOC Petroleum;100,00;Mar
+OP4_BE         ;48610206115202430;Exploração;S-M-1356_OP4;Santos;9347916000197;(Operador) - Karoon Brasil;100,00;Mar
+OP4_BE         ;48610206116202484;Exploração;S-M-1482_OP4;Santos;9347916000197;(Operador) - Karoon Brasil;100,00;Mar
+OP4_BE         ;48610206117202429;Exploração;S-M-1378_OP4;Santos;4028583000110;(Operador) - Equinor Brasil;100,00;Mar
+OP5_BE         ;48610220657202504;Exploração;FZA-M-194_OP5;Foz do Amazonas;4697624000160;(Operador) - Chevron Brasil;65,00;Mar
+OP5_BE         ;48610220657202504;Exploração;FZA-M-194_OP5;Foz do Amazonas;62335992000165;Petrochina Investm.;35,00;Mar
+OP5_BE         ;48610220658202541;Exploração;FZA-M-196_OP5;Foz do Amazonas;4697624000160;(Operador) - Chevron Brasil;65,00;Mar
+OP5_BE         ;48610220658202541;Exploração;FZA-M-196_OP5;Foz do Amazonas;62335992000165;Petrochina Investm.;35,00;Mar
+OP5_BE         ;48610220659202595;Exploração;FZA-M-265_OP5;Foz do Amazonas;4697624000160;(Operador) - Chevron Brasil;65,00;Mar
+OP5_BE         ;48610220659202595;Exploração;FZA-M-265_OP5;Foz do Amazonas;62335992000165;Petrochina Investm.;35,00;Mar
+OP5_BE         ;48610220660202510;Exploração;FZA-M-267_OP5;Foz do Amazonas;4697624000160;(Operador) - Chevron Brasil;65,00;Mar
+OP5_BE         ;48610220660202510;Exploração;FZA-M-267_OP5;Foz do Amazonas;62335992000165;Petrochina Investm.;35,00;Mar
+OP5_BE         ;48610220661202564;Exploração;FZA-M-334_OP5;Foz do Amazonas;4697624000160;(Operador) - Chevron Brasil;65,00;Mar
+OP5_BE         ;48610220661202564;Exploração;FZA-M-334_OP5;Foz do Amazonas;62335992000165;Petrochina Investm.;35,00;Mar
+OP5_BE         ;48610220662202517;Exploração;FZA-M-336_OP5;Foz do Amazonas;4697624000160;(Operador) - Chevron Brasil;65,00;Mar
+OP5_BE         ;48610220662202517;Exploração;FZA-M-336_OP5;Foz do Amazonas;62335992000165;Petrochina Investm.;35,00;Mar
+OP5_BE         ;48610220663202553;Exploração;FZA-M-405_OP5;Foz do Amazonas;4697624000160;(Operador) - Chevron Brasil;50,00;Mar
+OP5_BE         ;48610220663202553;Exploração;FZA-M-405_OP5;Foz do Amazonas;62335992000165;Petrochina Investm.;50,00;Mar
+OP5_BE         ;48610220664202506;Exploração;FZA-M-473_OP5;Foz do Amazonas;4697624000160;(Operador) - Chevron Brasil;50,00;Mar
+OP5_BE         ;48610220664202506;Exploração;FZA-M-473_OP5;Foz do Amazonas;62335992000165;Petrochina Investm.;50,00;Mar
+OP5_BE         ;48610220665202542;Exploração;FZA-M-475_OP5;Foz do Amazonas;4697624000160;(Operador) - Chevron Brasil;50,00;Mar
+OP5_BE         ;48610220665202542;Exploração;FZA-M-475_OP5;Foz do Amazonas;62335992000165;Petrochina Investm.;50,00;Mar
+OP5_BE         ;48610220720202502;Exploração;FZA-M-477_OP5;Foz do Amazonas;4033958000130;(Operador) - ExxonMobil Brasil;50,00;Mar
+OP5_BE         ;48610220720202502;Exploração;FZA-M-477_OP5;Foz do Amazonas;33000167000101;Petrobras;50,00;Mar
+OP5_BE         ;48610220721202549;Exploração;FZA-M-547_OP5;Foz do Amazonas;4033958000130;(Operador) - ExxonMobil Brasil;50,00;Mar
+OP5_BE         ;48610220721202549;Exploração;FZA-M-547_OP5;Foz do Amazonas;33000167000101;Petrobras;50,00;Mar
+OP5_BE         ;48610220722202593;Exploração;FZA-M-549_OP5;Foz do Amazonas;4033958000130;(Operador) - ExxonMobil Brasil;50,00;Mar
+OP5_BE         ;48610220722202593;Exploração;FZA-M-549_OP5;Foz do Amazonas;33000167000101;Petrobras;50,00;Mar
+OP5_BE         ;48610220723202538;Exploração;FZA-M-619_OP5;Foz do Amazonas;4033958000130;(Operador) - ExxonMobil Brasil;50,00;Mar
+OP5_BE         ;48610220723202538;Exploração;FZA-M-619_OP5;Foz do Amazonas;33000167000101;Petrobras;50,00;Mar
+OP5_BE         ;48610220724202582;Exploração;FZA-M-621_OP5;Foz do Amazonas;4033958000130;(Operador) - ExxonMobil Brasil;50,00;Mar
+OP5_BE         ;48610220724202582;Exploração;FZA-M-621_OP5;Foz do Amazonas;33000167000101;Petrobras;50,00;Mar
+OP5_BE         ;48610220725202527;Exploração;FZA-M-188_OP5;Foz do Amazonas;4033958000130;ExxonMobil Brasil;50,00;Mar
+OP5_BE         ;48610220725202527;Exploração;FZA-M-188_OP5;Foz do Amazonas;33000167000101;(Operador) - Petrobras;50,00;Mar
+OP5_BE         ;48610220726202571;Exploração;FZA-M-190_OP5;Foz do Amazonas;4033958000130;ExxonMobil Brasil;50,00;Mar
+OP5_BE         ;48610220726202571;Exploração;FZA-M-190_OP5;Foz do Amazonas;33000167000101;(Operador) - Petrobras;50,00;Mar
+OP5_BE         ;48610220727202516;Exploração;FZA-M-403_OP5;Foz do Amazonas;4033958000130;ExxonMobil Brasil;50,00;Mar
+OP5_BE         ;48610220727202516;Exploração;FZA-M-403_OP5;Foz do Amazonas;33000167000101;(Operador) - Petrobras;50,00;Mar
+OP5_BE         ;48610220728202561;Exploração;FZA-M-1040_OP5;Foz do Amazonas;4033958000130;ExxonMobil Brasil;50,00;Mar
+OP5_BE         ;48610220728202561;Exploração;FZA-M-1040_OP5;Foz do Amazonas;33000167000101;(Operador) - Petrobras;50,00;Mar
+OP5_BE         ;48610220729202513;Exploração;FZA-M-1042_OP5;Foz do Amazonas;4033958000130;ExxonMobil Brasil;50,00;Mar
+OP5_BE         ;48610220729202513;Exploração;FZA-M-1042_OP5;Foz do Amazonas;33000167000101;(Operador) - Petrobras;50,00;Mar
+OP5_BE         ;48610220730202530;Exploração;P-M-1670_OP5;Pelotas;16974249000138;Galp Energia Brasil;30,00;Mar
+OP5_BE         ;48610220730202530;Exploração;P-M-1670_OP5;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP5_BE         ;48610220731202584;Exploração;P-M-1672_OP5;Pelotas;16974249000138;Galp Energia Brasil;30,00;Mar
+OP5_BE         ;48610220731202584;Exploração;P-M-1672_OP5;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP5_BE         ;48610220732202529;Exploração;P-M-1741-OP5;Pelotas;16974249000138;Galp Energia Brasil;30,00;Mar
+OP5_BE         ;48610220732202529;Exploração;P-M-1741-OP5;Pelotas;33000167000101;(Operador) - Petrobras;70,00;Mar
+OP5_BE         ;48610220736202515;Exploração;S-M-974_OP5;Santos;9347916000197;(Operador) - Karoon Brasil;100,00;Mar
+OP5_BE         ;48610220737202551;Exploração;S-M-1038_OP5;Santos;9347916000197;(Operador) - Karoon Brasil;100,00;Mar
+OP5_BE         ;48610220738202504;Exploração;S-M-1358_OP5;Santos;9347916000197;(Operador) - Karoon Brasil;100,00;Mar
+OP5_BE         ;48610220739202541;Exploração;S-M-1484_OP5;Santos;9347916000197;(Operador) - Karoon Brasil;100,00;Mar
+OP5_BE         ;48610220740202575;Exploração;S-M-1603_OP5;Santos;9347916000197;(Operador) - Karoon Brasil;100,00;Mar
+OP5_BE         ;48610220741202510;Exploração;S-M-1605_OP5;Santos;9347916000197;(Operador) - Karoon Brasil;100,00;Mar
+OP5_BE         ;48610220742202564;Exploração;S-M-1819_OP5;Santos;10456016000167;(Operador) - Shell Brasil;100,00;Mar
+OP5_BE         ;48610220743202517;Exploração;S-M-1821_OP5;Santos;10456016000167;(Operador) - Shell Brasil;100,00;Mar
+OP5_BE         ;48610220744202553;Exploração;S-M-1912_OP5;Santos;10456016000167;(Operador) - Shell Brasil;100,00;Mar
+OP5_BE         ;48610220745202506;Exploração;S-M-1914_OP5;Santos;10456016000167;(Operador) - Shell Brasil;100,00;Mar
+OP5_BE         ;48610220746202542;Exploração;S-M-1617_OP5;Santos;4028583000110;(Operador) - Equinor Brasil;100,00;Mar
+OP5_BE         ;48610220747202597;Exploração;PRC-T-121_OP5;Parecis - Alto Xingu;58579722000122;(Operador) - Dillianz;100,00;Terra
+PP1            ;48610011150201310;Exploração;LIBRA_P1;Santos;2461767000143;TotalEnergies EP;20,00;Mar
+PP1            ;48610011150201310;Exploração;LIBRA_P1;Santos;10456016000167;Shell Brasil;20,00;Mar
+PP1            ;48610011150201310;Exploração;LIBRA_P1;Santos;19233194000101;CNPC;10,00;Mar
+PP1            ;48610011150201310;Exploração;LIBRA_P1;Santos;19246634000157;CNOOC Petroleum;10,00;Mar
+PP1            ;48610011150201310;Exploração;LIBRA_P1;Santos;33000167000101;(Operador) - Petrobras;40,00;Mar
+PP2            ;48610012961201761;Produção;Entorno Sapinhoá_P2;Santos;2270689000108;Repsol Sinopec;25,00;Mar
+PP2            ;48610012961201761;Produção;Entorno Sapinhoá_P2;Santos;10456016000167;Shell Brasil;30,00;Mar
+PP2            ;48610012961201761;Produção;Entorno Sapinhoá_P2;Santos;33000167000101;(Operador) - Petrobras;45,00;Mar
+PP2            ;48610012964201703;Produção;Norte de Carcará_P2;Santos;3571723000139;Petrogal Brasil;20,00;Mar
+PP2            ;48610012964201703;Produção;Norte de Carcará_P2;Santos;4028583000110;(Operador) - Equinor Brasil;40,00;Mar
+PP2            ;48610012964201703;Produção;Norte de Carcará_P2;Santos;4033958000130;ExxonMobil Brasil;40,00;Mar
+PP2            ;48610012965201740;Produção;Sul Gato do Mato_P2;Santos;8537267000124;Ecopetrol Óleo e Gás;30,00;Mar
+PP2            ;48610012965201740;Produção;Sul Gato do Mato_P2;Santos;10456016000167;(Operador) - Shell Brasil;70,00;Mar
+PP3            ;48610012962201714;Exploração;Alto CF Central P3;Campos;2873528000109;BP Energy;50,00;Mar
+PP3            ;48610012962201714;Exploração;Alto CF Central P3;Campos;33000167000101;(Operador) - Petrobras;50,00;Mar
+PP4            ;48610006637201895;Exploração;Uirapuru_P4;Santos;3571723000139;Petrogal Brasil;14,00;Mar
+PP4            ;48610006637201895;Exploração;Uirapuru_P4;Santos;4028583000110;Equinor Brasil;28,00;Mar
+PP4            ;48610006637201895;Exploração;Uirapuru_P4;Santos;4033958000130;ExxonMobil Brasil;28,00;Mar
+PP4            ;48610006637201895;Exploração;Uirapuru_P4;Santos;33000167000101;(Operador) - Petrobras;30,00;Mar
+PP5            ;48610011230201880;Exploração;SO Tartaruga Vd_P5;Campos;33000167000101;(Operador) - Petrobras;100,00;Mar
+PP6            ;48610220938201919;Exploração;Aram_P6;Santos;19233194000101;CNPC;20,00;Mar
+PP6            ;48610220938201919;Exploração;Aram_P6;Santos;33000167000101;(Operador) - Petrobras;80,00;Mar
+Xisto_2022     ;48610212133202299;Produção;SMS_SIX;Paraná;40254927000172;(Operador) - Paraná Xisto;100,00;Terra

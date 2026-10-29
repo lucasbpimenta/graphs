@@ -1,0 +1,93 @@
+u,v,arremate,atual,situacao,variacao
+BP,Petrobras,8,4,mantida,-4
+BP,TotalEnergies,5,0,perdida,-5
+Brava Energia,Coplex Petróleo do Brasil Ltda.,1,0,perdida,-1
+Brava Energia,ExxonMobil,7,1,mantida,-6
+Brava Energia,Murphy,7,1,mantida,-6
+Brava Energia,Pacific Brasil,3,0,perdida,-3
+Brava Energia,Petrobras,2,5,mantida,3
+Brava Energia,Petroserv S/A,1,0,perdida,-1
+Brava Energia,Premier Oil,1,0,perdida,-1
+Brava Energia,Starfish Oil & Gás S/A,1,0,perdida,-1
+CNOOC,CNPC,2,2,mantida,0
+CNOOC,Petrobras,5,5,mantida,0
+CNOOC,Shell,4,4,mantida,0
+CNOOC,Sinopec,1,1,mantida,0
+CNOOC,TotalEnergies,1,1,mantida,0
+CNPC,Chevron,9,9,mantida,0
+CNPC,Petrobras,3,3,mantida,0
+CNPC,Shell,1,1,mantida,0
+CNPC,TotalEnergies,1,1,mantida,0
+Chevron,Petrobras,4,0,perdida,-4
+Chevron,QatarEnergy,2,2,mantida,0
+Chevron,Shell,3,2,mantida,-1
+Coplex Petróleo do Brasil Ltda.,Petrobras,1,0,perdida,-1
+Coplex Petróleo do Brasil Ltda.,Starfish Oil & Gás S/A,1,0,perdida,-1
+Devon,Encana,1,0,perdida,-1
+Devon,Occidental,2,0,perdida,-2
+Devon,Odebrecht,1,0,perdida,-1
+Devon,SK,3,0,perdida,-3
+Ecopetrol,Shell,8,13,mantida,5
+Ecopetrol,TotalEnergies,1,0,perdida,-1
+El Paso,Petrobras,1,0,perdida,-1
+Encana,Occidental,1,0,perdida,-1
+Encana,Petrobras,1,0,perdida,-1
+Encana,SK,1,0,perdida,-1
+Equinor,ExxonMobil,2,3,mantida,1
+Equinor,Galp,2,3,mantida,1
+Equinor,Petrobras,5,4,mantida,-1
+Equinor,Repsol,1,1,mantida,0
+Equinor,TotalEnergies,3,0,perdida,-3
+ExxonMobil,Galp,2,3,mantida,1
+ExxonMobil,Murphy,7,1,mantida,-6
+ExxonMobil,Occidental,1,0,perdida,-1
+ExxonMobil,Petrobras,14,12,mantida,-2
+ExxonMobil,QatarEnergy,1,1,mantida,0
+ExxonMobil,Shell,1,0,perdida,-1
+Galp,Petrobras,12,11,mantida,-1
+Galp,Shell,7,6,mantida,-1
+Hess,Occidental,1,0,perdida,-1
+Hess,Petrobras,3,0,perdida,-3
+Occidental,Petrobras,2,0,perdida,-2
+Occidental,SK,2,0,perdida,-2
+Odebrecht,SK,1,0,perdida,-1
+Pacific Brasil,Premier Oil,1,0,perdida,-1
+Petrobras,Petronas,2,4,mantida,2
+Petrobras,Petroserv S/A,1,0,perdida,-1
+Petrobras,QatarEnergy,3,3,mantida,0
+Petrobras,Repsol,5,5,mantida,0
+Petrobras,Shell,49,45,mantida,-4
+Petrobras,Starfish Oil & Gás S/A,1,0,perdida,-1
+Petrobras,TotalEnergies,13,5,mantida,-8
+Petronas,QatarEnergy,3,3,mantida,0
+Petronas,TotalEnergies,3,3,mantida,0
+QatarEnergy,Shell,2,2,mantida,0
+QatarEnergy,TotalEnergies,3,5,mantida,2
+Repsol,Shell,4,4,mantida,0
+Shell,TotalEnergies,4,4,mantida,0
+Aquamarine,BW Energy,0,1,criada,1
+BS-3 S/A,PRIO,0,1,criada,1
+BS-3 S/A,Panoro Energy,0,1,criada,1
+BS-3 S/A,Petrobras,0,1,criada,1
+Brasoil,Panoro Energy,0,1,criada,1
+Brasoil,Petrobras,0,1,criada,1
+Brava Energia,Gas Bridge,0,1,criada,1
+Brava Energia,Nova Técnica,0,1,criada,1
+Brava Energia,ONGC,0,1,criada,1
+Brava Energia,Shell,0,1,criada,1
+Brava Energia,Westlawn Energia,0,1,criada,1
+Equinor,PRIO,0,2,criada,2
+Galp,TotalEnergies,0,1,criada,1
+Gas Bridge,Petrobras,0,1,criada,1
+IBV Brasil,PRIO,0,1,criada,1
+IBV Brasil,Petrobras,0,1,criada,1
+Karoon,Petrobras,0,1,criada,1
+ONGC,Petrobras,0,1,criada,1
+ONGC,Shell,0,1,criada,1
+PRIO,Panoro Energy,0,1,criada,1
+PRIO,Petrobras,0,1,criada,1
+PRIO,Repsol,0,1,criada,1
+Panoro Energy,Petrobras,0,3,criada,3
+Petrobras,SPE Tiêta,0,1,criada,1
+Petrobras,Sinopec,0,1,criada,1
+Repsol,TotalEnergies,0,1,criada,1

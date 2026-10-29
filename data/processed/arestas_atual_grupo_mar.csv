@@ -1,0 +1,108 @@
+u,v,regime,peso
+Aquamarine,BW Energy,rodada_concessao,1
+BP,Petrobras,partilha_rodada,1
+BP,Petrobras,rodada_concessao,3
+BS-3 S/A,PRIO,rodada_zero,1
+BS-3 S/A,Panoro Energy,rodada_zero,1
+BS-3 S/A,Petrobras,rodada_zero,1
+Brasoil,Panoro Energy,outros,1
+Brasoil,Petrobras,outros,1
+Brava Energia,ExxonMobil,oferta_permanente_concessao,1
+Brava Energia,Gas Bridge,outros,1
+Brava Energia,Murphy,oferta_permanente_concessao,1
+Brava Energia,Nova Técnica,outros,1
+Brava Energia,ONGC,outros,1
+Brava Energia,Petrobras,outros,1
+Brava Energia,Petrobras,rodada_zero,4
+Brava Energia,Shell,outros,1
+Brava Energia,Westlawn Energia,outros,1
+CNOOC,CNPC,excedentes_cessao_onerosa,1
+CNOOC,CNPC,partilha_rodada,1
+CNOOC,Petrobras,excedentes_cessao_onerosa,1
+CNOOC,Petrobras,oferta_permanente_concessao,3
+CNOOC,Petrobras,partilha_rodada,1
+CNOOC,Shell,oferta_permanente_concessao,3
+CNOOC,Shell,partilha_rodada,1
+CNOOC,Sinopec,oferta_permanente_partilha,1
+CNOOC,TotalEnergies,partilha_rodada,1
+CNPC,Chevron,oferta_permanente_concessao,9
+CNPC,Petrobras,excedentes_cessao_onerosa,1
+CNPC,Petrobras,partilha_rodada,2
+CNPC,Shell,partilha_rodada,1
+CNPC,TotalEnergies,partilha_rodada,1
+Chevron,QatarEnergy,rodada_concessao,2
+Chevron,Shell,rodada_concessao,2
+Ecopetrol,Shell,oferta_permanente_concessao,6
+Ecopetrol,Shell,partilha_rodada,1
+Ecopetrol,Shell,rodada_concessao,6
+Equinor,ExxonMobil,partilha_rodada,2
+Equinor,ExxonMobil,rodada_concessao,1
+Equinor,Galp,partilha_rodada,2
+Equinor,Galp,rodada_concessao,1
+Equinor,PRIO,rodada_concessao,2
+Equinor,Petrobras,oferta_permanente_partilha,1
+Equinor,Petrobras,partilha_rodada,1
+Equinor,Petrobras,rodada_concessao,1
+Equinor,Petrobras,rodada_zero,1
+Equinor,Repsol,rodada_concessao,1
+ExxonMobil,Galp,partilha_rodada,2
+ExxonMobil,Galp,rodada_concessao,1
+ExxonMobil,Murphy,oferta_permanente_concessao,1
+ExxonMobil,Petrobras,oferta_permanente_concessao,10
+ExxonMobil,Petrobras,partilha_rodada,1
+ExxonMobil,Petrobras,rodada_concessao,1
+ExxonMobil,QatarEnergy,rodada_concessao,1
+Galp,Petrobras,oferta_permanente_concessao,3
+Galp,Petrobras,partilha_rodada,1
+Galp,Petrobras,rodada_concessao,7
+Galp,Shell,rodada_concessao,6
+Galp,TotalEnergies,rodada_concessao,1
+Gas Bridge,Petrobras,outros,1
+IBV Brasil,PRIO,rodada_concessao,1
+IBV Brasil,Petrobras,rodada_concessao,1
+Karoon,Petrobras,rodada_concessao,1
+ONGC,Petrobras,rodada_concessao,1
+ONGC,Shell,outros,1
+PRIO,Panoro Energy,rodada_zero,1
+PRIO,Petrobras,rodada_zero,1
+PRIO,Repsol,rodada_zero,1
+Panoro Energy,Petrobras,outros,1
+Panoro Energy,Petrobras,rodada_zero,2
+Petrobras,Petronas,excedentes_cessao_onerosa,1
+Petrobras,Petronas,oferta_permanente_partilha,1
+Petrobras,Petronas,rodada_concessao,1
+Petrobras,Petronas,rodada_zero,1
+Petrobras,QatarEnergy,excedentes_cessao_onerosa,1
+Petrobras,QatarEnergy,oferta_permanente_partilha,1
+Petrobras,QatarEnergy,rodada_concessao,1
+Petrobras,Repsol,partilha_rodada,1
+Petrobras,Repsol,rodada_concessao,4
+Petrobras,SPE Tiêta,rodada_zero,1
+Petrobras,Shell,excedentes_cessao_onerosa,1
+Petrobras,Shell,oferta_permanente_concessao,29
+Petrobras,Shell,oferta_permanente_partilha,1
+Petrobras,Shell,partilha_rodada,2
+Petrobras,Shell,rodada_concessao,10
+Petrobras,Shell,rodada_zero,2
+Petrobras,Sinopec,rodada_concessao,1
+Petrobras,TotalEnergies,excedentes_cessao_onerosa,2
+Petrobras,TotalEnergies,oferta_permanente_partilha,1
+Petrobras,TotalEnergies,partilha_rodada,1
+Petrobras,TotalEnergies,rodada_concessao,1
+Petronas,QatarEnergy,excedentes_cessao_onerosa,1
+Petronas,QatarEnergy,oferta_permanente_partilha,1
+Petronas,QatarEnergy,rodada_concessao,1
+Petronas,TotalEnergies,excedentes_cessao_onerosa,1
+Petronas,TotalEnergies,oferta_permanente_partilha,1
+Petronas,TotalEnergies,rodada_concessao,1
+QatarEnergy,Shell,rodada_concessao,2
+QatarEnergy,TotalEnergies,excedentes_cessao_onerosa,1
+QatarEnergy,TotalEnergies,oferta_permanente_concessao,2
+QatarEnergy,TotalEnergies,oferta_permanente_partilha,1
+QatarEnergy,TotalEnergies,rodada_concessao,1
+Repsol,Shell,partilha_rodada,1
+Repsol,Shell,rodada_concessao,3
+Repsol,TotalEnergies,rodada_concessao,1
+Shell,TotalEnergies,excedentes_cessao_onerosa,1
+Shell,TotalEnergies,partilha_rodada,1
+Shell,TotalEnergies,rodada_concessao,2

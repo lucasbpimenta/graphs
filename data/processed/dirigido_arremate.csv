@@ -1,0 +1,53 @@
+operadora,parceira,peso
+BP,Petrobras,1
+Brava Energia,Pacific Brasil,3
+Brava Energia,Premier Oil,1
+CNOOC,Sinopec,1
+Chevron,CNPC,9
+Chevron,Petrobras,1
+Devon,Encana,1
+Devon,Occidental,2
+Devon,Odebrecht,1
+Devon,SK,3
+Equinor,ExxonMobil,1
+Equinor,Galp,1
+Equinor,Petrobras,2
+Equinor,TotalEnergies,2
+ExxonMobil,Brava Energia,7
+ExxonMobil,Murphy,7
+ExxonMobil,Petrobras,6
+ExxonMobil,QatarEnergy,1
+Hess,Occidental,1
+Hess,Petrobras,1
+Petrobras,BP,2
+Petrobras,Brava Energia,2
+Petrobras,CNOOC,5
+Petrobras,CNPC,3
+Petrobras,Chevron,2
+Petrobras,Coplex Petróleo do Brasil Ltda.,1
+Petrobras,Encana,1
+Petrobras,Equinor,3
+Petrobras,ExxonMobil,7
+Petrobras,Galp,8
+Petrobras,Hess,2
+Petrobras,Occidental,1
+Petrobras,Petronas,2
+Petrobras,Petroserv S/A,1
+Petrobras,QatarEnergy,2
+Petrobras,Repsol,5
+Petrobras,Shell,42
+Petrobras,Starfish Oil & Gás S/A,1
+Petrobras,TotalEnergies,5
+Repsol,Equinor,1
+Shell,Chevron,3
+Shell,Ecopetrol,8
+Shell,ExxonMobil,1
+Shell,Galp,4
+Shell,Petrobras,6
+Shell,QatarEnergy,2
+Shell,TotalEnergies,1
+TotalEnergies,BP,5
+TotalEnergies,Petrobras,6
+TotalEnergies,Petronas,1
+TotalEnergies,QatarEnergy,1
+TotalEnergies,Shell,1

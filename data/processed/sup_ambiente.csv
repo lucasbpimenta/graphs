@@ -1,0 +1,4 @@
+rede,contratos,consorcios,grupos_na_carteira,vertices,arestas,peso_total,densidade,componentes,maior_componente,clustering,eficiencia,k_max,nucleo_k_max,conectividade_algebrica,raio_espectral,raio_espectral_ponderado,maiores_intermediacoes
+mar,289,128,33,30,63,212,0.14482758620689656,2,28,0.5009523809523809,0.478160919540229,4,10,0.8376055095931456,7.051192948867817,54.92717163142675,Petrobras (0.555); Brava Energia (0.163); Shell (0.130); ExxonMobil (0.038); QatarEnergy (0.022)
+terra,594,46,70,27,21,48,0.05982905982905983,7,10,0.07777777777777778,0.11315289648622981,2,3,0.3186045853690436,2.545008897645067,11.441483714261722,SHB (0.089); Brava Energia (0.043); PetroRecôncavo (0.043); Imetame (0.040); Petrobras (0.025)
+total,883,174,98,54,83,260,0.058001397624039136,8,35,0.31904471445534244,0.21116934544607538,4,10,0.23055928309768692,7.135650121325051,55.857517090310736,Petrobras (0.256); Brava Energia (0.115); SHB (0.089); Shell (0.051); PetroRecôncavo (0.046)

@@ -1,0 +1,744 @@
+nome_bruto,empresa,regra,revisar,fontes,ocorrencias,grupo_atual
+3R Bahia,3R Petroleum,^3r\b,False,relacao,19,Brava Energia
+3R Bahia S.A.,3R Petroleum,^3r\b,False,cessoes,2,Brava Energia
+3R Candeias S.A.,3R Petroleum,^3r\b,False,cessoes,19,Brava Energia
+3R Fazenda Belém S.A.,3R Petroleum,^3r\b,False,cessoes,4,Brava Energia
+3R Macau,3R Petroleum,^3r\b,False,relacao,2,Brava Energia
+3R Macau S.A.,3R Petroleum,^3r\b,False,cessoes,9,Brava Energia
+3R Pescada,3R Petroleum,^3r\b,False,relacao,4,Brava Energia
+3R Petroleum,3R Petroleum,^3r\b,False,relacao,5,Brava Energia
+3R Petroleum Offshore S.A.,3R Petroleum,^3r\b,False,cessoes,4,Brava Energia
+3R Potiguar,3R Petroleum,^3r\b,False,relacao,39,Brava Energia
+3R Potiguar S.A.,3R Petroleum,^3r\b,False,cessoes,44,Brava Energia
+3R RNCE,3R Petroleum,^3r\b,False,relacao,1,Brava Energia
+3R RNCE S.A.,3R Petroleum,^3r\b,False,cessoes,23,Brava Energia
+3R Rio Ventura,3R Petroleum,^3r\b,False,relacao,3,Brava Energia
+3R Rio Ventura S.A.,3R Petroleum,^3r\b,False,cessoes,5,Brava Energia
+SPE 3R Petroleum S.A.,3R Petroleum,^3r\b,False,cessoes,7,Brava Energia
+SPE Rio Ventura S.A.,3R Petroleum,rio ventura,True,cessoes,8,Brava Energia
+ATEM Participações,ATEM Participações,auto,False,relacao,4,ATEM Participações
+Abaris RJ Participações S/A,Abaris RJ Participações S/A,auto,False,cessoes,3,Abaris RJ Participações S/A
+Agemo,Agemo,auto,False,ofertas,1,Agemo
+Aguila,Aguila,auto,False,relacao,1,Aguila
+Aguila Energia e Participações Ltda.,Aguila Energia e Participações Ltda.,auto,False,cessoes,1,Aguila Energia e Participações Ltda.
+Allpetro,Allpetro,auto,False,relacao,1,Allpetro
+Alvopetro,Alvopetro,alvopetro,False,"ofertas,relacao",16,Alvopetro
+Alvopetro S.A Extração de Petróleo e Gás Natural,Alvopetro,alvopetro,False,cessoes,9,Alvopetro
+Alvopetro S.A.,Alvopetro,alvopetro,False,cessoes,4,Alvopetro
+Alvopetro S.A. Extração de Petróleo e Gás Natural,Alvopetro,alvopetro,False,cessoes,14,Alvopetro
+Alvorada,Alvorada,auto,False,ofertas,2,Alvorada
+Alvorada Petróleo S.A.,Alvorada Petróleo S.A.,auto,False,cessoes,33,Alvorada Petróleo S.A.
+Anadarko E&P de Petróleo e Gás Natural Ltda.,Anadarko,anadarko,False,cessoes,11,Occidental
+Anadarko Exploração e Produção de Petróleo e Gás Natural Ltda.,Anadarko,anadarko,False,cessoes,13,Occidental
+Anadarko Petróleo Ltda.,Anadarko,anadarko,False,cessoes,7,Occidental
+Andorinha Petróleo,Andorinha Petróleo,auto,False,relacao,1,Andorinha Petróleo
+Aquamarine,Aquamarine,auto,False,relacao,1,Aquamarine
+Aquamarine Exploração Ltda.,Aquamarine Exploração Ltda.,auto,False,cessoes,2,Aquamarine Exploração Ltda.
+Arcadis Logos S.A.,Arcadis Logos S.A.,auto,False,cessoes,1,Arcadis Logos S.A.
+Arclima,Arclima,auto,False,relacao,1,Arclima
+Aurizonia,Aurizônia,aurizonia,True,ofertas,19,Aurizônia
+Aurizônia Empreendimentos S.A.,Aurizônia,aurizonia,True,cessoes,3,Aurizônia
+Aurizônia Petróleo,Aurizônia,aurizonia,True,ofertas,11,Aurizônia
+Aurizônia Petróleo Ltda.,Aurizônia,aurizonia,True,cessoes,3,Aurizônia
+Aurizônia Petróleo S.A.,Aurizônia,aurizonia,True,cessoes,16,Aurizônia
+Aurizônia Petróleo S/A,Aurizônia,aurizonia,True,cessoes,17,Aurizônia
+Azevedo e Travassos Petróleo S.A.,Azevedo e Travassos Petróleo S.A.,auto,False,cessoes,9,Azevedo e Travassos Petróleo S.A.
+Azibras Expl. De P&G Ltda,Azibras Expl. De P&G Ltda,auto,False,cessoes,2,Azibras Expl. De P&G Ltda
+Azibras Exploração de Petróleo e Gás Ltda.,Azibras Exploração de Petróleo e Gás Ltda.,auto,False,cessoes,4,Azibras Exploração de Petróleo e Gás Ltda.
+BC-10 Petróleo Ltda.,BC-10 Petróleo Ltda.,auto,False,cessoes,1,BC-10 Petróleo Ltda.
+BG,BG,^bg\b|british gas,False,ofertas,3,Shell
+BG E&P Brasil Ltda.,BG,^bg\b|british gas,False,cessoes,40,Shell
+BG E&P do Brasil,BG,^bg\b|british gas,False,cessoes,2,Shell
+BG E&P do Brasil Ltda.,BG,^bg\b|british gas,False,cessoes,2,Shell
+BG Energy,BG,^bg\b|british gas,False,ofertas,19,Shell
+BGM,BGM,^bgm\b,False,relacao,4,BGM
+BGM Petróleo e Gás Ltda.,BGM,^bgm\b,False,cessoes,3,BGM
+BGM Petróleo e Gás S.A.,BGM,^bgm\b,False,cessoes,2,BGM
+BGM Petróleo e Gás S/A,BGM,^bgm\b,False,cessoes,2,BGM
+BHP Billiton,BHP,bhp,False,ofertas,2,BHP
+BHP Billiton Limited,BHP,bhp,False,ofertas,1,BHP
+BP,BP,^bp\b|bp energy|bp brasil,False,ofertas,1,BP
+BP Brasil Ltda.,BP,^bp\b|bp energy|bp brasil,False,cessoes,5,BP
+BP EOC,BP,^bp\b|bp energy|bp brasil,False,ofertas,8,BP
+BP Energy,BP,^bp\b|bp energy|bp brasil,False,"ofertas,relacao",12,BP
+BP Energy do Brasil Ltda,BP,^bp\b|bp energy|bp brasil,False,cessoes,4,BP
+BP Energy do Brasil Ltda.,BP,^bp\b|bp energy|bp brasil,False,cessoes,79,BP
+BPMB Parnaíba,BPMB Parnaíba S.A.,auto,False,ofertas,3,BPMB Parnaíba S.A.
+BPMB Parnaíba S.A.,BPMB Parnaíba S.A.,auto,False,cessoes,8,BPMB Parnaíba S.A.
+BS-3,BS-3 S/A,auto,False,relacao,1,BS-3 S/A
+BS-3 S/A,BS-3 S/A,auto,False,cessoes,9,BS-3 S/A
+BW Energy Maromba do Brasil Ltda.,BW Energy,^bw\b,False,cessoes,6,BW Energy
+BW Energy Peixe Ltda.,BW Energy,^bw\b,False,cessoes,1,BW Energy
+BW Maromba,BW Energy,^bw\b,False,relacao,3,BW Energy
+BW Offshore Production do Brasil Ltda.,BW Energy,^bw\b,False,cessoes,1,BW Energy
+BW Peixe,BW Energy,^bw\b,False,relacao,1,BW Energy
+Barra Bonita,Barra Bonita,auto,False,relacao,1,Barra Bonita
+Barra Energia do Brasil Ltda.,Barra Energia,barra energia,False,cessoes,4,Barra Energia
+Barra Energia do Brasil Petróleo e Gás Ltda.,Barra Energia,barra energia,False,cessoes,12,Barra Energia
+Bayar,Bayar,auto,False,ofertas,7,Bayar
+Bertek Ltda,Bertek,bertek,False,ofertas,2,Bertek
+"Bertek Produtos, Serviços e Mineração Ltda.",Bertek,bertek,False,cessoes,2,Bertek
+Brasil Ltda.,Brasil Ltda.,auto,False,cessoes,1,Brasil Ltda.
+Brasil Refinarias,Brasil Refinarias,auto,False,relacao,5,Brasil Refinarias
+Brasil Refinarias Ltda.,Brasil Refinarias,auto,False,cessoes,3,Brasil Refinarias
+Brasoil,Brasoil,brasoil,True,ofertas,4,Brasoil
+Brasoil Cav. Marinho,Brasoil,brasoil,True,relacao,1,Brasoil
+Brasoil Cavalo Marinho Exploração Petrolífera Ltda.,Brasoil,brasoil,True,cessoes,1,Brasoil
+Brasoil Coral Exploração Petrolífera Ltda.,Brasoil,brasoil,True,cessoes,3,Brasoil
+Brasoil Manati,Brasoil,brasoil,True,ofertas,4,Brasoil
+Brasoil Manati Exploração Petrolífera Ltda.,Brasoil,brasoil,True,cessoes,4,Brasoil
+Brasoil Manati Exploração Petrolífera S.A.,Brasoil,brasoil,True,cessoes,3,Brasoil
+Brasoil R 9 Expl. Petrolíf. Ltda.,Brasoil,brasoil,True,cessoes,4,Brasoil
+Brasoil Round 9 Exploração Petrolífera Ltda.,Brasoil,brasoil,True,cessoes,12,Brasoil
+Brasoil do Brasil Exploração Petrolífera S/A,Brasoil,brasoil,True,cessoes,4,Brasoil
+Brava Energia S.A.,Brava Energia,brava energia,False,"cessoes,relacao",32,Brava Energia
+Brazalta Brasil Norte Comercialização de Petróleo Ltda.,Brazalta,brazalta,False,cessoes,52,Brazalta
+Brazalta Ltda.,Brazalta,brazalta,False,cessoes,3,Brazalta
+British Borneo,British-Borneo,british[- ]borneo,False,ofertas,1,Eni
+British-Borneo do Brasil Ltda.,British-Borneo,british[- ]borneo,False,cessoes,4,Eni
+CEMIG,CEMIG,cemig|companhia energetica de minas,False,"cessoes,ofertas,relacao",12,Governo de Minas Gerais
+Companhia Energética de Minas Gerais - CEMIG,CEMIG,cemig|companhia energetica de minas,False,cessoes,3,Governo de Minas Gerais
+CNOOC Petroleum,CNOOC,cnooc,False,"ofertas,relacao",9,CNOOC
+CNOOC Petroleum Brasil Ltda.,CNOOC,cnooc,False,cessoes,4,CNOOC
+CNODC Brasil Petróleo e Gás Ltda.,CNPC,cnodc|cnpc|petrochina,False,cessoes,4,CNPC
+CNPC,CNPC,cnodc|cnpc|petrochina,False,relacao,3,CNPC
+Petrochina Investm.,CNPC,cnodc|cnpc|petrochina,False,relacao,9,CNPC
+COMP Exploração e Produção de Petróleo e Gás S/A,COMP Exploração e Produção de Petróleo e Gás S/A,auto,False,cessoes,1,COMP Exploração e Produção de Petróleo e Gás S/A
+COPEL,COPEL,auto,False,ofertas,4,COPEL
+Campo Petróleo,Campo Petróleo,auto,False,relacao,3,Campo Petróleo
+Campo Petróleo e Gás Ltda.,Campo Petróleo e Gás Ltda.,auto,False,cessoes,3,Campo Petróleo e Gás Ltda.
+Canacol,Canacol,canacol,False,ofertas,21,Canacol
+Capixaba Energia,Capixaba Energia,auto,False,relacao,5,Capixaba Energia
+Carmo,Carmo Energy,^carmo\b,False,relacao,11,Carmo Energy
+Carmo Energy S.A.,Carmo Energy,^carmo\b,False,cessoes,11,Carmo Energy
+Cemes,Cemes,auto,False,relacao,1,Cemes
+Cemes Petróleo S.A.,Cemes Petróleo S.A.,auto,False,cessoes,3,Cemes Petróleo S.A.
+Central Resources,Central Resources,auto,False,ofertas,7,Central Resources
+Central Resources do Brasil Produção de Petróleo Ltda.,Central Resources do Brasil Produção de Petróleo Ltda.,auto,False,cessoes,4,Central Resources do Brasil Produção de Petróleo Ltda.
+Centro Oeste,Centro Oeste,auto,False,relacao,1,Centro Oeste
+Centro Oeste Óleo e Gás Ltda.,Centro Oeste Óleo e Gás Ltda.,auto,False,cessoes,3,Centro Oeste Óleo e Gás Ltda.
+CEPSA,Cepsa,cepsa,False,ofertas,2,Cepsa
+Chariot,Chariot,auto,False,ofertas,4,Chariot
+Cheim Transportes,Cheim Transportes,auto,False,cessoes,1,Cheim Transportes
+Chevron,Chevron,chevron|texaco,False,ofertas,2,Chevron
+Chevron Brasil,Chevron,chevron|texaco,False,relacao,26,Chevron
+Chevron Brasil Atlanta e Oliva Exploração e Produção Ltda.,Chevron,chevron|texaco,False,cessoes,4,Chevron
+Chevron Brasil Ltda.,Chevron,chevron|texaco,False,cessoes,5,Chevron
+Chevron Brasil Petróleo Ltda.,Chevron,chevron|texaco,False,cessoes,7,Chevron
+Chevron Brasil Upstream Frade Ltda.,Chevron,chevron|texaco,False,cessoes,5,Chevron
+Chevron Brasil Óleo,Chevron,chevron|texaco,False,ofertas,5,Chevron
+Chevron Brasil Óleo e Gás Ltda,Chevron,chevron|texaco,False,cessoes,2,Chevron
+Chevron Brasil Óleo e Gás Ltda.,Chevron,chevron|texaco,False,cessoes,18,Chevron
+Chevron Brasileira de Petróleo Ltda.,Chevron,chevron|texaco,False,cessoes,3,Chevron
+Chevron Brazil,Chevron,chevron|texaco,False,ofertas,5,Chevron
+Chevron Overseas Petroleum Brasil Ltda.,Chevron,chevron|texaco,False,cessoes,7,Chevron
+ChevronTexaco E&P do Brasil Ltda.,Chevron,chevron|texaco,False,cessoes,1,Chevron
+Texaco,Chevron,chevron|texaco,False,ofertas,3,Chevron
+Texaco Brasil BM-C-4 Ltda.,Chevron,chevron|texaco,False,cessoes,2,Chevron
+Texaco Brasil BM-C-5 Ltda.,Chevron,chevron|texaco,False,cessoes,3,Chevron
+Texaco Brasil S/A,Chevron,chevron|texaco,False,cessoes,2,Chevron
+Texaco do Brasil S.A.,Chevron,chevron|texaco,False,cessoes,1,Chevron
+Coastal,Coastal,coastal,False,"cessoes,ofertas",4,El Paso
+Coastal BM-CAL-4,Coastal,coastal,False,cessoes,1,El Paso
+Coastal BM-PAMA-1,Coastal,coastal,False,cessoes,1,El Paso
+Coastal BT-PR-4,Coastal,coastal,False,cessoes,1,El Paso
+CODEMIG,Codemig,codemig|desenvolvimento (economico )?de minas,False,cessoes,4,Governo de Minas Gerais
+CODEMIG - Companhia de Desenvolvimento Econômico de Minas Gerais S/A,Codemig,codemig|desenvolvimento (economico )?de minas,False,cessoes,2,Governo de Minas Gerais
+Codemig,Codemig,codemig|desenvolvimento (economico )?de minas,False,"ofertas,relacao",10,Governo de Minas Gerais
+Companhia de Desenvolvimento Econômico de Minas Gerais S/A,Codemig,codemig|desenvolvimento (economico )?de minas,False,cessoes,2,Governo de Minas Gerais
+Companhia de Desenvolvimento de Minas Gerais - CODEMIG,Codemig,codemig|desenvolvimento (economico )?de minas,False,cessoes,3,Governo de Minas Gerais
+Companhia Brasileira de Petróleo Ipiranga,Companhia Brasileira de Petróleo Ipiranga,auto,False,cessoes,4,Companhia Brasileira de Petróleo Ipiranga
+Phillips,ConocoPhillips,phillips,False,ofertas,2,ConocoPhillips
+Phillips Petroleum do Brasil Ltda.,ConocoPhillips,phillips,False,cessoes,6,ConocoPhillips
+Construtora Pioneira,Construtora Pioneira S/A,auto,False,ofertas,11,Construtora Pioneira S/A
+Construtora Pioneira S/A,Construtora Pioneira S/A,auto,False,cessoes,12,Construtora Pioneira S/A
+Coplex Petróleo do Brasil Ltda.,Coplex Petróleo do Brasil Ltda.,auto,False,cessoes,18,Coplex Petróleo do Brasil Ltda.
+Coplex do Brasil Ltda.,Coplex do Brasil Ltda.,auto,False,cessoes,1,Coplex do Brasil Ltda.
+Construtora Cowan,Cowan,cowan,True,ofertas,2,Cowan
+Cowan Petróleo e Gás,Cowan,cowan,True,ofertas,16,Cowan
+Cowan Petróleo e Gás S.A.,Cowan,cowan,True,cessoes,13,Cowan
+Cowan Petróleo e Gás S/A,Cowan,cowan,True,cessoes,4,Cowan
+Creative Energy,Creative Energy,auto,False,relacao,3,Creative Energy
+Creative Energy Serviços e Exploração Ltda.,Creative Energy Serviços e Exploração Ltda.,auto,False,cessoes,1,Creative Energy Serviços e Exploração Ltda.
+DELP Engenharia Mecânica Ltda.,Delp,^delp\b,False,cessoes,2,Delp
+Delp,Delp,^delp\b,False,ofertas,4,Delp
+Delp Eng. Mecânica Ltda.,Delp,^delp\b,False,cessoes,3,Delp
+Delp Engenharia Mecânica Ltda.,Delp,^delp\b,False,cessoes,4,Delp
+Devon,Devon,devon,False,ofertas,6,Devon
+Devon Energy Corporation,Devon,devon,False,ofertas,1,Devon
+Devon Energy do Brasil Ltda,Devon,devon,False,cessoes,2,Devon
+Devon Energy do Brasil Ltda.,Devon,devon,False,cessoes,25,Devon
+Dillianz,Dillianz,auto,False,relacao,1,Dillianz
+Dover Investments Limited,Dover Investments Limited,auto,False,ofertas,1,Dover Investments Limited
+Duna Energia S.A.,Duna Energia S.A.,auto,False,cessoes,4,Duna Energia S.A.
+EMPA,EMPA,auto,False,ofertas,3,EMPA
+EMPA S/A Serviços de Engenharia,EMPA S/A Serviços de Engenharia,auto,False,cessoes,1,EMPA S/A Serviços de Engenharia
+ENGEPET - Empresa de Engenharia de Petróleo Ltda.,ENGEPET - Empresa de Engenharia de Petróleo Ltda.,auto,False,cessoes,1,ENGEPET - Empresa de Engenharia de Petróleo Ltda.
+ENP Ecossistemas Energéticos Holding S.A.,ENP Ecossistemas Energéticos Holding S.A.,auto,False,cessoes,10,ENP Ecossistemas Energéticos Holding S.A.
+EPG Brasil,EPG Brasil Ltda.,auto,False,relacao,2,EPG Brasil Ltda.
+EPG Brasil Ltda.,EPG Brasil Ltda.,auto,False,cessoes,6,EPG Brasil Ltda.
+ERG Petróleo e Gás Ltda.,ERG Petróleo e Gás Ltda.,auto,False,cessoes,1,ERG Petróleo e Gás Ltda.
+Eagle Exploração de Óleo e Gás Ltda.,Eagle Exploração de Óleo e Gás Ltda.,auto,False,cessoes,4,Eagle Exploração de Óleo e Gás Ltda.
+Eaglestar,Eaglestar,auto,False,ofertas,3,Eaglestar
+Eaglestar Petróleo do Brasil Ltda.,Eaglestar Petróleo do Brasil Ltda.,auto,False,cessoes,1,Eaglestar Petróleo do Brasil Ltda.
+Ecopetrol,Ecopetrol,ecopetrol,False,ofertas,9,Ecopetrol
+Ecopetrol O&G Brasil Ltda,Ecopetrol,ecopetrol,False,cessoes,2,Ecopetrol
+Ecopetrol O&G Brasil Ltda.,Ecopetrol,ecopetrol,False,cessoes,2,Ecopetrol
+Ecopetrol Óleo e Gás,Ecopetrol,ecopetrol,False,"ofertas,relacao",14,Ecopetrol
+Ecopetrol Óleo e Gás Brasil Ltda.,Ecopetrol,ecopetrol,False,cessoes,4,Ecopetrol
+Ecopetrol Óleo e Gás do Brasil Ltda,Ecopetrol,ecopetrol,False,cessoes,3,Ecopetrol
+Ecopetrol Óleo e Gás do Brasil Ltda.,Ecopetrol,ecopetrol,False,cessoes,14,Ecopetrol
+Egesa,Egesa,auto,False,relacao,1,Egesa
+ELPaso BM-ES-5 Ltda.,El Paso,el ?pass?o,False,cessoes,1,El Paso
+El Paso,El Paso,el ?pass?o,False,ofertas,7,El Paso
+El Paso BM-CAL-5,El Paso,el ?pass?o,False,cessoes,1,El Paso
+El Paso BM-CAL-6,El Paso,el ?pass?o,False,cessoes,1,El Paso
+El Paso BM-ES-6,El Paso,el ?pass?o,False,cessoes,1,El Paso
+El Paso BM-POT-11,El Paso,el ?pass?o,False,cessoes,1,El Paso
+El Paso BM-POT-13,El Paso,el ?pass?o,False,cessoes,1,El Paso
+El Paso BM-S-13,El Paso,el ?pass?o,False,cessoes,1,El Paso
+El Paso BPAR-10,El Paso,el ?pass?o,False,cessoes,1,El Paso
+El Paso CGP Company,El Paso,el ?pass?o,False,ofertas,2,El Paso
+El Paso Petróleo do Brasil Ltda.,El Paso,el ?pass?o,False,cessoes,2,El Paso
+El Paso Óleo e Gás do Brasil Ltda,El Paso,el ?pass?o,False,cessoes,2,El Paso
+El Paso Óleo e Gás do Brasil Ltda.,El Paso,el ?pass?o,False,cessoes,35,El Paso
+El Passo Óleo e Gás do Brasil Ltda.,El Paso,el ?pass?o,False,cessoes,1,El Paso
+Elysian Petroleum,Elysian Petroleum,elysian,False,relacao,122,Elysian Petroleum
+Enauta,Enauta,enauta|queiroz galvao|\bqgep\b,False,relacao,1,Brava Energia
+Enauta Energia S.A.,Enauta,enauta|queiroz galvao|\bqgep\b,False,cessoes,46,Brava Energia
+Enauta Petróleo e Gás Ltda.,Enauta,enauta|queiroz galvao|\bqgep\b,False,cessoes,1,Brava Energia
+Queiroz Galvão,Enauta,enauta|queiroz galvao|\bqgep\b,False,ofertas,23,Brava Energia
+Queiroz Galvão E&P S.A.,Enauta,enauta|queiroz galvao|\bqgep\b,False,cessoes,2,Brava Energia
+Queiroz Galvão Exploração e Produção S.A.,Enauta,enauta|queiroz galvao|\bqgep\b,False,cessoes,26,Brava Energia
+Queiroz Galvão Exploração e Produção S/A,Enauta,enauta|queiroz galvao|\bqgep\b,False,cessoes,1,Brava Energia
+Queiroz Galvão Perfurações S.A.,Enauta,enauta|queiroz galvao|\bqgep\b,False,"cessoes,ofertas",8,Brava Energia
+Queiroz Galvão Perfurações S/A,Enauta,enauta|queiroz galvao|\bqgep\b,False,cessoes,10,Brava Energia
+Queiroz Galvão S.A.,Enauta,enauta|queiroz galvao|\bqgep\b,False,cessoes,2,Brava Energia
+Queiroz Galvão Óleo a Gás S.A,Enauta,enauta|queiroz galvao|\bqgep\b,False,cessoes,1,Brava Energia
+Queiroz Galvão Óleo e Gás Ltda.,Enauta,enauta|queiroz galvao|\bqgep\b,False,cessoes,5,Brava Energia
+Queiroz Galvão Óleo e Gás S.A.,Enauta,enauta|queiroz galvao|\bqgep\b,False,cessoes,3,Brava Energia
+Queiroz Galvão Óleo e Gás S/A,Enauta,enauta|queiroz galvao|\bqgep\b,False,cessoes,9,Brava Energia
+EnCanBrasil Ltda.,Encana,encana|encanbrasil|enca brasil|pan ?canadian,False,cessoes,13,Encana
+EnCana,Encana,encana|encanbrasil|enca brasil|pan ?canadian,False,ofertas,10,Encana
+EnCana Brasil Petróleo Ltda.,Encana,encana|encanbrasil|enca brasil|pan ?canadian,False,cessoes,8,Encana
+Enca Brasil Ltda.,Encana,encana|encanbrasil|enca brasil|pan ?canadian,False,cessoes,1,Encana
+Encana Petroleo Ltda,Encana,encana|encanbrasil|enca brasil|pan ?canadian,False,cessoes,1,Encana
+IBV Brasil Ltda (Encana),Encana,encana|encanbrasil|enca brasil|pan ?canadian,False,cessoes,1,Encana
+Pan Canadian,Encana,encana|encanbrasil|enca brasil|pan ?canadian,False,ofertas,1,Encana
+Pan Canadian Brasil,Encana,encana|encanbrasil|enca brasil|pan ?canadian,False,cessoes,2,Encana
+PanCanadian,Encana,encana|encanbrasil|enca brasil|pan ?canadian,False,ofertas,2,Encana
+Energizzi Energias,Energizzi Energias,auto,False,relacao,2,Energizzi Energias
+Energizzi Energias do Brasil Ltda.,Energizzi Energias do Brasil Ltda.,auto,False,cessoes,1,Energizzi Energias do Brasil Ltda.
+Energy Paraná Ltda.,Energy Paranã,auto,False,cessoes,2,Energy Paranã
+Energy Paranã,Energy Paranã,auto,False,relacao,11,Energy Paranã
+Energy Paranã Ltda.,Energy Paranã,auto,False,cessoes,3,Energy Paranã
+ENEVA S.A.,Eneva,eneva,False,cessoes,19,Eneva
+Eneva,Eneva,eneva,False,relacao,21,Eneva
+Eneva S.A.,Eneva,eneva,False,cessoes,8,Eneva
+OGX Maranhão Ltda.,Eneva,ogx maranhao|parnaiba gas natural,True,cessoes,14,Eneva
+OGX Maranhão Petróleo e Gás Ltda.,Eneva,ogx maranhao|parnaiba gas natural,True,cessoes,8,Eneva
+Parnaíba Gás Natural,Eneva,ogx maranhao|parnaiba gas natural,True,ofertas,11,Eneva
+Parnaíba Gás Natural S.A.,Eneva,ogx maranhao|parnaiba gas natural,True,cessoes,41,Eneva
+Engepet,Engepet,auto,False,ofertas,3,Engepet
+GDF Suez,Engie,gdf suez|engie,False,ofertas,6,Engie
+GDF Suez Br. E&P Ltda.,Engie,gdf suez|engie,False,cessoes,2,Engie
+GDF Suez Brasil,Engie,gdf suez|engie,False,ofertas,6,Engie
+GDF Suez E&P Brasil Participações Ltda.,Engie,gdf suez|engie,False,cessoes,3,Engie
+Agip,Eni,agip|\beni\b,False,ofertas,4,Eni
+Agip Oil do Brasil S.A.,Eni,agip|\beni\b,False,cessoes,1,Eni
+Agip Oil do Brasil S/A,Eni,agip|\beni\b,False,cessoes,1,Eni
+Eni,Eni,agip|\beni\b,False,ofertas,1,Eni
+Eni Oil do Brasil S/A,Eni,agip|\beni\b,False,cessoes,2,Eni
+Enterprise,Enterprise Oil,enterprise,False,ofertas,4,Shell
+Enterprise Oil do Brasil Ltda.,Enterprise Oil,enterprise,False,cessoes,5,Shell
+Grupo Enterprise,Enterprise Oil,enterprise,False,cessoes,2,Shell
+Equinor Brasil,Equinor,statoil|equinor,False,relacao,9,Equinor
+Equinor Brasil Energia Ltda,Equinor,statoil|equinor,False,cessoes,1,Equinor
+Equinor Brasil Energia Ltda.,Equinor,statoil|equinor,False,cessoes,23,Equinor
+Equinor Energy,Equinor,statoil|equinor,False,relacao,2,Equinor
+Statoil,Equinor,statoil|equinor,False,ofertas,2,Equinor
+Statoil ASA,Equinor,statoil|equinor,False,ofertas,5,Equinor
+Statoil Brasil O&G,Equinor,statoil|equinor,False,ofertas,10,Equinor
+Statoil Brasil O&G Ltda.,Equinor,statoil|equinor,False,cessoes,1,Equinor
+Statoil Brasil Óleo e Gás Ltda.,Equinor,statoil|equinor,False,cessoes,28,Equinor
+Statoil Petróleo Brasil Ltda.,Equinor,statoil|equinor,False,cessoes,4,Equinor
+Statoil do Brasil Ltda,Equinor,statoil|equinor,False,cessoes,2,Equinor
+Statoil do Brasil Ltda.,Equinor,statoil|equinor,False,cessoes,15,Equinor
+Statoil do Brasil S.A.,Equinor,statoil|equinor,False,cessoes,2,Equinor
+StatoilHydro,Equinor,statoil|equinor,False,ofertas,6,Equinor
+Espigão,Espigão,auto,False,relacao,1,Espigão
+Esso,ExxonMobil,\besso\b|exxon,False,ofertas,3,ExxonMobil
+Esso Brasileira de Petróleo Ltda.,ExxonMobil,\besso\b|exxon,False,cessoes,5,ExxonMobil
+Esso Exploração Amazonas Sul Ltda.,ExxonMobil,\besso\b|exxon,False,cessoes,4,ExxonMobil
+Esso Exploração Campos Ltda. (ONGC Campos Ltda),ExxonMobil,\besso\b|exxon,False,cessoes,1,ExxonMobil
+Esso Exploração Espírito Santo Ltda.,ExxonMobil,\besso\b|exxon,False,cessoes,5,ExxonMobil
+Esso Exploração Ltda.,ExxonMobil,\besso\b|exxon,False,cessoes,1,ExxonMobil
+Esso Exploração Offshore Ltda.,ExxonMobil,\besso\b|exxon,False,cessoes,1,ExxonMobil
+Esso Exploração Santos Brasileira Ltda.,ExxonMobil,\besso\b|exxon,False,cessoes,3,ExxonMobil
+Esso Exploração Santos Ltda.,ExxonMobil,\besso\b|exxon,False,cessoes,2,ExxonMobil
+Esso Exploração Sudeste Ltda.,ExxonMobil,\besso\b|exxon,False,cessoes,2,ExxonMobil
+ExxonMobil,ExxonMobil,\besso\b|exxon,False,ofertas,2,ExxonMobil
+ExxonMobil Brasil,ExxonMobil,\besso\b|exxon,False,"ofertas,relacao",34,ExxonMobil
+ExxonMobil Expl. Brasil Ltda.,ExxonMobil,\besso\b|exxon,False,cessoes,5,ExxonMobil
+ExxonMobil Exploração Brasil Ltda.,ExxonMobil,\besso\b|exxon,False,cessoes,25,ExxonMobil
+Exxonmobil Exploração Brasil Ltda.,ExxonMobil,\besso\b|exxon,False,cessoes,4,ExxonMobil
+Frade Japão Petróleo Ltda.,Frade Japão Petróleo Ltda.,auto,False,cessoes,6,Frade Japão Petróleo Ltda.
+G3 Óleo e Gás,G3 Óleo e Gás,auto,False,ofertas,6,G3 Óleo e Gás
+G3 Óleo e Gás S.A.,G3 Óleo e Gás,auto,False,cessoes,6,G3 Óleo e Gás
+GBS Estocagem de Gás Natural S.A.,GBS Estocagem de Gás Natural S.A.,auto,False,cessoes,2,GBS Estocagem de Gás Natural S.A.
+Galo de Campina UPI S.A.,Galo de Campina UPI S.A.,auto,False,cessoes,6,Galo de Campina UPI S.A.
+Galp Energia Brasil,Galp,petrogal|galp,False,relacao,7,Galp
+Galp Energia Brasil S.A.,Galp,petrogal|galp,False,cessoes,8,Galp
+Petrogal,Galp,petrogal|galp,False,ofertas,77,Galp
+Petrogal Brasil,Galp,petrogal|galp,False,"cessoes,ofertas,relacao",12,Galp
+Petrogal Brasil Ltda.,Galp,petrogal|galp,False,cessoes,15,Galp
+Petrogal Brasil S.A,Galp,petrogal|galp,False,cessoes,2,Galp
+Petrogal Brasil S.A.,Galp,petrogal|galp,False,cessoes,26,Galp
+Gas Bidge Storage S.A.,Gas Bidge Storage S.A.,auto,False,cessoes,1,Gas Bidge Storage S.A.
+Gas Bridge,Gas Bridge,auto,False,relacao,1,Gas Bridge
+Gas Bridge Storage S.A.,Gas Bridge Storage S.A.,auto,False,cessoes,2,Gas Bridge Storage S.A.
+Genesis 2000 Exploração e Produção de Hidrocarbonetos Ltda.,Genesis 2000 Exploração e Produção de Hidrocarbonetos Ltda.,auto,False,cessoes,1,Genesis 2000 Exploração e Produção de Hidrocarbonetos Ltda.
+GeoPark Brasil Exploração e Produção de Petróleo e Gás Ltda.,GeoPark,geopark,False,cessoes,1,GeoPark
+Geopark,GeoPark,geopark,False,ofertas,7,GeoPark
+Geopark Brasil,GeoPark,geopark,False,"ofertas,relacao",11,GeoPark
+Geopark Brasil E&P de Petróleo e Gás Ltda.,GeoPark,geopark,False,cessoes,2,GeoPark
+Geopark Brasil Exploração e Produção de Petróleo e Gás Ltda,GeoPark,geopark,False,cessoes,1,GeoPark
+Geopark Brasil Exploração e Produção de Petróleo e Gás Ltda.,GeoPark,geopark,False,cessoes,10,GeoPark
+Geobras,Geobras,auto,False,ofertas,9,Geobras
+Geoflux,Geoflux,auto,False,relacao,1,Geoflux
+Geoflux Exploração e Produção de Petróleo Ltda.,Geoflux Exploração e Produção de Petróleo Ltda.,auto,False,cessoes,3,Geoflux Exploração e Produção de Petróleo Ltda.
+Geopar - Geosol,Geopar - Geosol,geopar,False,"ofertas,relacao",2,Geopar - Geosol
+Geopar - Geosol Participações S.A.,Geopar - Geosol,geopar,False,cessoes,4,Geopar - Geosol
+Gran Tierra,Gran Tierra,gran tierra,False,ofertas,3,Gran Tierra
+Gran Tierra Energy Brasil Ltda.,Gran Tierra,gran tierra,False,cessoes,13,Gran Tierra
+Great 108 S.A.,Great Energy,^great (energy|108|42)\b,True,cessoes,3,Great Energy
+Great 42 S.A.,Great Energy,^great (energy|108|42)\b,True,cessoes,2,Great Energy
+Great Energy,Great Energy,^great (energy|108|42)\b,True,"ofertas,relacao",2,Great Energy
+Great Energy S.A.,Great Energy,^great (energy|108|42)\b,True,cessoes,5,Great Energy
+Great Oil,Great Oil,great oil,False,ofertas,2,Great Oil
+Great Oil Perfurações Brasil Ltda.,Great Oil,great oil,False,cessoes,4,Great Oil
+Greenconsult,Greenconsult,auto,False,ofertas,1,Greenconsult
+Grupo Ubuntu Ltda.,Grupo Ubuntu Ltda.,auto,False,cessoes,1,Grupo Ubuntu Ltda.
+Guanambi Exploração e Produção de Petróleo Ltda.,Guanambi Exploração e Produção de Petróleo Ltda.,auto,False,cessoes,1,Guanambi Exploração e Produção de Petróleo Ltda.
+Guindastes Brasil,Guindastes Brasil,auto,False,ofertas,2,Guindastes Brasil
+Guindastes Brasil Óleo e Gás Ltda.,Guindastes Brasil Óleo e Gás Ltda.,auto,False,cessoes,3,Guindastes Brasil Óleo e Gás Ltda.
+Guto & Cacal,Guto & Cacal,auto,False,relacao,1,Guto & Cacal
+"Guto & Cacal Indústria, Comércio e Serviços Ltda.","Guto & Cacal Indústria, Comércio e Serviços Ltda.",auto,False,cessoes,1,"Guto & Cacal Indústria, Comércio e Serviços Ltda."
+Amerada Hess,Hess,hess,False,ofertas,5,Hess
+Amerada Hess Ltda.,Hess,hess,False,cessoes,10,Hess
+Hess,Hess,hess,False,ofertas,1,Hess
+Hess Brasil Petróleo Ltda.,Hess,hess,False,cessoes,4,Hess
+Hess Petróleo Ltda.,Hess,hess,False,cessoes,1,Hess
+HYDRO BRASIL ÓLEO E GÁS LTDA,Hydro,\bhydro\b,False,cessoes,1,Equinor
+HYDRO BRASIL ÓLEO E GÁS LTDA.,Hydro,\bhydro\b,False,cessoes,1,Equinor
+Hydro BM-C-7 Óleo e Gás Ltda.,Hydro,\bhydro\b,False,cessoes,1,Equinor
+IBV Brasil Petróleo,IBV Brasil,\bibv\b,False,relacao,2,IBV Brasil
+IBV Brasil Petróleo Ltda.,IBV Brasil,\bibv\b,False,cessoes,24,IBV Brasil
+IPI,IPI,auto,False,relacao,1,IPI
+IPI Oil E&P Ltda.,IPI Oil E&P Ltda.,auto,False,cessoes,1,IPI Oil E&P Ltda.
+IPI Oil Exploração de Petróleo LTDA.,IPI Oil Exploração de Petróleo LTDA.,auto,False,cessoes,2,IPI Oil Exploração de Petróleo LTDA.
+IST,IST,auto,False,ofertas,1,IST
+Imetame,Imetame,imetame,False,"ofertas,relacao",47,Imetame
+Imetame Energia Lagoa Parda Ltda.,Imetame,imetame,False,cessoes,5,Imetame
+Imetame Energia Ltda.,Imetame,imetame,False,cessoes,51,Imetame
+Imetame Energia S.A,Imetame,imetame,False,cessoes,4,Imetame
+Imetame Energia S.A.,Imetame,imetame,False,cessoes,6,Imetame
+Imetame Engenharia S.A.,Imetame,imetame,False,cessoes,6,Imetame
+INPEX Petróleo Santos Ltda.,Inpex,inpex,False,cessoes,3,Inpex
+Inpex Petr. Santos Ltda.,Inpex,inpex,False,cessoes,2,Inpex
+Inpex Petróleo Santos Ltda.,Inpex,inpex,False,cessoes,6,Inpex
+Ipiranga,Ipiranga,auto,False,ofertas,3,Ipiranga
+Irati,Irati,auto,False,ofertas,2,Irati
+JX Nippon O&G Explor. Ltda,JX Nippon,jx nippon,False,cessoes,1,JX Nippon
+Japão Petróleo Ltda.,Japão Petróleo Ltda.,auto,False,cessoes,2,Japão Petróleo Ltda.
+Karoon,Karoon,karoon,False,ofertas,6,Karoon
+Karoon Brasil,Karoon,karoon,False,relacao,14,Karoon
+Karoon Petróleo e Gás Ltda,Karoon,karoon,False,cessoes,1,Karoon
+Karoon Petróleo e Gás Ltda.,Karoon,karoon,False,cessoes,21,Karoon
+Kerr McGee Petróleo Ltda.,Kerr-McGee,kerr[- ]?mc ?gee,False,cessoes,6,Occidental
+Kerr McGee do Brasil Ltda.,Kerr-McGee,kerr[- ]?mc ?gee,False,cessoes,4,Occidental
+Kerr-McGee,Kerr-McGee,kerr[- ]?mc ?gee,False,ofertas,2,Occidental
+Kerr-McGee Corp,Kerr-McGee,kerr[- ]?mc ?gee,False,ofertas,7,Occidental
+Kerr-McGee Petróleo Ltda.,Kerr-McGee,kerr[- ]?mc ?gee,False,cessoes,6,Occidental
+Kerr-McGee do Brasil Ltda.,Kerr-McGee,kerr[- ]?mc ?gee,False,cessoes,6,Occidental
+Koch,Koch,auto,False,ofertas,2,Koch
+Koch Petróleo Brasil Ltda.,Koch Petróleo Brasil Ltda.,auto,False,cessoes,4,Koch Petróleo Brasil Ltda.
+Leros,Leros,auto,False,relacao,1,Leros
+Logos Engenharia,Logos Engenharia S/A,auto,False,ofertas,1,Logos Engenharia S/A
+Logos Engenharia S/A,Logos Engenharia S/A,auto,False,cessoes,1,Logos Engenharia S/A
+Lábrea Petróleo S.A.,Lábrea Petróleo S/A,auto,False,cessoes,2,Lábrea Petróleo S/A
+Lábrea Petróleo S/A,Lábrea Petróleo S/A,auto,False,cessoes,4,Lábrea Petróleo S/A
+Léros Petróleo e Gás S.A.,Léros Petróleo e Gás S.A.,auto,False,cessoes,1,Léros Petróleo e Gás S.A.
+M&S,M&S,auto,False,ofertas,43,M&S
+MES Brasil S/A,MES Brasil S/A,auto,False,cessoes,1,MES Brasil S/A
+Maersk,Maersk Oil,maersk,False,ofertas,5,TotalEnergies
+Maersk AS,Maersk Oil,maersk,False,ofertas,2,TotalEnergies
+Maersk Energia Ltda.,Maersk Oil,maersk,False,cessoes,5,TotalEnergies
+Maersk Oil Brasil Ltda.,Maersk Oil,maersk,False,cessoes,32,TotalEnergies
+Maersk Olie OG Gas AS,Maersk Oil,maersk,False,ofertas,1,TotalEnergies
+Maha Energy Brasil Ltda.,Maha Energy Brasil Ltda.,auto,False,cessoes,1,Maha Energy Brasil Ltda.
+Manati S.A.,Manati S.A.,auto,False,cessoes,5,Manati S.A.
+Manati S/A,Manati S.A.,auto,False,cessoes,3,Manati S.A.
+Mandacaru Energia,Mandacaru Energia,mandacaru,False,relacao,12,Mandacaru Energia
+Mandacaru Energia Ltda.,Mandacaru Energia,mandacaru,False,cessoes,14,Mandacaru Energia
+Marítima Petróleo e Engenharia Ltda.,Marítima Petróleo e Engenharia Ltda.,auto,False,cessoes,3,Marítima Petróleo e Engenharia Ltda.
+Mercury do Brasil,Mercury do Brasil,auto,False,cessoes,2,Mercury do Brasil
+Mercury do Brasil Oil & Gás Ltda.,Mercury do Brasil Oil & Gás Ltda.,auto,False,cessoes,3,Mercury do Brasil Oil & Gás Ltda.
+Mercury do Brasil Oil and Gas Ltda.,Mercury do Brasil Oil and Gás Ltda.,auto,False,cessoes,1,Mercury do Brasil Oil and Gás Ltda.
+Mercury do Brasil Oil and Gás Ltda.,Mercury do Brasil Oil and Gás Ltda.,auto,False,cessoes,1,Mercury do Brasil Oil and Gás Ltda.
+MITSUI E&P Brasil Ltda.,Mitsui,mitsui,False,cessoes,8,Mitsui
+Mitsui E&P Brasil Ltda.,Mitsui,mitsui,False,cessoes,4,Mitsui
+Morro do Barro Produtora de Petróleo Ltda.,Morro do Barro Produtora de Petróleo S.A.,auto,False,cessoes,2,Morro do Barro Produtora de Petróleo S.A.
+Morro do Barro Produtora de Petróleo S.A.,Morro do Barro Produtora de Petróleo S.A.,auto,False,cessoes,2,Morro do Barro Produtora de Petróleo S.A.
+Murphy,Murphy,murphy,False,ofertas,4,Murphy
+Murphy Brasil,Murphy,murphy,False,relacao,4,Murphy
+Murphy Brasil E&P de Petróleo e Gás Ltda.,Murphy,murphy,False,cessoes,4,Murphy
+Murphy Brasil Exploração e Produção de Petróleo e Gás Ltda,Murphy,murphy,False,cessoes,14,Murphy
+Murphy Brasil Exploração e Produção de Petróleo e Gás Ltda.,Murphy,murphy,False,cessoes,11,Murphy
+Murphy Brazil Exploração e Produção de Petróleo e Gás Ltda.,Murphy,murphy,False,cessoes,2,Murphy
+Máxima 07,Máxima 07,auto,False,relacao,1,Máxima 07
+NBS,NBS,auto,False,relacao,2,NBS
+NBS Petróleo e Gás Ltda.,NBS Petróleo e Gás Ltda.,auto,False,cessoes,2,NBS Petróleo e Gás Ltda.
+NTF,NTF,auto,False,relacao,2,NTF
+NTF Óleo e Gás S.A.,NTF Óleo e Gás S.A.,auto,False,cessoes,4,NTF Óleo e Gás S.A.
+Neptune Energy Brasil Participações Ltda.,Neptune Energy,neptune,False,cessoes,1,Neptune Energy
+Neptune Energy Brasil Participações Ltda. Ltda.,Neptune Energy,neptune,False,cessoes,3,Neptune Energy
+Newfield,Newfield,newfield,False,ofertas,1,Newfield
+Newfield Exploration Company,Newfield,newfield,False,ofertas,1,Newfield
+Newo,Newo,auto,False,relacao,1,Newo
+NEWO Óleo e Gás Ltda.,Newo Óleo e Gás Ltda.,auto,False,cessoes,1,Newo Óleo e Gás Ltda.
+Newo Óleo e Gás Ltda.,Newo Óleo e Gás Ltda.,auto,False,cessoes,5,Newo Óleo e Gás Ltda.
+Nexen Petroleum do Brasil Ltda.,Nexen,nexen,False,cessoes,2,Nexen
+Niko Resources,Niko Resources,auto,False,ofertas,2,Niko Resources
+Nord,Nord,auto,False,"ofertas,relacao",3,Nord
+Nord Oil and Gas Ltda.,Nord Oil and Gas,nord oil,False,cessoes,1,Nord Oil and Gas
+Nord Oil and Gas S.A.,Nord Oil and Gas,nord oil,False,cessoes,3,Nord Oil and Gas
+Nord Oil e Gás,Nord Oil and Gas,nord oil,False,cessoes,4,Nord Oil and Gas
+Norse Energy do Brasil Ltda.,Norse Energy,norse,False,cessoes,16,Norse Energy
+Norse Energy do Brasil S/A,Norse Energy,norse,False,cessoes,6,Norse Energy
+Nova Petróleo,Nova Petróleo,nova petroleo,False,"ofertas,relacao",16,Nova Petróleo
+Nova Petróleo Recôncavo S.A.,Nova Petróleo,nova petroleo,False,cessoes,4,Nova Petróleo
+Nova Petróleo S.A. Exploração e Produção,Nova Petróleo,nova petroleo,False,cessoes,4,Nova Petróleo
+Nova Técnica,Nova Técnica,auto,False,relacao,1,Nova Técnica
+Nova Técnica Energy Ltda.,Nova Técnica Energy Ltda.,auto,False,cessoes,2,Nova Técnica Energy Ltda.
+Níon Energia,Níon Energia S.A.,auto,False,relacao,6,Níon Energia S.A.
+Níon Energia S.A.,Níon Energia S.A.,auto,False,cessoes,12,Níon Energia S.A.
+OAK Petróleo e Gás Natural Ltda.,OAK Petróleo e Gás Natural Ltda.,auto,False,cessoes,4,OAK Petróleo e Gás Natural Ltda.
+Dommo Energia S.A.,OGX/Dommo,ogx|dommo,False,cessoes,5,OGX/Dommo
+OGX,OGX/Dommo,ogx|dommo,False,ofertas,34,OGX/Dommo
+OGX Campos Petróleo e Gás S.A.,OGX/Dommo,ogx|dommo,False,cessoes,12,OGX/Dommo
+OGX Campos Petróleo e Gás S/A,OGX/Dommo,ogx|dommo,False,cessoes,10,OGX/Dommo
+OGX Participações S.A,OGX/Dommo,ogx|dommo,False,cessoes,1,OGX/Dommo
+OGX Petróleo Ltda.,OGX/Dommo,ogx|dommo,False,cessoes,1,OGX/Dommo
+OGX Petróleo e Gas Ltda.,OGX/Dommo,ogx|dommo,False,cessoes,12,OGX/Dommo
+OGX Petróleo e Gás Ltda.,OGX/Dommo,ogx|dommo,False,cessoes,58,OGX/Dommo
+OGX Petróleo e Gás Participações S.A.,OGX/Dommo,ogx|dommo,False,cessoes,1,OGX/Dommo
+OGX Petróleo e Gás S.A.,OGX/Dommo,ogx|dommo,False,cessoes,8,OGX/Dommo
+ONGC Campos,ONGC,ongc,False,"cessoes,relacao",5,ONGC
+ONGC Campos Ltda,ONGC,ongc,False,cessoes,3,ONGC
+ONGC Campos Ltda.,ONGC,ongc,False,cessoes,14,ONGC
+Ongc,ONGC,ongc,False,ofertas,2,ONGC
+OP Energia,OP Energia,auto,False,ofertas,3,OP Energia
+OP Energia Ltda.,OP Energia,auto,False,cessoes,3,OP Energia
+OP Pescada Óleo e Gás Ltda.,OP Pescada Óleo e Gás Ltda.,auto,False,cessoes,6,OP Pescada Óleo e Gás Ltda.
+Ocean,Ocean Energy,ocean energy|^ocean$,False,ofertas,2,Devon
+Ocean Energy Limitada,Ocean Energy,ocean energy|^ocean$,False,cessoes,2,Devon
+Ocean Energy Ltda.,Ocean Energy,ocean energy|^ocean$,False,cessoes,2,Devon
+Oceania,Oceania,auto,False,relacao,1,Oceania
+Oceania OG Exploração e Participações em Petróleo Ltda.,Oceania OG Exploração e Participações em Petróleo Ltda.,auto,False,cessoes,1,Oceania OG Exploração e Participações em Petróleo Ltda.
+Construtora Norberto Odebrecht S.A.,Odebrecht,odebrech,False,cessoes,1,Odebrecht
+Construtora Norberto Odebrecht S/A,Odebrecht,odebrech,False,cessoes,1,Odebrecht
+Odebrech Óleo e Gás Ltda.,Odebrecht,odebrech,False,cessoes,1,Odebrecht
+Odebrecht,Odebrecht,odebrech,False,ofertas,2,Odebrecht
+Odebrecht Exploração e Produção Ltda.,Odebrecht,odebrech,False,cessoes,1,Odebrecht
+Odebrecht Frade Desenvolvimento e Produção Ltda.,Odebrecht,odebrech,False,cessoes,1,Odebrecht
+Odebrecht Óleo e Gás Ltda.,Odebrecht,odebrech,False,cessoes,1,Odebrecht
+Oeste de Canoas,Oeste de Canoas,auto,False,relacao,1,Oeste de Canoas
+Oeste de Canoas Petróleo e Gás Ltda.,Oeste de Canoas Petróleo e Gás Ltda.,auto,False,cessoes,3,Oeste de Canoas Petróleo e Gás Ltda.
+Oil Group Exploração e Produção S.A.,Oil Group Exploração e Produção S.A.,auto,False,cessoes,11,Oil Group Exploração e Produção S.A.
+Oil M&S Brasil S/A,Oil M&S Brasil S/A,auto,False,cessoes,5,Oil M&S Brasil S/A
+Oil and Gas Investments Group E&P Ltda.,Oil and Gas Investments Group E&P Ltda.,auto,False,cessoes,1,Oil and Gas Investments Group E&P Ltda.
+Origem,Origem Energia,origem,False,relacao,25,Origem Energia
+Origem Alagoas,Origem Energia,origem,False,relacao,9,Origem Energia
+Origem Energia Alagoas S.A.,Origem Energia,origem,False,cessoes,9,Origem Energia
+Origem Energia S.A.,Origem Energia,origem,False,cessoes,12,Origem Energia
+Orteng,Orteng,orteng,False,ofertas,10,Orteng
+Orteng Equip. e Sist. Ltda.,Orteng,orteng,False,cessoes,5,Orteng
+Orteng Equip. e Sist. S.A,Orteng,orteng,False,cessoes,2,Orteng
+Orteng Equipamentos e Sistemas Ltda.,Orteng,orteng,False,cessoes,6,Orteng
+Orteng Óleo e Gás,Orteng,orteng,False,relacao,1,Orteng
+Orteng Óleo e Gás S/A,Orteng,orteng,False,cessoes,1,Orteng
+Ouro Preto,Ouro Preto,ouro preto,True,ofertas,10,Ouro Preto
+Ouro Preto Energia Onshore S.A.,Ouro Preto,ouro preto,True,cessoes,7,Ouro Preto
+Ouro Preto Óleo e Gás S.A.,Ouro Preto,ouro preto,True,cessoes,7,Ouro Preto
+PERBRAS,PERBRAS,auto,False,relacao,2,PERBRAS
+HRT O&G Exploração,PRIO,petro ?rio|^prio\b|^hrt\b,False,cessoes,1,PRIO
+HRT O&G Exploração e Produção de Petróleo Ltda,PRIO,petro ?rio|^prio\b|^hrt\b,False,cessoes,2,PRIO
+HRT O&G Exploração e Produção de Petróleo Ltda.,PRIO,petro ?rio|^prio\b|^hrt\b,False,cessoes,12,PRIO
+PRIO Coral Exploração Petrolífera Ltda.,PRIO,petro ?rio|^prio\b|^hrt\b,False,cessoes,2,PRIO
+Petro Rio Coral,PRIO,petro ?rio|^prio\b|^hrt\b,False,relacao,1,PRIO
+Petro Rio Coral Exploração Petrolífera Ltda.,PRIO,petro ?rio|^prio\b|^hrt\b,False,cessoes,3,PRIO
+Petro Rio Coral Exploração Petrolífera S.A.,PRIO,petro ?rio|^prio\b|^hrt\b,False,cessoes,1,PRIO
+Petro Rio Jaguar Petróleo Ltda.,PRIO,petro ?rio|^prio\b|^hrt\b,False,cessoes,5,PRIO
+Petro Rio Jaguar Petróleo S.A,PRIO,petro ?rio|^prio\b|^hrt\b,False,cessoes,2,PRIO
+Petro Rio Jaguar Petróleo S.A.,PRIO,petro ?rio|^prio\b|^hrt\b,False,cessoes,5,PRIO
+Petro Rio O&G E&P de Petróleo Ltda.,PRIO,petro ?rio|^prio\b|^hrt\b,False,cessoes,1,PRIO
+Petro Rio O&G Exploração e Produção de Petróleo Ltda.,PRIO,petro ?rio|^prio\b|^hrt\b,False,cessoes,2,PRIO
+Petro Rio White Shark Petróleo Ltda.,PRIO,petro ?rio|^prio\b|^hrt\b,False,cessoes,2,PRIO
+Prio Bravo,PRIO,petro ?rio|^prio\b|^hrt\b,False,relacao,3,PRIO
+Prio Bravo Ltda.,PRIO,petro ?rio|^prio\b|^hrt\b,False,cessoes,4,PRIO
+Prio Forte S.A,PRIO,petro ?rio|^prio\b|^hrt\b,False,relacao,9,PRIO
+Prio Forte S.A.,PRIO,petro ?rio|^prio\b|^hrt\b,False,cessoes,6,PRIO
+Prio Tigris,PRIO,petro ?rio|^prio\b|^hrt\b,False,relacao,2,PRIO
+Prio Tigris S.A.,PRIO,petro ?rio|^prio\b|^hrt\b,False,cessoes,4,PRIO
+"PROEN Projetos, Engenharia, Comércio e Montagem Ltda.","PROEN Projetos, Engenharia, Comércio e Montagem Ltda.",auto,False,cessoes,1,"PROEN Projetos, Engenharia, Comércio e Montagem Ltda."
+PTTEP Brasil Invest. Explor. e Prod. de Petróleo e Gás Ltda.,PTTEP,pttep,False,cessoes,13,PTTEP
+PTTEP Brasil Investimentos em E&P de Petróleo e Gás Ltda.,PTTEP,pttep,False,cessoes,2,PTTEP
+PTTEP Brasil Investimentos em Exploração e Produção de Petróleo e Gás Ltda.,PTTEP,pttep,False,cessoes,8,PTTEP
+Pacific Brasil,Pacific Brasil,pacific brasil,False,ofertas,3,Pacific Brasil
+Pacific Brasil Exploração e Produção de Óleo e Gás Ltda.,Pacific Brasil,pacific brasil,False,cessoes,13,Pacific Brasil
+Panergy Petróleo e Gás Ltda.,Panergy Petróleo e Gás Ltda.,auto,False,cessoes,1,Panergy Petróleo e Gás Ltda.
+Panoro Energy,Panoro Energy,panoro,False,"ofertas,relacao",8,Panoro Energy
+Panoro Energy Ltda.,Panoro Energy,panoro,False,cessoes,2,Panoro Energy
+Panoro Energy do Brasil Ltda.,Panoro Energy,panoro,False,cessoes,13,Panoro Energy
+Paraná Xisto,Paraná Xisto S.A.,auto,False,relacao,1,Paraná Xisto S.A.
+Paraná Xisto S.A.,Paraná Xisto S.A.,auto,False,cessoes,1,Paraná Xisto S.A.
+Parnaíba Part.,Parnaíba Part.,auto,False,ofertas,1,Parnaíba Part.
+Parnaíba Participações S.A.,Parnaíba Participações S.A.,auto,False,cessoes,3,Parnaíba Participações S.A.
+Partex,Partex,partex,False,ofertas,7,Partex
+Partex Brasil,Partex,partex,False,ofertas,2,Partex
+Partex Brasil Ltda.,Partex,partex,False,cessoes,16,Partex
+Partex Oil and Gas (Holdings) Corporation,Partex,partex,False,ofertas,3,Partex
+Perenco,Perenco,perenco,False,ofertas,5,Perenco
+Perenco Brasil,Perenco,perenco,False,relacao,5,Perenco
+Perenco Petróleo e Gás do Brasil Ltda.,Perenco,perenco,False,cessoes,33,Perenco
+Perícia,Perícia,auto,False,relacao,2,Perícia
+Pericia Engenharia e Construção Ltda.,Perícia Engenharia e Construção Ltda.,auto,False,cessoes,1,Perícia Engenharia e Construção Ltda.
+Perícia Engenharia e Construção Ltda.,Perícia Engenharia e Construção Ltda.,auto,False,cessoes,7,Perícia Engenharia e Construção Ltda.
+Petra Energia,Petra Energia,petra energia,False,ofertas,35,Petra Energia
+Petra Energia Parnaíba Ltda.,Petra Energia,petra energia,False,cessoes,7,Petra Energia
+Petra Energia S.A.,Petra Energia,petra energia,False,cessoes,28,Petra Energia
+Petra Energia S/A,Petra Energia,petra energia,False,cessoes,25,Petra Energia
+Petro Rio Int.,Petro Rio Internacional (2007),petro rio int,True,ofertas,2,Petro Rio Internacional (2007)
+Petro Rio Internacional S.A.,Petro Rio Internacional (2007),petro rio int,True,cessoes,1,Petro Rio Internacional (2007)
+Petro Vista Energy Petróleo do Brasil Ltda.,Petro Vista Energy Petróleo do Brasil Ltda.,auto,False,cessoes,6,Petro Vista Energy Petróleo do Brasil Ltda.
+Petro Vista,Petro Vista Ltda.,auto,False,ofertas,1,Petro Vista Ltda.
+Petro Vista Ltda.,Petro Vista Ltda.,auto,False,cessoes,1,Petro Vista Ltda.
+Petro-Victory,Petro-Victory,petro[- ]victory,False,relacao,38,Petro-Victory
+Petro-Victory Energia Ltda.,Petro-Victory,petro[- ]victory,False,cessoes,21,Petro-Victory
+Petro-Victory Energy Ltda.,Petro-Victory,petro[- ]victory,False,cessoes,9,Petro-Victory
+PetroReconcavo S.A.,PetroRecôncavo,petro ?reconcavo,False,cessoes,35,PetroRecôncavo
+PetroRecôncavo,PetroRecôncavo,petro ?reconcavo,False,"ofertas,relacao",59,PetroRecôncavo
+PetroRecôncavo S.A.,PetroRecôncavo,petro ?reconcavo,False,"cessoes,ofertas",16,PetroRecôncavo
+Petroreconcavo S.A.,PetroRecôncavo,petro ?reconcavo,False,cessoes,20,PetroRecôncavo
+Recôncavo E&P S.A.,PetroRecôncavo,reconcavo e&p,True,cessoes,3,PetroRecôncavo
+Petroborn,Petroborn,auto,False,relacao,5,Petroborn
+Petroborn Óleo e Gás S.A.,Petroborn Óleo e Gás S.A.,auto,False,cessoes,1,Petroborn Óleo e Gás S.A.
+Petrobras,Petrobras,petrobras|petroleo brasileiro,False,"cessoes,ofertas,relacao",704,Petrobras
+Petróleo Brasileiro S.A,Petrobras,petrobras|petroleo brasileiro,False,cessoes,2,Petrobras
+Petróleo Brasileiro S.A.,Petrobras,petrobras|petroleo brasileiro,False,"cessoes,ofertas",202,Petrobras
+Petróleo Brasileiro S.A. - Petrobras,Petrobras,petrobras|petroleo brasileiro,False,cessoes,311,Petrobras
+Petróleo Brasileiro S.A.  Petrobras,Petrobras,petrobras|petroleo brasileiro,False,cessoes,13,Petrobras
+Petróleo Brasileiro S/A,Petrobras,petrobras|petroleo brasileiro,False,cessoes,167,Petrobras
+Petroil,Petroil,^petroil\b,False,"ofertas,relacao",5,Petroil
+Petroil Óleo e Gás Ltda.,Petroil,^petroil\b,False,cessoes,24,Petroil
+Petroil Óleo e GásLtda.,Petroil,^petroil\b,False,cessoes,1,Petroil
+Petrom,Petrom,auto,False,relacao,1,Petrom
+Petrom Produção de Petróleo & Gás Ltda.,Petrom Produção de Petróleo & Gás Ltda.,auto,False,cessoes,2,Petrom Produção de Petróleo & Gás Ltda.
+Petrom Produção de Petróleo e Gás Ltda.,Petrom Produção de Petróleo e Gás Ltda.,auto,False,cessoes,1,Petrom Produção de Petróleo e Gás Ltda.
+Petromais Exploração e Produção S.A.,Petromais Exploração e Produção S.A.,auto,False,cessoes,1,Petromais Exploração e Produção S.A.
+Petromais Global Exploração e Produção S.A.,Petromais Global Exploração e Produção S.A.,auto,False,cessoes,7,Petromais Global Exploração e Produção S.A.
+Petronas,Petronas,petronas,False,"ofertas,relacao",10,Petronas
+Petronas Petróleo Brasil Ltda.,Petronas,petronas,False,cessoes,2,Petronas
+Petroserv,Petroserv S/A,auto,False,ofertas,3,Petroserv S/A
+Petroserv S.A.,Petroserv S/A,auto,False,cessoes,4,Petroserv S/A
+Petroserv S/A,Petroserv S/A,auto,False,cessoes,5,Petroserv S/A
+Petrosynergy,Petrosynergy,petrosynergy,False,"ofertas,relacao",15,Petrosynergy
+Petrosynergy Ltda,Petrosynergy,petrosynergy,False,cessoes,2,Petrosynergy
+Petrosynergy Ltda.,Petrosynergy,petrosynergy,False,cessoes,12,Petrosynergy
+Petrosynergy S.A.,Petrosynergy,petrosynergy,False,cessoes,1,Petrosynergy
+Phoenix,Phoenix Óleo & Gás,phoenix,False,ofertas,25,Phoenix Óleo & Gás
+Phoenix Empr. Ltda,Phoenix Óleo & Gás,phoenix,False,cessoes,2,Phoenix Óleo & Gás
+Phoenix Empreendimentos Ltda.,Phoenix Óleo & Gás,phoenix,False,cessoes,52,Phoenix Óleo & Gás
+Phoenix Óleo & Gás,Phoenix Óleo & Gás,phoenix,False,relacao,7,Phoenix Óleo & Gás
+Phoenix Óleo e Gás Natural Ltda.,Phoenix Óleo & Gás,phoenix,False,cessoes,19,Phoenix Óleo & Gás
+PortSea,PortSea,auto,False,ofertas,10,PortSea
+Portsea Brasil Petróleo e Gás Ltda.,Portsea Brasil Petróleo e Gás Ltda.,auto,False,cessoes,4,Portsea Brasil Petróleo e Gás Ltda.
+Potiguar E&P S.A.,Potiguar E&P S.A.,auto,False,cessoes,67,Potiguar E&P S.A.
+Potióleo S.A.,Potióleo S.A.,auto,False,cessoes,6,Potióleo S.A.
+Premier OIL do Brasil P&G Ltda.,Premier Oil,premier oil,False,cessoes,1,Premier Oil
+Premier Oil,Premier Oil,premier oil,False,ofertas,3,Premier Oil
+Premier Oil do Brasil Petróleo e Gás Ltda.,Premier Oil,premier oil,False,cessoes,3,Premier Oil
+QPI Brasil,QatarEnergy,\bqpi\b|qatar,False,ofertas,7,QatarEnergy
+QatarEnergy,QatarEnergy,\bqpi\b|qatar,False,relacao,8,QatarEnergy
+QatarEnergy Brasil Ltda.,QatarEnergy,\bqpi\b|qatar,False,cessoes,3,QatarEnergy
+Quantra,Quantra,auto,False,ofertas,25,Quantra
+Quantra Petróleo Ltda.,Quantra Petróleo S.A.,auto,False,cessoes,2,Quantra Petróleo S.A.
+Quantra Petróleo S.A.,Quantra Petróleo S.A.,auto,False,cessoes,12,Quantra Petróleo S.A.
+Quantra Petróleo S/A,Quantra Petróleo S.A.,auto,False,cessoes,11,Quantra Petróleo S.A.
+Rainier,Rainier,auto,False,ofertas,5,Rainier
+Ral Engenharia,Ral Engenharia,auto,False,ofertas,11,Ral Engenharia
+Ral Engenharia Ltda.,Ral Engenharia,auto,False,cessoes,10,Ral Engenharia
+Ral Oil e Gás Comércio Ltda.,Ral Oil e Gás Comércio Ltda.,auto,False,cessoes,1,Ral Oil e Gás Comércio Ltda.
+Recôncavo Energ SPE,Recôncavo Energ SPE,auto,False,relacao,2,Recôncavo Energ SPE
+Recôncavo Energia,Recôncavo Energia,reconcavo energia,False,relacao,1,Tarmar
+Recôncavo Energia SPE Ltda.,Recôncavo Energia,reconcavo energia,False,cessoes,2,Tarmar
+Repsol,Repsol,repsol,False,"ofertas,relacao",9,Repsol
+Repsol Brasil S.A.,Repsol,repsol,False,cessoes,6,Repsol
+Repsol Brasil S/A,Repsol,repsol,False,cessoes,4,Repsol
+Repsol Exploración,Repsol,repsol,False,ofertas,1,Repsol
+Repsol Exploração Brasil Ltda,Repsol,repsol,False,cessoes,2,Repsol
+Repsol Exploração Brasil Ltda.,Repsol,repsol,False,cessoes,18,Repsol
+Repsol Sinopec,Repsol Sinopec,repsol sinopec|repsol ypf,False,"ofertas,relacao",10,Repsol
+Repsol Sinopec Brasil S.A,Repsol Sinopec,repsol sinopec|repsol ypf,False,cessoes,1,Repsol
+Repsol Sinopec Brasil S.A.,Repsol Sinopec,repsol sinopec|repsol ypf,False,cessoes,16,Repsol
+Repsol YPF,Repsol Sinopec,repsol sinopec|repsol ypf,False,ofertas,17,Repsol
+Repsol YPF Brasil S.A.,Repsol Sinopec,repsol sinopec|repsol ypf,False,cessoes,13,Repsol
+Repsol YPF Brasil S/A,Repsol Sinopec,repsol sinopec|repsol ypf,False,cessoes,12,Repsol
+Rich,Rich,auto,False,ofertas,4,Rich
+Rio das Contas Produtora de Petróleo Ltda.,Rio das Contas Produtora de Petróleo Ltda.,auto,False,cessoes,10,Rio das Contas Produtora de Petróleo Ltda.
+Rosneft Brasil E&P Ltda.,Rosneft,rosneft,False,cessoes,4,Rosneft
+Rubicão,Rubicão,auto,False,relacao,1,Rubicão
+Rubicão S.A.,Rubicão,auto,False,cessoes,1,Rubicão
+SHB,SHB,auto,False,"ofertas,relacao",29,SHB
+SK,SK,^sk\b,False,ofertas,1,SK
+SK Corporation,SK,^sk\b,False,ofertas,2,SK
+SK do Brasil Ltda.,SK,^sk\b,False,cessoes,14,SK
+SPE Miranga,SPE Miranga S.A.,auto,False,relacao,1,SPE Miranga S.A.
+SPE Miranga S.A.,SPE Miranga S.A.,auto,False,cessoes,17,SPE Miranga S.A.
+SPE Tiêta,SPE Tiêta,auto,False,relacao,4,SPE Tiêta
+STR,STR,auto,False,ofertas,9,STR
+STR Projetos e Participações Ltda.,STR Projetos e Participações Ltda.,auto,False,cessoes,2,STR Projetos e Participações Ltda.
+Sabre,Sabre,auto,False,ofertas,3,Sabre
+Samson,Samson,auto,False,ofertas,2,Samson
+Samson do Brasil Ltda.,Samson do Brasil Ltda.,auto,False,cessoes,1,Samson do Brasil Ltda.
+Santa Fe Snyder Corporation,Santa Fe Snyder,santa fe,False,cessoes,1,Devon
+Santa Fé,Santa Fe Snyder,santa fe,False,ofertas,1,Devon
+Santana Exploração e Produção de Óleo e Gás Ltda.,Santana Exploração e Produção de Óleo e Gás Ltda.,auto,False,cessoes,2,Santana Exploração e Produção de Óleo e Gás Ltda.
+Karavan Seacrest SPE Cricaré S.A.,Seacrest,seacrest|karavan,False,cessoes,25,Seacrest
+Seacrest,Seacrest,seacrest|karavan,False,relacao,1,Seacrest
+Seacrest Norte Cap,Seacrest,seacrest|karavan,False,relacao,5,Seacrest
+Seacrest Petróleo SPE Norte Capixaba Ltda.,Seacrest,seacrest|karavan,False,cessoes,5,Seacrest
+Seacrest SPE Cricaré,Seacrest,seacrest|karavan,False,relacao,24,Seacrest
+Seacrest SPE Cricaré S.A.,Seacrest,seacrest|karavan,False,cessoes,1,Seacrest
+Severo Villares,Severo Villares,auto,False,ofertas,2,Severo Villares
+Severo Villares Projetos e Construções S.A.,Severo Villares Projetos e Construções S.A.,auto,False,cessoes,1,Severo Villares Projetos e Construções S.A.
+Shell,Shell,\bshell\b,False,ofertas,20,Shell
+Shell Brasil,Shell,\bshell\b,False,"ofertas,relacao",81,Shell
+Shell Brasil Ltda,Shell,\bshell\b,False,cessoes,3,Shell
+Shell Brasil Ltda.,Shell,\bshell\b,False,"cessoes,ofertas",64,Shell
+Shell Brasil Petróleo,Shell,\bshell\b,False,cessoes,1,Shell
+Shell Brasil Petróleo Ltda,Shell,\bshell\b,False,cessoes,3,Shell
+Shell Brasil Petróleo Ltda.,Shell,\bshell\b,False,cessoes,68,Shell
+Shell Brasil Petróleo Ltda. (*),Shell,\bshell\b,False,cessoes,2,Shell
+Shell do Brasil Ltda.,Shell,\bshell\b,False,cessoes,1,Shell
+Silver Marlim Exploração e Produção de Petróleo e Gás Ltda.,Silver Marlin,silver marli[nm],False,cessoes,7,Silver Marlin
+Silver Marlin,Silver Marlin,silver marli[nm],False,ofertas,18,Silver Marlin
+Silver Marlin E&P de Petróleo e Gás Ltda.,Silver Marlin,silver marli[nm],False,cessoes,1,Silver Marlin
+Sinochem Petróleo,Sinochem,sinochem,False,ofertas,2,Sinochem
+Sinochem Petróleo Brasil Ltda.,Sinochem,sinochem,False,cessoes,14,Sinochem
+Sinochem Petróleo Ltda.,Sinochem,sinochem,False,cessoes,5,Sinochem
+Sinopec,Sinopec,sinopec,False,relacao,2,Sinopec
+Sinopec Exploration and Production (BRAZIL) Ltda.,Sinopec,sinopec,False,cessoes,2,Sinopec
+Sinopec Exploration and Production (Brazil) Ltda.,Sinopec,sinopec,False,cessoes,1,Sinopec
+Sipet,Sipet,^sipet,False,ofertas,6,Sipet
+Sipet Participações Ltda.,Sipet,^sipet,False,cessoes,2,Sipet
+Slim Drilling,Slim Drilling,auto,False,relacao,2,Slim Drilling
+Slim Drilling Serviços de Perfuração S.A.,Slim Drilling Serviços de Perfuração S.A.,auto,False,cessoes,2,Slim Drilling Serviços de Perfuração S.A.
+Somoil Internacional de Petróleo do Brasil Ltda.,Somoil Internacional de Petróleo do Brasil Ltda.,auto,False,cessoes,5,Somoil Internacional de Petróleo do Brasil Ltda.
+Somoil do Brasil,Somoil do Brasil,auto,False,"ofertas,relacao",2,Somoil do Brasil
+Sonangol Guanambi E&P de Petróleo Ltda.,Sonangol,sonangol,False,cessoes,2,Sonangol
+Sonangol Guanambi Exploração e Produção de Petróleo Ltda.,Sonangol,sonangol,False,cessoes,1,Sonangol
+Sonangol Hidrocarbonetos,Sonangol,sonangol,False,cessoes,1,Sonangol
+Sonangol Hidrocarbonetos Brasil Ltda.,Sonangol,sonangol,False,cessoes,9,Sonangol
+Sonangol Pesquisa e Produção de Petróleo do Brasil Ltda.,Sonangol,sonangol,False,cessoes,7,Sonangol
+Sonangol Pesquisa e Produção do Brasil Ltda.,Sonangol,sonangol,False,cessoes,2,Sonangol
+Sonangol Starfish Oil & Gas S.A.,Sonangol,sonangol,False,cessoes,4,Sonangol
+Sonangol Starfish Oil & Gas S/A,Sonangol,sonangol,False,cessoes,2,Sonangol
+Starfish Oil & Gas S.A,Starfish Oil & Gás S/A,auto,False,ofertas,1,Starfish Oil & Gás S/A
+Starfish Oil & Gas S.A.,Starfish Oil & Gás S/A,auto,False,ofertas,3,Starfish Oil & Gás S/A
+Starfish Oil & Gas S/A,Starfish Oil & Gás S/A,auto,False,cessoes,8,Starfish Oil & Gás S/A
+Starfish Oil & Gás S.A.,Starfish Oil & Gás S/A,auto,False,cessoes,3,Starfish Oil & Gás S/A
+Starfish Oil & Gás S/A,Starfish Oil & Gás S/A,auto,False,cessoes,15,Starfish Oil & Gás S/A
+Starfish Oil e Gás S.A.,Starfish Oil e Gás S.A.,auto,False,cessoes,2,Starfish Oil e Gás S.A.
+Synergy,Synergy,auto,False,ofertas,31,Synergy
+TDC,TDC,auto,False,cessoes,2,TDC
+TDC do Brasil Petróleo Ltda.,TDC do Brasil Petróleo Ltda.,auto,False,cessoes,1,TDC do Brasil Petróleo Ltda.
+TNK-Brasil Exploração e Produção de Óleo e Gás Natural Ltda.,TNK-Brasil Exploração e Produção de Óleo e Gás Natural Ltda.,auto,False,cessoes,1,TNK-Brasil Exploração e Produção de Óleo e Gás Natural Ltda.
+TOG Brasil,TOG Brasil,trayectoria|^tog brasil,False,relacao,6,TOG Brasil
+Trayectoria,TOG Brasil,trayectoria|^tog brasil,False,ofertas,10,TOG Brasil
+Tarmar,Tarmar,tarmar|magellan energia,False,"ofertas,relacao",12,Tarmar
+Tarmar Energia e Participações Ltda.,Tarmar,tarmar|magellan energia,False,cessoes,1,Tarmar
+Tek,Tek,auto,False,ofertas,3,Tek
+Teknobras Empreendimentos e Participações Ltda.,Teknobras Empreendimentos e Participações Ltda.,auto,False,cessoes,9,Teknobras Empreendimentos e Participações Ltda.
+Total E&P Energia Ltda.,TotalEnergies,totalenergies|totalfinaelf|\btotal\b|\belf\b,False,cessoes,6,TotalEnergies
+Total E&P do Brasil,TotalEnergies,totalenergies|totalfinaelf|\btotal\b|\belf\b,False,ofertas,11,TotalEnergies
+Total E&P do Brasil Ltda,TotalEnergies,totalenergies|totalfinaelf|\btotal\b|\belf\b,False,cessoes,6,TotalEnergies
+Total E&P do Brasil Ltda.,TotalEnergies,totalenergies|totalfinaelf|\btotal\b|\belf\b,False,cessoes,81,TotalEnergies
+Total Fina,TotalEnergies,totalenergies|totalfinaelf|\btotal\b|\belf\b,False,ofertas,1,TotalEnergies
+TotalEnergies EP,TotalEnergies,totalenergies|totalfinaelf|\btotal\b|\belf\b,False,relacao,9,TotalEnergies
+TotalEnergies EP Brasil Ltda,TotalEnergies,totalenergies|totalfinaelf|\btotal\b|\belf\b,False,cessoes,1,TotalEnergies
+TotalEnergies EP Brasil Ltda.,TotalEnergies,totalenergies|totalfinaelf|\btotal\b|\belf\b,False,cessoes,11,TotalEnergies
+TotalEnergies EP Brasil Ltda. (*),TotalEnergies,totalenergies|totalfinaelf|\btotal\b|\belf\b,False,cessoes,1,TotalEnergies
+TotalFinaElf Petróleo do Brasil Ltda.,TotalEnergies,totalenergies|totalfinaelf|\btotal\b|\belf\b,False,cessoes,11,TotalEnergies
+Trident Energy,Trident Energy,trident,False,relacao,10,Trident Energy
+Trident Energy do Brasil Ltda.,Trident Energy,trident,False,cessoes,10,Trident Energy
+Tucumann,Tucumann,auto,False,ofertas,4,Tucumann
+UNOPASO Exploração e Produção de Petróleo e Gás Ltda.,UNOPASO Exploração e Produção de Petróleo e Gás Ltda.,auto,False,cessoes,8,UNOPASO Exploração e Produção de Petróleo e Gás Ltda.
+UP Petróleo Brasil LTDA.,UP Petróleo Brasil Ltda.,auto,False,cessoes,2,UP Petróleo Brasil Ltda.
+UP Petróleo Brasil Ltda.,UP Petróleo Brasil Ltda.,auto,False,cessoes,3,UP Petróleo Brasil Ltda.
+UPR,UPR,auto,False,ofertas,1,UPR
+Norteoleum Exploração e Produção S.A.,UTC,norteoleum,True,cessoes,7,UTC
+UTC EP,UTC,^utc\b,True,ofertas,6,UTC
+UTC Engenharia S.A.,UTC,^utc\b,True,cessoes,11,UTC
+UTC Engenharia S/A,UTC,^utc\b,True,cessoes,2,UTC
+UTC Exploração e Produção S.A.,UTC,^utc\b,True,cessoes,2,UTC
+UTC O&G S.A.,UTC,^utc\b,True,cessoes,1,UTC
+UTC Óleo e Gás,UTC,^utc\b,True,cessoes,2,UTC
+UTC Óleo e Gás S.A.,UTC,^utc\b,True,cessoes,4,UTC
+Ubuntu,Ubuntu,auto,False,relacao,2,Ubuntu
+Ubuntu Engenharia Ltda.,Ubuntu Engenharia Ltda.,auto,False,cessoes,1,Ubuntu Engenharia Ltda.
+Ubuntu Engenharia e Serviços Ltda.,Ubuntu Engenharia e Serviços Ltda.,auto,False,cessoes,4,Ubuntu Engenharia e Serviços Ltda.
+Univen Refinaria de Petróleo Ltda.,Univen Refinaria de Petróleo Ltda.,auto,False,cessoes,5,Univen Refinaria de Petróleo Ltda.
+Unocal,Unocal,unocal,False,ofertas,1,Chevron
+Unocal Corporation,Unocal,unocal,False,ofertas,1,Chevron
+Unocal do Brasil,Unocal,unocal,False,cessoes,2,Chevron
+Unocal do Brasil Expl. e Prod. de Petróleo e Gás Ltda.,Unocal,unocal,False,cessoes,1,Chevron
+Unocal do Brasil Ltda.,Unocal,unocal,False,cessoes,1,Chevron
+CVRD,Vale,vale do rio doce|\bcvrd\b,False,ofertas,9,Vale
+Companhia Vale do Rio Doce,Vale,vale do rio doce|\bcvrd\b,False,cessoes,8,Vale
+Companhia Vale do Rio Doce S.A.,Vale,vale do rio doce|\bcvrd\b,False,cessoes,2,Vale
+Vale S.A.,Vale S/A,auto,False,cessoes,4,Vale S/A
+Vale S/A,Vale S/A,auto,False,cessoes,8,Vale S/A
+Vanco Brasil Exploração e Produção de Petróleo e Gás Natural Ltda.,Vanco Brasil Exploração e Produção de Petróleo e Gás Natural Ltda.,auto,False,cessoes,9,Vanco Brasil Exploração e Produção de Petróleo e Gás Natural Ltda.
+Vipetro,Vipetro,vipetro,False,"ofertas,relacao",6,Vipetro
+Vipetro Petróleo Ltda.,Vipetro,vipetro,False,cessoes,2,Vipetro
+Vipetro Petróleo S.A.,Vipetro,vipetro,False,cessoes,2,Vipetro
+Vitória Ambiental,Vitória Ambiental,auto,False,ofertas,3,Vitória Ambiental
+Vitória Ambiental Engenharia e Tecnologia Ltda.,Vitória Ambiental Engenharia e Tecnologia Ltda.,auto,False,cessoes,2,Vitória Ambiental Engenharia e Tecnologia Ltda.
+Vultur Oil,Vultur Oil,auto,False,relacao,2,Vultur Oil
+Vultur Oil Ltda.,Vultur Oil,auto,False,cessoes,2,Vultur Oil
+W. Petróleo S.A.,W. Petróleo S.A.,auto,False,cessoes,1,W. Petróleo S.A.
+W. Petróleo S/A,W. Petróleo S.A.,auto,False,cessoes,1,W. Petróleo S.A.
+W. Washington,W. Washington,w ?washington,True,ofertas,10,W. Washington
+W. Washington Empreendimentos Participação e Transporte Ltda.,W. Washington,w ?washington,True,cessoes,4,W. Washington
+W. Washington Empreendimentos e Participações Ltda.,W. Washington,w ?washington,True,cessoes,35,W. Washington
+W. Washington Petróleo S.A.,W. Washington,w ?washington,True,cessoes,17,W. Washington
+W.Washington - BA,W. Washington,w ?washington,True,ofertas,5,W. Washington
+W.Washington Empreendimentos e Participações Ltda.,W. Washington,w ?washington,True,cessoes,5,W. Washington
+Westlawn Energia,Westlawn Energia,auto,False,relacao,1,Westlawn Energia
+Westlawn Energia Brasil Ltda,Westlawn Energia Brasil Ltda.,auto,False,cessoes,1,Westlawn Energia Brasil Ltda.
+Westlawn Energia Brasil Ltda.,Westlawn Energia Brasil Ltda.,auto,False,cessoes,2,Westlawn Energia Brasil Ltda.
+Wintershall,Wintershall,wintershall,False,ofertas,3,Wintershall
+Wintershall BM-ES-1 Ltda.,Wintershall,wintershall,False,cessoes,3,Wintershall
+Wintershall BM-S-14 Ltda.,Wintershall,wintershall,False,cessoes,2,Wintershall
+Wintershall Brasil,Wintershall,wintershall,False,ofertas,2,Wintershall
+Wintershall Dea do Brasil E&P Ltda.,Wintershall,wintershall,False,cessoes,7,Wintershall
+Wintershall Dea do Brasil Exploração e Produção Ltda.,Wintershall,wintershall,False,cessoes,11,Wintershall
+Wintershall Holding,Wintershall,wintershall,False,ofertas,7,Wintershall
+Wintershall do Brasil Exploração e Produção Ltda,Wintershall,wintershall,False,cessoes,2,Wintershall
+Woodside Energia (Brasil) Inves. Explor. Petróleo Ltda.,Woodside,woodside,False,cessoes,4,Woodside
+Woodside Energia (Brasil) Investimento em Exploração de Petróleo Ltda.,Woodside,woodside,False,cessoes,4,Woodside
+Woodside Energia (Brasil) Investimentos e Exploração de Petróleo Ltda.,Woodside,woodside,False,cessoes,2,Woodside
+YPF,YPF,auto,False,ofertas,5,Repsol
+Água Grande Exploração e Produção de Petróleo Ltda.,Água Grande Exploração e Produção de Petróleo Ltda.,auto,False,cessoes,1,Água Grande Exploração e Produção de Petróleo Ltda.

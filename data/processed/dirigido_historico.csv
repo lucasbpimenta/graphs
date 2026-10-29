@@ -1,0 +1,100 @@
+operadora,parceira,peso
+BG,Galp,4
+BG,Petrobras,4
+BG,Repsol,2
+BP,British-Borneo,1
+BP,Equinor,2
+BP,ExxonMobil,1
+BP,Petrobras,2
+BP,Shell,1
+BP,TotalEnergies,1
+CNOOC,Sinopec,1
+Chevron,CNPC,9
+Chevron,Ecopetrol,1
+Chevron,Petrobras,1
+Chevron,Repsol,3
+Chevron,Wintershall,3
+Coastal,Encana,1
+Devon,Encana,1
+Devon,Kerr-McGee,2
+Devon,Odebrecht,1
+Devon,Petrobras,2
+Devon,SK,3
+Enauta,Pacific Brasil,3
+Enauta,Petra Energia,2
+Enauta,Premier Oil,1
+Eni,YPF,1
+Equinor,Enauta,2
+Equinor,ExxonMobil,1
+Equinor,Galp,1
+Equinor,Petrobras,4
+Equinor,TotalEnergies,2
+ExxonMobil,Enauta,7
+ExxonMobil,Kerr-McGee,1
+ExxonMobil,Murphy,7
+ExxonMobil,OGX/Dommo,2
+ExxonMobil,Petrobras,8
+ExxonMobil,QatarEnergy,4
+Hess,Kerr-McGee,1
+Hess,Ocean Energy,1
+Hess,Odebrecht,1
+Hess,Petrobras,1
+Hess,Repsol,1
+Maersk Oil,OGX/Dommo,2
+Maersk Oil,Petrobras,1
+Niko Resources,Petra Energia,2
+Ocean Energy,Hess,1
+Panoro Energy,Brasoil,3
+Perenco,OGX/Dommo,5
+Petrobras,BG,5
+Petrobras,BP,3
+Petrobras,CNOOC,5
+Petrobras,CNPC,3
+Petrobras,Chevron,1
+Petrobras,Devon,1
+Petrobras,Ecopetrol,6
+Petrobras,El Paso,5
+Petrobras,Enauta,8
+Petrobras,Encana,9
+Petrobras,Eni,1
+Petrobras,Enterprise Oil,1
+Petrobras,Equinor,11
+Petrobras,ExxonMobil,14
+Petrobras,Galp,21
+Petrobras,Hess,1
+Petrobras,Kerr-McGee,4
+Petrobras,Maersk Oil,2
+Petrobras,Partex,1
+Petrobras,Petronas,2
+Petrobras,Petroserv S/A,2
+Petrobras,QatarEnergy,2
+Petrobras,Repsol,7
+Petrobras,Shell,45
+Petrobras,TotalEnergies,5
+Petrobras,Unocal,1
+Petrobras,Vale,7
+Petrobras,YPF,2
+Premier Oil,Cepsa,2
+Repsol,Chevron,3
+Repsol,Enterprise Oil,1
+Repsol,Equinor,2
+Repsol,Wintershall,2
+SHB,Petrobras,1
+Shell,Chevron,3
+Shell,Ecopetrol,8
+Shell,Galp,1
+Shell,Petrobras,1
+Shell,QatarEnergy,2
+Shell,Repsol,1
+Shell,TotalEnergies,1
+Sinochem,Equinor,2
+TotalEnergies,BP,5
+TotalEnergies,Enauta,1
+TotalEnergies,Enterprise Oil,1
+TotalEnergies,OGX/Dommo,1
+TotalEnergies,Petrobras,6
+TotalEnergies,Petronas,1
+TotalEnergies,QatarEnergy,1
+TotalEnergies,Shell,1
+Unocal,Chevron,1
+Unocal,YPF,1

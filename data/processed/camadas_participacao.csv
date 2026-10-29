@@ -1,0 +1,60 @@
+rede,grupo,grau_sobreposto,n_camadas,participacao,grau_OPC,grau_concessao,grau_outros,grau_partilha,grau_rodada_zero
+arremate,Petrobras,36,4,0.9526748971193415,4,13,8,11,
+arremate,Shell,19,4,0.9529085872576177,3,7,3,6,
+arremate,TotalEnergies,13,2,0.6627218934911242,0,6,0,7,
+arremate,ExxonMobil,13,4,0.9940828402366864,3,4,3,3,
+arremate,Brava Energia,10,3,0.8533333333333332,2,4,4,0,
+arremate,QatarEnergy,9,2,0.5925925925925926,0,6,0,3,
+arremate,CNOOC,7,2,0.5442176870748299,2,0,0,5,
+arremate,Occidental,7,2,0.5442176870748299,0,5,2,0,
+arremate,Chevron,6,3,0.8148148148148149,1,3,2,0,
+arremate,Equinor,6,2,0.6666666666666666,0,3,0,3,
+arremate,Galp,6,3,0.8148148148148149,1,2,0,3,
+arremate,CNPC,5,2,0.4266666666666664,1,0,0,4,
+arremate,Repsol,5,2,0.6399999999999999,0,3,0,2,
+arremate,Petronas,5,2,0.6399999999999999,0,2,0,3,
+arremate,Murphy,4,2,0.6666666666666666,2,2,0,0,
+arremate,Devon,4,1,0.0,0,4,0,0,
+arremate,Encana,4,1,0.0,0,4,0,0,
+arremate,SK,4,1,0.0,0,4,0,0,
+arremate,Ecopetrol,4,3,0.8333333333333333,1,1,0,2,
+arremate,BP,3,2,0.5925925925925926,0,2,0,1,
+arremate,Coplex Petróleo do Brasil Ltda.,3,1,0.0,0,0,3,0,
+arremate,Starfish Oil & Gás S/A,3,1,0.0,0,0,3,0,
+arremate,Pacific Brasil,2,1,0.0,0,2,0,0,
+arremate,Petroserv S/A,2,1,0.0,0,0,2,0,
+arremate,Premier Oil,2,1,0.0,0,2,0,0,
+arremate,Odebrecht,2,1,0.0,0,2,0,0,
+arremate,Hess,2,1,0.0,0,2,0,0,
+arremate,Sinopec,1,1,0.0,0,0,0,1,
+arremate,El Paso,1,1,0.0,0,1,0,0,
+atual,Petrobras,40,5,0.9484374999999999,4,13,4,11,8.0
+atual,Shell,19,5,0.9072022160664821,3,7,2,6,1.0
+atual,TotalEnergies,13,3,0.710059171597633,1,6,0,6,0.0
+atual,ExxonMobil,10,3,0.8250000000000001,3,4,0,3,0.0
+atual,QatarEnergy,10,3,0.675,1,6,0,3,0.0
+atual,Brava Energia,9,3,0.6172839506172839,2,0,6,0,1.0
+atual,Equinor,9,3,0.7098765432098765,0,5,0,3,1.0
+atual,Galp,9,3,0.7098765432098765,1,5,0,3,0.0
+atual,CNOOC,7,2,0.5102040816326531,2,0,0,5,0.0
+atual,Repsol,7,3,0.7142857142857142,0,4,0,2,1.0
+atual,Petronas,7,3,0.7653061224489797,0,3,0,3,1.0
+atual,PRIO,6,2,0.5555555555555556,0,2,0,0,4.0
+atual,Panoro Energy,5,2,0.6,0,0,2,0,3.0
+atual,CNPC,5,2,0.3999999999999998,1,0,0,4,0.0
+atual,BS-3 S/A,3,1,0.0,0,0,0,0,3.0
+atual,ONGC,3,2,0.5555555555555556,0,1,2,0,0.0
+atual,Chevron,3,2,0.5555555555555556,1,2,0,0,0.0
+atual,Ecopetrol,3,3,0.8333333333333335,1,1,0,1,0.0
+atual,BP,2,2,0.625,0,1,0,1,0.0
+atual,Brasoil,2,1,0.0,0,0,2,0,0.0
+atual,Gas Bridge,2,1,0.0,0,0,2,0,0.0
+atual,Murphy,2,1,0.0,2,0,0,0,0.0
+atual,Sinopec,2,2,0.625,0,1,0,1,0.0
+atual,IBV Brasil,2,1,0.0,0,2,0,0,0.0
+atual,Aquamarine,1,1,0.0,0,1,0,0,0.0
+atual,BW Energy,1,1,0.0,0,1,0,0,0.0
+atual,Nova Técnica,1,1,0.0,0,0,1,0,0.0
+atual,Westlawn Energia,1,1,0.0,0,0,1,0,0.0
+atual,Karoon,1,1,0.0,0,1,0,0,0.0
+atual,SPE Tiêta,1,1,0.0,0,0,0,0,1.0
