@@ -1,4 +1,4 @@
-"""Figuras do main_novo.tex (mar, grupo atual). Saidas em figures/:
+"""Figuras do main_novo.tex (mar, grupo atual). Saidas em figures/ (PNG e PDF vetorial):
   fig1_rede_atual.png       grafo simples da rede atual, vertice proporcional a intermediacao
   fig2_nucleo_ponderado.png 4-core da rede atual, espessura da aresta proporcional ao peso
   fig3_antes_depois.png     uniao das redes no arremate e atual: arestas mantidas, perdidas, criadas
@@ -21,7 +21,13 @@ AZUL, LARANJA, AQUA = "#2a78d6", "#eb6834", "#1baf7a"
 TINTA, TINTA2, CINZA, FUNDO = "#0b0b0b", "#52514e", "#b9b8b3", "#ffffff"
 plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 9, "axes.edgecolor": TINTA2,
                      "axes.labelcolor": TINTA, "xtick.color": TINTA2, "ytick.color": TINTA2,
-                     "savefig.dpi": 300, "savefig.facecolor": FUNDO})
+                     "savefig.dpi": 300, "savefig.facecolor": FUNDO, "pdf.fonttype": 42})
+
+
+def salvar(fig, nome):
+    # PNG para conferencia e PDF vetorial (fontes embutidas) para a submissao
+    fig.savefig(FIG / f"{nome}.png")
+    fig.savefig(FIG / f"{nome}.pdf")
 
 CURTO = {"Coplex Petróleo do Brasil Ltda.": "Coplex", "Petroserv S/A": "Petroserv",
          "Starfish Oil & Gás S/A": "Starfish", "BS-3 S/A": "BS-3", "Westlawn Energia": "Westlawn",
@@ -40,8 +46,13 @@ U = nx.compose(G_ini, G_fim)
 
 def layout(G, semente=7):
     # componentes pequenos ao lado do principal
-    comps = sorted(nx.connected_components(G), key=len, reverse=True)
-    pos = nx.spring_layout(G.subgraph(comps[0]), k=1.6 / len(comps[0]) ** 0.5, iterations=800,
+    comps = sorted(nx.connected_components(G), key=lambda c: (-len(c), sorted(c)))
+    # ordem fixa de vertices e arestas: o spring_layout depende dela, e a ordem de um conjunto
+    # muda entre execucoes do Python
+    H = nx.Graph()
+    H.add_nodes_from(sorted(comps[0]))
+    H.add_edges_from(sorted(tuple(sorted(e)) for e in G.subgraph(comps[0]).edges()))
+    pos = nx.spring_layout(H, k=1.6 / len(comps[0]) ** 0.5, iterations=800,
                            seed=semente, weight=None)
     x0 = max(x for x, _ in pos.values()) + 0.25
     y0 = min(y for _, y in pos.values())
@@ -68,14 +79,18 @@ nx.draw_networkx_nodes(G_fim, pos, ax=ax, node_color=AZUL, edgecolors=FUNDO, lin
 rotulos(ax, pos, list(G_fim))
 ax.axis("off")
 fig.tight_layout()
-fig.savefig(FIG / "fig1_rede_atual.png")
+salvar(fig, "fig1_rede_atual")
 plt.close(fig)
 
 # ---------------------------------------------------------------- fig 2
-core = nx.k_core(G_fim, 4)
+k4 = nx.k_core(G_fim, 4)
+core = nx.Graph()  # ordem fixa, pelo mesmo motivo de layout()
+core.add_nodes_from(sorted(k4))
+core.add_edges_from(sorted((*sorted((u, v)), d) for u, v, d in k4.edges(data=True)))
 w = nx.get_edge_attributes(core, "weight")
 fig, ax = plt.subplots(figsize=(6.5, 5))
-pc = nx.kamada_kawai_layout(core)
+# semente escolhida entre 60 pela maior distancia minima entre vertices
+pc = nx.spring_layout(core, k=1.2, iterations=800, seed=32, weight=None)
 nx.draw_networkx_edges(core, pc, ax=ax, edge_color=TINTA2, alpha=0.7,
                        width=[0.6 + 0.18 * w[e] for e in core.edges])
 nx.draw_networkx_nodes(core, pc, ax=ax, node_color=AZUL, edgecolors=FUNDO, linewidths=1.5,
@@ -90,17 +105,17 @@ for (u, v), peso in w.items():
                 va="center", bbox=dict(boxstyle="round,pad=0.15", fc=FUNDO, ec="none"))
 ax.axis("off")
 fig.tight_layout()
-fig.savefig(FIG / "fig2_nucleo_ponderado.png")
+salvar(fig, "fig2_nucleo_ponderado")
 plt.close(fig)
 
 # ---------------------------------------------------------------- fig 3
 e_ini, e_fim = set(map(frozenset, G_ini.edges)), set(map(frozenset, G_fim.edges))
 tipos = {"Kept": (e_ini & e_fim, AZUL, "solid"), "Lost": (e_ini - e_fim, LARANJA, "dashed"),
          "Created": (e_fim - e_ini, AQUA, "solid")}
-pos = layout(U, semente=3)
+pos = layout(U, semente=39)  # escolhida entre 60 pela maior distancia minima entre vertices
 fig, ax = plt.subplots(figsize=(7.5, 6.5))
 for tipo, (es, cor, estilo) in tipos.items():
-    nx.draw_networkx_edges(U, pos, ax=ax, edgelist=[tuple(e) for e in es], edge_color=cor, style=estilo,
+    nx.draw_networkx_edges(U, pos, ax=ax, edgelist=sorted(tuple(sorted(e)) for e in es), edge_color=cor, style=estilo,
                            width=1.6 if tipo != "Kept" else 1.0)
 so_ini, so_fim = set(G_ini) - set(G_fim), set(G_fim) - set(G_ini)
 cor_no = [LARANJA if n in so_ini else AQUA if n in so_fim else TINTA2 for n in U]
@@ -111,10 +126,10 @@ ax.legend(handles=[Line2D([], [], color=AZUL, lw=1.4, label=f"Kept ({len(tipos['
                    Line2D([], [], color=AQUA, lw=1.6, label=f"Created ({len(tipos['Created'][0])})"),
                    Line2D([], [], marker="o", ls="", color=LARANJA, label="Group only at award"),
                    Line2D([], [], marker="o", ls="", color=AQUA, label="Group only today")],
-          loc="lower left", frameon=False, fontsize=8)
+          loc="upper right", frameon=False, fontsize=8)
 ax.axis("off")
 fig.tight_layout()
-fig.savefig(FIG / "fig3_antes_depois.png")
+salvar(fig, "fig3_antes_depois")
 plt.close(fig)
 
 # ---------------------------------------------------------------- fig 4
@@ -136,6 +151,6 @@ for ax, (rede, titulo) in zip(axs, (("arremate", "Award network"), ("atual", "Cu
 axs[0].set_ylabel("Largest component / initial groups")
 axs[1].legend(frameon=False, fontsize=8, loc="upper right")
 fig.tight_layout()
-fig.savefig(FIG / "fig4_robustez.png")
+salvar(fig, "fig4_robustez")
 plt.close(fig)
 print("figuras em", FIG)
